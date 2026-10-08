@@ -1,0 +1,4992 @@
+"lsoa_name","average","z_log","percentile_rank"
+"Westminster 013G",1081,6.38,100.00
+"Westminster 013B",832,6.02,99.98
+"Westminster 018A",726,5.83,99.96
+"Westminster 018C",441,5.15,99.94
+"Newham 039D",324,4.73,99.92
+"Westminster 011B",296,4.60,99.90
+"Westminster 018B",276,4.51,99.88
+"Hillingdon 031A",267,4.46,99.86
+"Kingston upon Thames 009C",255,4.40,99.84
+"Hammersmith and Fulham 004A",219,4.19,99.82
+"Westminster 011E",187,3.98,99.80
+"Westminster 013D",179,3.92,99.78
+"Camden 026E",168,3.83,99.76
+"Camden 028D",165,3.80,99.72
+"Hounslow 018F",165,3.80,99.72
+"Westminster 018D",160,3.76,99.68
+"Hackney 033C",160,3.76,99.68
+"Camden 021A",159,3.75,99.66
+"Lambeth 036E",158,3.74,99.64
+"Lambeth 011B",154,3.71,99.62
+"Camden 028A",148,3.66,99.60
+"Lambeth 036A",147,3.65,99.58
+"Westminster 019G",143,3.61,99.56
+"Westminster 020A",142,3.60,99.54
+"Ealing 042A",137,3.55,99.50
+"Westminster 020C",137,3.55,99.50
+"Camden 028B",129,3.47,99.48
+"Camden 022F",126,3.43,99.46
+"Southwark 002B",124,3.41,99.44
+"Hammersmith and Fulham 013C",116,3.32,99.42
+"Redbridge 039C",114,3.30,99.40
+"Camden 026A",111,3.26,99.38
+"Brent 035D",110,3.25,99.36
+"Islington 023D",108,3.22,99.34
+"Harrow 023C",104,3.17,99.32
+"Haringey 024B",103,3.16,99.30
+"Westminster 015G",100,3.12,99.28
+"Camden 028C",98,3.09,99.24
+"Westminster 023E",98,3.09,99.24
+"Tower Hamlets 033B",97,3.08,99.18
+"Haringey 016B",97,3.08,99.18
+"Ealing 023E",97,3.08,99.18
+"Bromley 008B",96,3.06,99.16
+"Enfield 030D",94,3.03,99.14
+"Kensington and Chelsea 005A",93,3.02,99.10
+"Greenwich 040A",93,3.02,99.10
+"Islington 004B",92,3.00,99.08
+"Havering 013C",90,2.97,98.96
+"Islington 020B",90,2.97,98.96
+"Haringey 016A",90,2.97,98.96
+"Lewisham 041B",90,2.97,98.96
+"Southwark 035A",90,2.97,98.96
+"Newham 012F",90,2.97,98.96
+"Waltham Forest 017C",89,2.96,98.92
+"Enfield 012F",89,2.96,98.92
+"Southwark 022E",88,2.94,98.90
+"Westminster 012B",87,2.93,98.86
+"Havering 013E",87,2.93,98.86
+"Camden 021C",85,2.90,98.82
+"Redbridge 022B",85,2.90,98.82
+"Wandsworth 035A",83,2.86,98.78
+"Waltham Forest 024C",83,2.86,98.78
+"Newham 018B",81,2.83,98.74
+"Barking and Dagenham 015E",81,2.83,98.74
+"Redbridge 029A",80,2.81,98.70
+"Islington 005B",80,2.81,98.70
+"Ealing 043B",79,2.80,98.68
+"Tower Hamlets 015D",78,2.78,98.62
+"Westminster 012A",78,2.78,98.62
+"Tower Hamlets 013C",78,2.78,98.62
+"Islington 022D",76,2.74,98.58
+"Hackney 033B",76,2.74,98.58
+"Croydon 020B",75,2.73,98.50
+"Lewisham 020B",75,2.73,98.50
+"Hackney 030A",75,2.73,98.50
+"Newham 012C",75,2.73,98.50
+"Southwark 002E",74,2.71,98.42
+"Haringey 037A",74,2.71,98.42
+"Hackney 017C",74,2.71,98.42
+"Lambeth 012B",74,2.71,98.42
+"Tower Hamlets 015B",73,2.69,98.36
+"Hillingdon 016C",73,2.69,98.36
+"Sutton 012G",73,2.69,98.36
+"Southwark 006F",72,2.67,98.34
+"Islington 007F",71,2.65,98.32
+"Tower Hamlets 010G",70,2.63,98.30
+"Kensington and Chelsea 012A",69,2.61,98.18
+"Hillingdon 026D",69,2.61,98.18
+"Islington 021B",69,2.61,98.18
+"Haringey 031C",69,2.61,98.18
+"Southwark 002C",69,2.61,98.18
+"Newham 033E",69,2.61,98.18
+"Kensington and Chelsea 012B",67,2.57,98.16
+"Barnet 039D",65,2.53,98.12
+"Newham 034K",65,2.53,98.12
+"Richmond upon Thames 008B",64,2.51,98.06
+"Camden 027B",64,2.51,98.06
+"Brent 027H",64,2.51,98.06
+"Camden 022E",63,2.49,98.02
+"Croydon 046D",63,2.49,98.02
+"Tower Hamlets 017A",62,2.46,97.96
+"Croydon 046C",62,2.46,97.96
+"Wandsworth 021B",62,2.46,97.96
+"Wandsworth 010E",61,2.44,97.92
+"Lambeth 004A",61,2.44,97.92
+"Wandsworth 027F",59,2.40,97.82
+"Lewisham 041D",59,2.40,97.82
+"Bexley 015B",59,2.40,97.82
+"Brent 021B",59,2.40,97.82
+"Croydon 024G",59,2.40,97.82
+"Ealing 015E",58,2.37,97.80
+"Hackney 023F",57,2.35,97.72
+"Wandsworth 012E",57,2.35,97.72
+"Brent 031B",57,2.35,97.72
+"Southwark 009H",57,2.35,97.72
+"Camden 026B",56,2.33,97.66
+"Westminster 008D",56,2.33,97.66
+"Southwark 021C",56,2.33,97.66
+"Lambeth 016D",55,2.30,97.60
+"Hackney 018D",55,2.30,97.60
+"Islington 023A",55,2.30,97.60
+"Greenwich 042B",54,2.28,97.45
+"Lambeth 003F",54,2.28,97.45
+"Haringey 004D",54,2.28,97.45
+"Waltham Forest 006D",54,2.28,97.45
+"Camden 023F",54,2.28,97.45
+"Lambeth 017C",54,2.28,97.45
+"Enfield 012D",54,2.28,97.45
+"Southwark 002G",53,2.25,97.37
+"Hackney 019A",53,2.25,97.37
+"Bromley 018G",53,2.25,97.37
+"Hillingdon 017B",53,2.25,97.37
+"Lambeth 029C",52,2.22,97.25
+"Barking and Dagenham 021E",52,2.22,97.25
+"Harrow 020B",52,2.22,97.25
+"Camden 017A",52,2.22,97.25
+"Westminster 023H",52,2.22,97.25
+"Croydon 020H",52,2.22,97.25
+"Bromley 006D",51,2.20,97.13
+"Barking and Dagenham 018E",51,2.20,97.13
+"Barking and Dagenham 015F",51,2.20,97.13
+"Lambeth 014C",51,2.20,97.13
+"Kensington and Chelsea 004C",51,2.20,97.13
+"Islington 020A",51,2.20,97.13
+"Tower Hamlets 033A",50,2.17,97.03
+"Redbridge 022A",50,2.17,97.03
+"Haringey 016D",50,2.17,97.03
+"Barking and Dagenham 015A",50,2.17,97.03
+"Croydon 046B",50,2.17,97.03
+"Barnet 017B",49,2.14,96.87
+"Brent 020G",49,2.14,96.87
+"Southwark 014F",49,2.14,96.87
+"Westminster 011D",49,2.14,96.87
+"Bromley 028C",49,2.14,96.87
+"Greenwich 015C",49,2.14,96.87
+"Greenwich 042D",49,2.14,96.87
+"Southwark 034D",49,2.14,96.87
+"Hounslow 014C",48,2.11,96.77
+"Camden 010D",48,2.11,96.77
+"Islington 013D",48,2.11,96.77
+"Lambeth 036D",48,2.11,96.77
+"Hounslow 025G",48,2.11,96.77
+"Camden 018B",47,2.09,96.71
+"Westminster 012C",47,2.09,96.71
+"Westminster 017F",47,2.09,96.71
+"Westminster 009J",46,2.06,96.53
+"Hammersmith and Fulham 013D",46,2.06,96.53
+"Croydon 004C",46,2.06,96.53
+"Enfield 020F",46,2.06,96.53
+"Hammersmith and Fulham 005C",46,2.06,96.53
+"Hillingdon 027E",46,2.06,96.53
+"Camden 020B",46,2.06,96.53
+"Enfield 033F",46,2.06,96.53
+"Lewisham 039D",46,2.06,96.53
+"Southwark 007B",45,2.03,96.41
+"Merton 009D",45,2.03,96.41
+"Hounslow 005C",45,2.03,96.41
+"Lambeth 018E",45,2.03,96.41
+"Hillingdon 027I",45,2.03,96.41
+"Hackney 017A",45,2.03,96.41
+"Westminster 005B",44,2.00,96.15
+"Ealing 012C",44,2.00,96.15
+"Southwark 009G",44,2.00,96.15
+"Croydon 037E",44,2.00,96.15
+"Hackney 030B",44,2.00,96.15
+"Westminster 013A",44,2.00,96.15
+"Brent 008D",44,2.00,96.15
+"Southwark 022D",44,2.00,96.15
+"Enfield 015C",44,2.00,96.15
+"Wandsworth 038D",44,2.00,96.15
+"Kensington and Chelsea 016F",44,2.00,96.15
+"Hammersmith and Fulham 016C",44,2.00,96.15
+"Camden 021B",44,2.00,96.15
+"Hillingdon 015H",43,1.96,95.81
+"Camden 001E",43,1.96,95.81
+"Newham 028A",43,1.96,95.81
+"Tower Hamlets 027B",43,1.96,95.81
+"Westminster 022B",43,1.96,95.81
+"Lewisham 039C",43,1.96,95.81
+"Islington 022F",43,1.96,95.81
+"Hillingdon 033B",43,1.96,95.81
+"Islington 021A",43,1.96,95.81
+"Newham 036D",43,1.96,95.81
+"Islington 003A",43,1.96,95.81
+"Islington 011H",43,1.96,95.81
+"Croydon 015D",43,1.96,95.81
+"Southwark 034C",43,1.96,95.81
+"Southwark 017B",43,1.96,95.81
+"Waltham Forest 026D",43,1.96,95.81
+"Kensington and Chelsea 012C",43,1.96,95.81
+"Brent 026E",42,1.93,95.59
+"Westminster 008C",42,1.93,95.59
+"Westminster 019E",42,1.93,95.59
+"Hammersmith and Fulham 007D",42,1.93,95.59
+"Wandsworth 034D",42,1.93,95.59
+"Haringey 025B",42,1.93,95.59
+"Barnet 038D",42,1.93,95.59
+"Camden 013C",42,1.93,95.59
+"Newham 008A",42,1.93,95.59
+"Westminster 020E",42,1.93,95.59
+"Hounslow 029E",42,1.93,95.59
+"Ealing 028F",41,1.90,95.39
+"Bexley 015A",41,1.90,95.39
+"Hackney 014B",41,1.90,95.39
+"Barnet 039A",41,1.90,95.39
+"Harrow 013A",41,1.90,95.39
+"Westminster 017C",41,1.90,95.39
+"Lewisham 007A",41,1.90,95.39
+"Bexley 003B",41,1.90,95.39
+"Barnet 024D",41,1.90,95.39
+"Southwark 016E",41,1.90,95.39
+"Greenwich 039D",40,1.87,95.21
+"Brent 028D",40,1.87,95.21
+"Waltham Forest 017A",40,1.87,95.21
+"Bexley 004A",40,1.87,95.21
+"Barnet 018B",40,1.87,95.21
+"Greenwich 038B",40,1.87,95.21
+"Southwark 002F",40,1.87,95.21
+"Hackney 033A",40,1.87,95.21
+"Greenwich 035F",40,1.87,95.21
+"Kensington and Chelsea 013D",39,1.83,95.01
+"Islington 023B",39,1.83,95.01
+"Croydon 047B",39,1.83,95.01
+"Ealing 028A",39,1.83,95.01
+"Haringey 015F",39,1.83,95.01
+"Brent 020F",39,1.83,95.01
+"Newham 018A",39,1.83,95.01
+"Kensington and Chelsea 018D",39,1.83,95.01
+"Lewisham 040C",39,1.83,95.01
+"Lambeth 013C",39,1.83,95.01
+"Sutton 012F",38,1.79,94.79
+"Camden 008E",38,1.79,94.79
+"Wandsworth 018F",38,1.79,94.79
+"Tower Hamlets 008F",38,1.79,94.79
+"Enfield 033E",38,1.79,94.79
+"Redbridge 039B",38,1.79,94.79
+"Havering 004B",38,1.79,94.79
+"Camden 019A",38,1.79,94.79
+"Richmond upon Thames 014C",38,1.79,94.79
+"Newham 017B",38,1.79,94.79
+"Croydon 022B",38,1.79,94.79
+"Kensington and Chelsea 016C",37,1.76,94.49
+"Bexley 016B",37,1.76,94.49
+"Tower Hamlets 007A",37,1.76,94.49
+"Croydon 010E",37,1.76,94.49
+"Camden 020C",37,1.76,94.49
+"Bromley 009F",37,1.76,94.49
+"Hackney 020G",37,1.76,94.49
+"Southwark 012E",37,1.76,94.49
+"Brent 022D",37,1.76,94.49
+"Ealing 025C",37,1.76,94.49
+"Brent 035B",37,1.76,94.49
+"Havering 030B",37,1.76,94.49
+"Lambeth 011F",37,1.76,94.49
+"Hackney 007D",37,1.76,94.49
+"Camden 029A",37,1.76,94.49
+"Enfield 037E",36,1.72,94.13
+"Havering 020C",36,1.72,94.13
+"Croydon 024B",36,1.72,94.13
+"Wandsworth 008C",36,1.72,94.13
+"Bromley 019A",36,1.72,94.13
+"Greenwich 027D",36,1.72,94.13
+"Greenwich 035B",36,1.72,94.13
+"Kensington and Chelsea 007A",36,1.72,94.13
+"Kensington and Chelsea 014A",36,1.72,94.13
+"Newham 030D",36,1.72,94.13
+"Brent 036A",36,1.72,94.13
+"Southwark 024A",36,1.72,94.13
+"Hackney 022D",36,1.72,94.13
+"Merton 003C",36,1.72,94.13
+"Newham 036E",36,1.72,94.13
+"Camden 019B",36,1.72,94.13
+"Redbridge 014E",36,1.72,94.13
+"Southwark 034B",36,1.72,94.13
+"Southwark 025B",35,1.68,93.91
+"Haringey 012B",35,1.68,93.91
+"Haringey 011D",35,1.68,93.91
+"Tower Hamlets 026E",35,1.68,93.91
+"Enfield 027B",35,1.68,93.91
+"Hillingdon 022H",35,1.68,93.91
+"Enfield 016D",35,1.68,93.91
+"Lambeth 036C",35,1.68,93.91
+"Hammersmith and Fulham 020A",35,1.68,93.91
+"Haringey 012D",35,1.68,93.91
+"Enfield 036E",35,1.68,93.91
+"Waltham Forest 022A",34,1.64,93.61
+"Brent 032E",34,1.64,93.61
+"Hillingdon 022G",34,1.64,93.61
+"Southwark 002D",34,1.64,93.61
+"Tower Hamlets 013D",34,1.64,93.61
+"Barking and Dagenham 014C",34,1.64,93.61
+"Camden 019D",34,1.64,93.61
+"Havering 013B",34,1.64,93.61
+"Barnet 035C",34,1.64,93.61
+"Croydon 019E",34,1.64,93.61
+"Kensington and Chelsea 001A",34,1.64,93.61
+"Tower Hamlets 035B",34,1.64,93.61
+"Southwark 009B",34,1.64,93.61
+"Brent 009F",34,1.64,93.61
+"Brent 002F",34,1.64,93.61
+"Haringey 025A",33,1.60,93.11
+"Ealing 025E",33,1.60,93.11
+"Waltham Forest 020C",33,1.60,93.11
+"Southwark 006E",33,1.60,93.11
+"Greenwich 028C",33,1.60,93.11
+"Barnet 019F",33,1.60,93.11
+"Tower Hamlets 021F",33,1.60,93.11
+"Lambeth 010D",33,1.60,93.11
+"Tower Hamlets 009F",33,1.60,93.11
+"Wandsworth 010I",33,1.60,93.11
+"Hounslow 018A",33,1.60,93.11
+"Kensington and Chelsea 020E",33,1.60,93.11
+"Tower Hamlets 004E",33,1.60,93.11
+"Newham 034A",33,1.60,93.11
+"Tower Hamlets 011A",33,1.60,93.11
+"Lambeth 004I",33,1.60,93.11
+"Bromley 036C",33,1.60,93.11
+"Croydon 024H",33,1.60,93.11
+"Camden 003C",33,1.60,93.11
+"Hackney 023C",33,1.60,93.11
+"Hillingdon 033A",33,1.60,93.11
+"Kensington and Chelsea 002C",33,1.60,93.11
+"Redbridge 007G",33,1.60,93.11
+"Tower Hamlets 003E",33,1.60,93.11
+"Wandsworth 038A",33,1.60,93.11
+"Newham 012D",32,1.56,92.75
+"Bromley 024A",32,1.56,92.75
+"Hillingdon 015C",32,1.56,92.75
+"Newham 014D",32,1.56,92.75
+"Tower Hamlets 003C",32,1.56,92.75
+"Greenwich 041G",32,1.56,92.75
+"Havering 028A",32,1.56,92.75
+"Hackney 032D",32,1.56,92.75
+"Brent 014C",32,1.56,92.75
+"Redbridge 032H",32,1.56,92.75
+"Kingston upon Thames 011B",32,1.56,92.75
+"Camden 029C",32,1.56,92.75
+"Hounslow 006B",32,1.56,92.75
+"Bromley 004A",32,1.56,92.75
+"Hillingdon 031B",32,1.56,92.75
+"Croydon 020E",32,1.56,92.75
+"Hounslow 015F",32,1.56,92.75
+"Greenwich 003D",32,1.56,92.75
+"Hillingdon 030F",31,1.52,92.38
+"Camden 029B",31,1.52,92.38
+"Havering 005D",31,1.52,92.38
+"Kensington and Chelsea 008C",31,1.52,92.38
+"Kensington and Chelsea 006C",31,1.52,92.38
+"Merton 023A",31,1.52,92.38
+"Hammersmith and Fulham 013B",31,1.52,92.38
+"Newham 022A",31,1.52,92.38
+"Camden 002C",31,1.52,92.38
+"Croydon 007A",31,1.52,92.38
+"Merton 005G",31,1.52,92.38
+"Hackney 014C",31,1.52,92.38
+"Ealing 038A",31,1.52,92.38
+"Enfield 014E",31,1.52,92.38
+"Croydon 011E",31,1.52,92.38
+"Newham 040A",31,1.52,92.38
+"Bromley 018C",31,1.52,92.38
+"Sutton 017D",31,1.52,92.38
+"Lewisham 005E",30,1.47,92.00
+"Hackney 002A",30,1.47,92.00
+"Islington 006C",30,1.47,92.00
+"Newham 018D",30,1.47,92.00
+"Ealing 026C",30,1.47,92.00
+"Tower Hamlets 015E",30,1.47,92.00
+"Westminster 016B",30,1.47,92.00
+"Tower Hamlets 006E",30,1.47,92.00
+"Hackney 017B",30,1.47,92.00
+"Newham 021B",30,1.47,92.00
+"Kensington and Chelsea 003C",30,1.47,92.00
+"Kensington and Chelsea 019E",30,1.47,92.00
+"Wandsworth 010K",30,1.47,92.00
+"Hillingdon 031C",30,1.47,92.00
+"Hackney 023G",30,1.47,92.00
+"Hillingdon 021C",30,1.47,92.00
+"Greenwich 042C",30,1.47,92.00
+"Islington 016E",30,1.47,92.00
+"Croydon 041C",30,1.47,92.00
+"Haringey 021B",29,1.43,91.60
+"Islington 020F",29,1.43,91.60
+"Westminster 005E",29,1.43,91.60
+"Waltham Forest 014G",29,1.43,91.60
+"Camden 017C",29,1.43,91.60
+"Bexley 026D",29,1.43,91.60
+"Hounslow 029D",29,1.43,91.60
+"Bexley 019G",29,1.43,91.60
+"Southwark 015H",29,1.43,91.60
+"Newham 030C",29,1.43,91.60
+"Hounslow 006H",29,1.43,91.60
+"Havering 028C",29,1.43,91.60
+"Hackney 025H",29,1.43,91.60
+"Camden 010E",29,1.43,91.60
+"Redbridge 039A",29,1.43,91.60
+"Hackney 017D",29,1.43,91.60
+"Redbridge 035A",29,1.43,91.60
+"Newham 028B",29,1.43,91.60
+"Brent 028A",29,1.43,91.60
+"Haringey 007D",29,1.43,91.60
+"Croydon 028D",28,1.38,91.14
+"Camden 003E",28,1.38,91.14
+"Southwark 016F",28,1.38,91.14
+"Brent 024B",28,1.38,91.14
+"Hillingdon 030G",28,1.38,91.14
+"Hammersmith and Fulham 013E",28,1.38,91.14
+"Enfield 006A",28,1.38,91.14
+"Lambeth 012D",28,1.38,91.14
+"Hackney 002E",28,1.38,91.14
+"Bromley 009A",28,1.38,91.14
+"Lewisham 009B",28,1.38,91.14
+"Westminster 016A",28,1.38,91.14
+"Lewisham 039E",28,1.38,91.14
+"Hillingdon 032A",28,1.38,91.14
+"Hounslow 024B",28,1.38,91.14
+"Kensington and Chelsea 006B",28,1.38,91.14
+"Brent 026D",28,1.38,91.14
+"Hounslow 030A",28,1.38,91.14
+"Hammersmith and Fulham 001C",28,1.38,91.14
+"Lambeth 004J",28,1.38,91.14
+"Ealing 029D",28,1.38,91.14
+"Harrow 021B",28,1.38,91.14
+"Brent 019D",28,1.38,91.14
+"Haringey 034C",27,1.33,90.66
+"Newham 039C",27,1.33,90.66
+"Brent 025B",27,1.33,90.66
+"Newham 009B",27,1.33,90.66
+"Lambeth 004E",27,1.33,90.66
+"Ealing 015D",27,1.33,90.66
+"Hillingdon 002A",27,1.33,90.66
+"Hounslow 022D",27,1.33,90.66
+"Greenwich 011B",27,1.33,90.66
+"Westminster 014B",27,1.33,90.66
+"Tower Hamlets 005C",27,1.33,90.66
+"Newham 012A",27,1.33,90.66
+"Kensington and Chelsea 010B",27,1.33,90.66
+"Greenwich 002H",27,1.33,90.66
+"Islington 003F",27,1.33,90.66
+"Waltham Forest 011A",27,1.33,90.66
+"Hounslow 029C",27,1.33,90.66
+"Islington 015D",27,1.33,90.66
+"Havering 017C",27,1.33,90.66
+"Redbridge 038B",27,1.33,90.66
+"Westminster 015F",27,1.33,90.66
+"Barnet 001A",27,1.33,90.66
+"Westminster 008B",27,1.33,90.66
+"Croydon 019D",27,1.33,90.66
+"Redbridge 024B",26,1.28,89.90
+"Wandsworth 038E",26,1.28,89.90
+"Tower Hamlets 011D",26,1.28,89.90
+"Harrow 030B",26,1.28,89.90
+"Tower Hamlets 020B",26,1.28,89.90
+"Haringey 031D",26,1.28,89.90
+"Southwark 036B",26,1.28,89.90
+"Hounslow 025B",26,1.28,89.90
+"Hackney 026H",26,1.28,89.90
+"Islington 013B",26,1.28,89.90
+"Camden 012C",26,1.28,89.90
+"Greenwich 038D",26,1.28,89.90
+"Kingston upon Thames 005A",26,1.28,89.90
+"Wandsworth 027B",26,1.28,89.90
+"Redbridge 017D",26,1.28,89.90
+"Enfield 014A",26,1.28,89.90
+"Brent 029A",26,1.28,89.90
+"Lambeth 016A",26,1.28,89.90
+"Newham 032A",26,1.28,89.90
+"Lewisham 029A",26,1.28,89.90
+"Islington 007A",26,1.28,89.90
+"Tower Hamlets 015A",26,1.28,89.90
+"Hillingdon 007E",26,1.28,89.90
+"Waltham Forest 027F",26,1.28,89.90
+"Westminster 020B",26,1.28,89.90
+"Barking and Dagenham 006B",26,1.28,89.90
+"Waltham Forest 017D",26,1.28,89.90
+"Newham 010C",26,1.28,89.90
+"Bromley 023A",26,1.28,89.90
+"Ealing 015G",26,1.28,89.90
+"Hackney 004C",26,1.28,89.90
+"Kensington and Chelsea 004E",26,1.28,89.90
+"Lambeth 004G",26,1.28,89.90
+"Enfield 010B",26,1.28,89.90
+"Enfield 008B",26,1.28,89.90
+"Newham 034N",26,1.28,89.90
+"Camden 029H",26,1.28,89.90
+"Hillingdon 029C",26,1.28,89.90
+"Brent 034B",25,1.22,89.02
+"Hillingdon 030C",25,1.22,89.02
+"Hackney 031C",25,1.22,89.02
+"Lambeth 028D",25,1.22,89.02
+"Brent 001B",25,1.22,89.02
+"Islington 022B",25,1.22,89.02
+"Hackney 015A",25,1.22,89.02
+"Newham 033F",25,1.22,89.02
+"Kingston upon Thames 017E",25,1.22,89.02
+"Islington 005A",25,1.22,89.02
+"Haringey 002B",25,1.22,89.02
+"Harrow 006C",25,1.22,89.02
+"Brent 031A",25,1.22,89.02
+"Southwark 021F",25,1.22,89.02
+"Southwark 013C",25,1.22,89.02
+"Southwark 018B",25,1.22,89.02
+"Camden 015F",25,1.22,89.02
+"Bexley 017D",25,1.22,89.02
+"Barnet 039B",25,1.22,89.02
+"Lewisham 034B",25,1.22,89.02
+"Hackney 001A",25,1.22,89.02
+"Tower Hamlets 023A",25,1.22,89.02
+"Ealing 030B",25,1.22,89.02
+"Greenwich 006B",25,1.22,89.02
+"Enfield 015B",25,1.22,89.02
+"Waltham Forest 019A",25,1.22,89.02
+"Lewisham 041A",25,1.22,89.02
+"Lambeth 005B",25,1.22,89.02
+"Hackney 032C",25,1.22,89.02
+"Hounslow 009B",25,1.22,89.02
+"Lambeth 036B",25,1.22,89.02
+"Havering 022E",25,1.22,89.02
+"Islington 011G",25,1.22,89.02
+"Tower Hamlets 012G",25,1.22,89.02
+"Hounslow 018H",25,1.22,89.02
+"Greenwich 006D",25,1.22,89.02
+"Lewisham 033E",25,1.22,89.02
+"Camden 018E",25,1.22,89.02
+"Hounslow 024E",25,1.22,89.02
+"Wandsworth 008E",25,1.22,89.02
+"Enfield 030C",25,1.22,89.02
+"Greenwich 007B",25,1.22,89.02
+"Enfield 015D",25,1.22,89.02
+"Brent 025A",25,1.22,89.02
+"Barking and Dagenham 006C",24,1.17,88.40
+"Tower Hamlets 021H",24,1.17,88.40
+"Newham 009D",24,1.17,88.40
+"Harrow 023H",24,1.17,88.40
+"Wandsworth 039B",24,1.17,88.40
+"Lambeth 020A",24,1.17,88.40
+"Islington 020C",24,1.17,88.40
+"Waltham Forest 021B",24,1.17,88.40
+"Southwark 007C",24,1.17,88.40
+"Bexley 027D",24,1.17,88.40
+"Brent 019C",24,1.17,88.40
+"Ealing 007C",24,1.17,88.40
+"Redbridge 032B",24,1.17,88.40
+"Hackney 010G",24,1.17,88.40
+"Southwark 006C",24,1.17,88.40
+"Newham 027D",24,1.17,88.40
+"Tower Hamlets 033D",24,1.17,88.40
+"Barnet 042B",24,1.17,88.40
+"Islington 016D",24,1.17,88.40
+"Westminster 012D",24,1.17,88.40
+"Waltham Forest 024D",24,1.17,88.40
+"Ealing 041A",24,1.17,88.40
+"Tower Hamlets 034C",24,1.17,88.40
+"Croydon 036A",24,1.17,88.40
+"Haringey 037B",24,1.17,88.40
+"Hammersmith and Fulham 017B",24,1.17,88.40
+"Brent 013D",24,1.17,88.40
+"Ealing 010G",24,1.17,88.40
+"Hammersmith and Fulham 001D",24,1.17,88.40
+"Haringey 001B",24,1.17,88.40
+"Haringey 025D",24,1.17,88.40
+"Tower Hamlets 035D",23,1.11,87.70
+"Westminster 001C",23,1.11,87.70
+"Southwark 034A",23,1.11,87.70
+"Barnet 005B",23,1.11,87.70
+"Wandsworth 001A",23,1.11,87.70
+"Newham 004D",23,1.11,87.70
+"Barking and Dagenham 011D",23,1.11,87.70
+"Barnet 039C",23,1.11,87.70
+"Bromley 018F",23,1.11,87.70
+"Greenwich 040B",23,1.11,87.70
+"Croydon 028A",23,1.11,87.70
+"Brent 032B",23,1.11,87.70
+"Lewisham 002E",23,1.11,87.70
+"Brent 024D",23,1.11,87.70
+"Kensington and Chelsea 004B",23,1.11,87.70
+"Newham 033C",23,1.11,87.70
+"Newham 042F",23,1.11,87.70
+"Harrow 001D",23,1.11,87.70
+"Croydon 001E",23,1.11,87.70
+"Westminster 010F",23,1.11,87.70
+"Barnet 001C",23,1.11,87.70
+"Enfield 029B",23,1.11,87.70
+"Lewisham 020E",23,1.11,87.70
+"Westminster 011A",23,1.11,87.70
+"Croydon 003C",23,1.11,87.70
+"Barnet 042D",23,1.11,87.70
+"Bromley 028A",23,1.11,87.70
+"Waltham Forest 022B",23,1.11,87.70
+"Tower Hamlets 025D",23,1.11,87.70
+"Barking and Dagenham 001D",23,1.11,87.70
+"Greenwich 027A",23,1.11,87.70
+"Bromley 026A",23,1.11,87.70
+"Tower Hamlets 016D",23,1.11,87.70
+"Hammersmith and Fulham 021F",23,1.11,87.70
+"Tower Hamlets 012D",23,1.11,87.70
+"Barnet 018C",22,1.05,86.51
+"Islington 015A",22,1.05,86.51
+"Lambeth 015C",22,1.05,86.51
+"Barnet 032C",22,1.05,86.51
+"Islington 023E",22,1.05,86.51
+"Kensington and Chelsea 015D",22,1.05,86.51
+"Tower Hamlets 017D",22,1.05,86.51
+"Haringey 019C",22,1.05,86.51
+"Newham 024A",22,1.05,86.51
+"Greenwich 002A",22,1.05,86.51
+"Brent 003B",22,1.05,86.51
+"Tower Hamlets 001D",22,1.05,86.51
+"Bromley 001D",22,1.05,86.51
+"Redbridge 034B",22,1.05,86.51
+"Hackney 025E",22,1.05,86.51
+"Waltham Forest 014A",22,1.05,86.51
+"Bexley 005C",22,1.05,86.51
+"Kensington and Chelsea 015A",22,1.05,86.51
+"Lewisham 019A",22,1.05,86.51
+"Hillingdon 016H",22,1.05,86.51
+"Westminster 016C",22,1.05,86.51
+"Lewisham 003B",22,1.05,86.51
+"Havering 016B",22,1.05,86.51
+"Haringey 024D",22,1.05,86.51
+"Lambeth 018C",22,1.05,86.51
+"Tower Hamlets 001A",22,1.05,86.51
+"Tower Hamlets 009E",22,1.05,86.51
+"Havering 007F",22,1.05,86.51
+"Westminster 007B",22,1.05,86.51
+"Haringey 029B",22,1.05,86.51
+"Hackney 019B",22,1.05,86.51
+"Camden 029F",22,1.05,86.51
+"Ealing 028B",22,1.05,86.51
+"Lewisham 034D",22,1.05,86.51
+"Barking and Dagenham 018C",22,1.05,86.51
+"Harrow 005C",22,1.05,86.51
+"Sutton 011A",22,1.05,86.51
+"Havering 026B",22,1.05,86.51
+"Camden 011D",22,1.05,86.51
+"Haringey 014D",22,1.05,86.51
+"Greenwich 012B",22,1.05,86.51
+"Barnet 006B",22,1.05,86.51
+"Barking and Dagenham 013A",22,1.05,86.51
+"Kensington and Chelsea 020D",22,1.05,86.51
+"Hammersmith and Fulham 018B",22,1.05,86.51
+"Lewisham 021B",22,1.05,86.51
+"Croydon 008D",22,1.05,86.51
+"Redbridge 026A",22,1.05,86.51
+"Brent 029C",22,1.05,86.51
+"Camden 007E",22,1.05,86.51
+"Ealing 023C",22,1.05,86.51
+"Newham 008B",22,1.05,86.51
+"Tower Hamlets 014B",22,1.05,86.51
+"Hounslow 004A",22,1.05,86.51
+"Westminster 009E",22,1.05,86.51
+"Ealing 024F",22,1.05,86.51
+"Barnet 036A",22,1.05,86.51
+"Hammersmith and Fulham 001G",22,1.05,86.51
+"Kensington and Chelsea 019D",22,1.05,86.51
+"Newham 033D",21,0.98,85.19
+"Islington 004E",21,0.98,85.19
+"Barking and Dagenham 020E",21,0.98,85.19
+"Hounslow 017F",21,0.98,85.19
+"Wandsworth 024D",21,0.98,85.19
+"Bexley 026E",21,0.98,85.19
+"Harrow 011B",21,0.98,85.19
+"Barnet 027E",21,0.98,85.19
+"Hillingdon 028C",21,0.98,85.19
+"Haringey 023C",21,0.98,85.19
+"Sutton 019D",21,0.98,85.19
+"Lewisham 029D",21,0.98,85.19
+"Kensington and Chelsea 008B",21,0.98,85.19
+"Newham 038E",21,0.98,85.19
+"Newham 042B",21,0.98,85.19
+"Southwark 004D",21,0.98,85.19
+"Ealing 026A",21,0.98,85.19
+"Redbridge 036F",21,0.98,85.19
+"Brent 014A",21,0.98,85.19
+"Islington 002F",21,0.98,85.19
+"Kensington and Chelsea 021D",21,0.98,85.19
+"Camden 012D",21,0.98,85.19
+"Brent 020E",21,0.98,85.19
+"Waltham Forest 006B",21,0.98,85.19
+"Brent 034A",21,0.98,85.19
+"Greenwich 037D",21,0.98,85.19
+"Brent 015D",21,0.98,85.19
+"Ealing 029G",21,0.98,85.19
+"Enfield 037C",21,0.98,85.19
+"Barnet 032D",21,0.98,85.19
+"Tower Hamlets 021G",21,0.98,85.19
+"Barnet 042C",21,0.98,85.19
+"Tower Hamlets 024G",21,0.98,85.19
+"Barnet 032E",21,0.98,85.19
+"Hammersmith and Fulham 011C",21,0.98,85.19
+"Southwark 013A",21,0.98,85.19
+"Camden 001D",21,0.98,85.19
+"Bromley 005F",21,0.98,85.19
+"Hackney 031D",21,0.98,85.19
+"Redbridge 006D",21,0.98,85.19
+"Havering 016A",21,0.98,85.19
+"Kingston upon Thames 007B",21,0.98,85.19
+"Barnet 008D",21,0.98,85.19
+"Brent 012D",21,0.98,85.19
+"Barnet 015C",21,0.98,85.19
+"Barnet 024G",21,0.98,85.19
+"Sutton 002A",21,0.98,85.19
+"Wandsworth 038C",21,0.98,85.19
+"Kensington and Chelsea 007B",21,0.98,85.19
+"Bromley 019E",21,0.98,85.19
+"Islington 018B",21,0.98,85.19
+"Barnet 016D",21,0.98,85.19
+"Newham 020E",21,0.98,85.19
+"Redbridge 006G",21,0.98,85.19
+"Southwark 030A",21,0.98,85.19
+"Tower Hamlets 027A",21,0.98,85.19
+"Newham 019B",21,0.98,85.19
+"Tower Hamlets 020C",21,0.98,85.19
+"Ealing 011C",21,0.98,85.19
+"Southwark 015G",21,0.98,85.19
+"Southwark 015B",21,0.98,85.19
+"Camden 027A",21,0.98,85.19
+"Brent 031E",21,0.98,85.19
+"Camden 008C",21,0.98,85.19
+"Barnet 036B",21,0.98,85.19
+"Hounslow 016D",21,0.98,85.19
+"Hillingdon 020C",20,0.92,83.99
+"Richmond upon Thames 021C",20,0.92,83.99
+"Lambeth 008E",20,0.92,83.99
+"Hammersmith and Fulham 010C",20,0.92,83.99
+"Tower Hamlets 018A",20,0.92,83.99
+"Lambeth 007D",20,0.92,83.99
+"Lewisham 005A",20,0.92,83.99
+"Tower Hamlets 013A",20,0.92,83.99
+"Barking and Dagenham 020B",20,0.92,83.99
+"Kingston upon Thames 017B",20,0.92,83.99
+"Wandsworth 023A",20,0.92,83.99
+"Croydon 029B",20,0.92,83.99
+"Hackney 024B",20,0.92,83.99
+"Newham 014B",20,0.92,83.99
+"Haringey 023B",20,0.92,83.99
+"Ealing 028E",20,0.92,83.99
+"Southwark 021D",20,0.92,83.99
+"Barking and Dagenham 002B",20,0.92,83.99
+"Haringey 035A",20,0.92,83.99
+"Kensington and Chelsea 008D",20,0.92,83.99
+"Islington 003B",20,0.92,83.99
+"Newham 023D",20,0.92,83.99
+"Greenwich 019A",20,0.92,83.99
+"Greenwich 034G",20,0.92,83.99
+"Sutton 015E",20,0.92,83.99
+"Westminster 011C",20,0.92,83.99
+"Barnet 019A",20,0.92,83.99
+"Kensington and Chelsea 004D",20,0.92,83.99
+"Merton 005C",20,0.92,83.99
+"Hackney 009D",20,0.92,83.99
+"Islington 023C",20,0.92,83.99
+"Greenwich 006E",20,0.92,83.99
+"Havering 006B",20,0.92,83.99
+"Islington 022G",20,0.92,83.99
+"Newham 030A",20,0.92,83.99
+"Tower Hamlets 019C",20,0.92,83.99
+"Lewisham 030E",20,0.92,83.99
+"Redbridge 024C",20,0.92,83.99
+"Southwark 012B",20,0.92,83.99
+"Hounslow 023C",20,0.92,83.99
+"Hounslow 013E",20,0.92,83.99
+"Westminster 015A",20,0.92,83.99
+"Croydon 022A",20,0.92,83.99
+"Westminster 020D",20,0.92,83.99
+"Greenwich 002G",20,0.92,83.99
+"Hammersmith and Fulham 006B",20,0.92,83.99
+"Barking and Dagenham 016B",20,0.92,83.99
+"Islington 022C",20,0.92,83.99
+"Greenwich 033A",20,0.92,83.99
+"Richmond upon Thames 005B",20,0.92,83.99
+"Waltham Forest 013C",20,0.92,83.99
+"Haringey 015E",20,0.92,83.99
+"Southwark 022H",20,0.92,83.99
+"Ealing 004D",20,0.92,83.99
+"Greenwich 037G",20,0.92,83.99
+"Merton 013C",20,0.92,83.99
+"Lewisham 035B",20,0.92,83.99
+"Lambeth 031E",20,0.92,83.99
+"Hounslow 006E",20,0.92,83.99
+"Newham 006D",20,0.92,83.99
+"Hackney 016D",19,0.85,82.06
+"Bromley 019B",19,0.85,82.06
+"Lambeth 027C",19,0.85,82.06
+"Westminster 015C",19,0.85,82.06
+"Greenwich 002B",19,0.85,82.06
+"Brent 027I",19,0.85,82.06
+"Harrow 011E",19,0.85,82.06
+"Croydon 047A",19,0.85,82.06
+"Lambeth 010B",19,0.85,82.06
+"Ealing 006B",19,0.85,82.06
+"Ealing 019G",19,0.85,82.06
+"Ealing 029E",19,0.85,82.06
+"Barnet 010E",19,0.85,82.06
+"Hounslow 017C",19,0.85,82.06
+"Kingston upon Thames 004G",19,0.85,82.06
+"Richmond upon Thames 013B",19,0.85,82.06
+"Redbridge 038C",19,0.85,82.06
+"Tower Hamlets 014D",19,0.85,82.06
+"Ealing 034D",19,0.85,82.06
+"Tower Hamlets 001E",19,0.85,82.06
+"Hackney 006B",19,0.85,82.06
+"Hillingdon 030D",19,0.85,82.06
+"Ealing 038D",19,0.85,82.06
+"Enfield 018D",19,0.85,82.06
+"Brent 033B",19,0.85,82.06
+"Brent 031G",19,0.85,82.06
+"Westminster 017E",19,0.85,82.06
+"Haringey 002D",19,0.85,82.06
+"Tower Hamlets 012E",19,0.85,82.06
+"Waltham Forest 010B",19,0.85,82.06
+"Islington 015C",19,0.85,82.06
+"Newham 002A",19,0.85,82.06
+"Enfield 011A",19,0.85,82.06
+"Southwark 010D",19,0.85,82.06
+"Islington 019E",19,0.85,82.06
+"Hillingdon 032C",19,0.85,82.06
+"Camden 010A",19,0.85,82.06
+"Lambeth 032B",19,0.85,82.06
+"Kensington and Chelsea 001C",19,0.85,82.06
+"Hillingdon 016B",19,0.85,82.06
+"Wandsworth 005C",19,0.85,82.06
+"Hounslow 022C",19,0.85,82.06
+"Enfield 003B",19,0.85,82.06
+"Tower Hamlets 009B",19,0.85,82.06
+"Greenwich 028D",19,0.85,82.06
+"Greenwich 039C",19,0.85,82.06
+"Richmond upon Thames 014D",19,0.85,82.06
+"Lambeth 016B",19,0.85,82.06
+"Lambeth 014B",19,0.85,82.06
+"Lambeth 013A",19,0.85,82.06
+"Hounslow 027A",19,0.85,82.06
+"Waltham Forest 023B",19,0.85,82.06
+"Hammersmith and Fulham 017E",19,0.85,82.06
+"Brent 029B",19,0.85,82.06
+"Hounslow 015C",19,0.85,82.06
+"Hounslow 030D",19,0.85,82.06
+"Hammersmith and Fulham 020C",19,0.85,82.06
+"Lambeth 016E",19,0.85,82.06
+"Southwark 034E",19,0.85,82.06
+"Newham 003A",19,0.85,82.06
+"Waltham Forest 016E",19,0.85,82.06
+"Camden 005B",19,0.85,82.06
+"Newham 038A",19,0.85,82.06
+"Westminster 012E",19,0.85,82.06
+"Islington 022H",19,0.85,82.06
+"Hillingdon 026E",19,0.85,82.06
+"Lewisham 001C",19,0.85,82.06
+"Barking and Dagenham 012D",19,0.85,82.06
+"Waltham Forest 005E",19,0.85,82.06
+"Brent 032D",19,0.85,82.06
+"Lambeth 032D",19,0.85,82.06
+"Westminster 009I",19,0.85,82.06
+"Barnet 028A",19,0.85,82.06
+"Camden 017B",19,0.85,82.06
+"Tower Hamlets 002E",19,0.85,82.06
+"Camden 027D",19,0.85,82.06
+"Southwark 023A",19,0.85,82.06
+"Lambeth 026B",19,0.85,82.06
+"Lewisham 037B",19,0.85,82.06
+"Tower Hamlets 021C",19,0.85,82.06
+"Havering 029B",19,0.85,82.06
+"Newham 034M",19,0.85,82.06
+"Islington 011D",19,0.85,82.06
+"Tower Hamlets 025F",19,0.85,82.06
+"Haringey 015A",19,0.85,82.06
+"Brent 036B",19,0.85,82.06
+"Enfield 033B",19,0.85,82.06
+"Lambeth 034C",19,0.85,82.06
+"Islington 016C",19,0.85,82.06
+"Barnet 028E",19,0.85,82.06
+"Camden 027C",19,0.85,82.06
+"Lambeth 035A",19,0.85,82.06
+"Wandsworth 021C",19,0.85,82.06
+"Ealing 007D",19,0.85,82.06
+"Kensington and Chelsea 001D",19,0.85,82.06
+"Brent 011B",19,0.85,82.06
+"Richmond upon Thames 004G",18,0.77,80.30
+"Richmond upon Thames 019D",18,0.77,80.30
+"Lewisham 018A",18,0.77,80.30
+"Haringey 036D",18,0.77,80.30
+"Havering 027A",18,0.77,80.30
+"Barnet 018A",18,0.77,80.30
+"Sutton 002D",18,0.77,80.30
+"Hounslow 012A",18,0.77,80.30
+"Westminster 015E",18,0.77,80.30
+"Greenwich 040E",18,0.77,80.30
+"Wandsworth 023D",18,0.77,80.30
+"Southwark 025C",18,0.77,80.30
+"Lewisham 038D",18,0.77,80.30
+"Southwark 006D",18,0.77,80.30
+"Croydon 022C",18,0.77,80.30
+"Ealing 024D",18,0.77,80.30
+"Kingston upon Thames 003D",18,0.77,80.30
+"Hillingdon 002D",18,0.77,80.30
+"Newham 027C",18,0.77,80.30
+"Southwark 023D",18,0.77,80.30
+"Lambeth 019A",18,0.77,80.30
+"Islington 017E",18,0.77,80.30
+"Kingston upon Thames 009A",18,0.77,80.30
+"Hounslow 013B",18,0.77,80.30
+"Hounslow 026E",18,0.77,80.30
+"Harrow 016B",18,0.77,80.30
+"Barnet 004F",18,0.77,80.30
+"Lambeth 004D",18,0.77,80.30
+"Newham 035B",18,0.77,80.30
+"Westminster 017A",18,0.77,80.30
+"Enfield 004C",18,0.77,80.30
+"Redbridge 034F",18,0.77,80.30
+"Haringey 015C",18,0.77,80.30
+"Lewisham 001F",18,0.77,80.30
+"Brent 024A",18,0.77,80.30
+"Barnet 029D",18,0.77,80.30
+"Haringey 012A",18,0.77,80.30
+"Hackney 029A",18,0.77,80.30
+"Ealing 026F",18,0.77,80.30
+"Bromley 030B",18,0.77,80.30
+"Hackney 028A",18,0.77,80.30
+"Waltham Forest 014C",18,0.77,80.30
+"Ealing 004C",18,0.77,80.30
+"Hounslow 021B",18,0.77,80.30
+"Southwark 025A",18,0.77,80.30
+"Waltham Forest 006E",18,0.77,80.30
+"Kensington and Chelsea 003B",18,0.77,80.30
+"Kensington and Chelsea 014D",18,0.77,80.30
+"Waltham Forest 009E",18,0.77,80.30
+"Enfield 032B",18,0.77,80.30
+"Brent 003F",18,0.77,80.30
+"Westminster 005A",18,0.77,80.30
+"Southwark 018C",18,0.77,80.30
+"Wandsworth 030B",18,0.77,80.30
+"Islington 015E",18,0.77,80.30
+"Sutton 019C",18,0.77,80.30
+"Hounslow 005A",18,0.77,80.30
+"Barking and Dagenham 022C",18,0.77,80.30
+"Hillingdon 026A",18,0.77,80.30
+"Havering 002C",18,0.77,80.30
+"Southwark 012A",18,0.77,80.30
+"Merton 022B",18,0.77,80.30
+"Greenwich 011D",18,0.77,80.30
+"Croydon 015E",18,0.77,80.30
+"Hillingdon 006D",18,0.77,80.30
+"Westminster 010B",18,0.77,80.30
+"Brent 023C",18,0.77,80.30
+"Camden 014B",18,0.77,80.30
+"Newham 039B",18,0.77,80.30
+"Waltham Forest 002C",18,0.77,80.30
+"Enfield 025B",18,0.77,80.30
+"Wandsworth 033D",18,0.77,80.30
+"Wandsworth 018B",18,0.77,80.30
+"Lewisham 013D",18,0.77,80.30
+"Greenwich 042A",18,0.77,80.30
+"Newham 023A",18,0.77,80.30
+"Tower Hamlets 022C",18,0.77,80.30
+"Barnet 032A",18,0.77,80.30
+"Tower Hamlets 024D",18,0.77,80.30
+"Greenwich 005A",18,0.77,80.30
+"Kensington and Chelsea 006E",18,0.77,80.30
+"Hounslow 005D",18,0.77,80.30
+"Tower Hamlets 008H",18,0.77,80.30
+"Haringey 037D",18,0.77,80.30
+"Hackney 030C",18,0.77,80.30
+"Hillingdon 022B",18,0.77,80.30
+"Bexley 004B",18,0.77,80.30
+"Richmond upon Thames 020B",18,0.77,80.30
+"Croydon 013B",17,0.69,78.54
+"Haringey 016C",17,0.69,78.54
+"Camden 022G",17,0.69,78.54
+"Hounslow 028A",17,0.69,78.54
+"Hackney 010E",17,0.69,78.54
+"Bromley 014A",17,0.69,78.54
+"Islington 021E",17,0.69,78.54
+"Croydon 010D",17,0.69,78.54
+"Camden 029E",17,0.69,78.54
+"Westminster 014D",17,0.69,78.54
+"Hammersmith and Fulham 001F",17,0.69,78.54
+"Waltham Forest 016C",17,0.69,78.54
+"Southwark 028A",17,0.69,78.54
+"Lewisham 041E",17,0.69,78.54
+"Barking and Dagenham 017E",17,0.69,78.54
+"Lewisham 023A",17,0.69,78.54
+"Islington 008B",17,0.69,78.54
+"Redbridge 010A",17,0.69,78.54
+"Havering 013A",17,0.69,78.54
+"Hammersmith and Fulham 005B",17,0.69,78.54
+"Southwark 036A",17,0.69,78.54
+"Newham 040C",17,0.69,78.54
+"Redbridge 017A",17,0.69,78.54
+"Lewisham 018D",17,0.69,78.54
+"Waltham Forest 020A",17,0.69,78.54
+"Bexley 016E",17,0.69,78.54
+"Islington 021C",17,0.69,78.54
+"Enfield 005D",17,0.69,78.54
+"Brent 034C",17,0.69,78.54
+"Camden 007F",17,0.69,78.54
+"Ealing 009C",17,0.69,78.54
+"Merton 018D",17,0.69,78.54
+"Westminster 009F",17,0.69,78.54
+"Brent 031H",17,0.69,78.54
+"Newham 039E",17,0.69,78.54
+"Haringey 024C",17,0.69,78.54
+"Kensington and Chelsea 004A",17,0.69,78.54
+"Tower Hamlets 014G",17,0.69,78.54
+"Islington 012C",17,0.69,78.54
+"Barking and Dagenham 014D",17,0.69,78.54
+"Southwark 011C",17,0.69,78.54
+"Hounslow 020D",17,0.69,78.54
+"Enfield 027D",17,0.69,78.54
+"Hackney 010F",17,0.69,78.54
+"Islington 019D",17,0.69,78.54
+"Lewisham 008D",17,0.69,78.54
+"Redbridge 002D",17,0.69,78.54
+"Tower Hamlets 002F",17,0.69,78.54
+"Ealing 011B",17,0.69,78.54
+"Lewisham 009D",17,0.69,78.54
+"Brent 027F",17,0.69,78.54
+"Kensington and Chelsea 009C",17,0.69,78.54
+"Hammersmith and Fulham 005D",17,0.69,78.54
+"Lewisham 018B",17,0.69,78.54
+"Lambeth 021C",17,0.69,78.54
+"Ealing 011A",17,0.69,78.54
+"Tower Hamlets 036D",17,0.69,78.54
+"Barnet 022D",17,0.69,78.54
+"Lambeth 008A",17,0.69,78.54
+"Hackney 026B",17,0.69,78.54
+"Wandsworth 001D",17,0.69,78.54
+"Lewisham 030D",17,0.69,78.54
+"Lewisham 040B",17,0.69,78.54
+"Newham 034J",17,0.69,78.54
+"Hackney 018A",17,0.69,78.54
+"Newham 012E",17,0.69,78.54
+"Hackney 016F",17,0.69,78.54
+"Haringey 005B",17,0.69,78.54
+"Haringey 027A",17,0.69,78.54
+"Southwark 026E",17,0.69,78.54
+"Sutton 012A",17,0.69,78.54
+"Croydon 011C",17,0.69,78.54
+"Lewisham 019D",17,0.69,78.54
+"Croydon 047C",17,0.69,78.54
+"Hackney 018C",17,0.69,78.54
+"Newham 041A",17,0.69,78.54
+"Haringey 032B",17,0.69,78.54
+"Camden 021D",17,0.69,78.54
+"Ealing 043A",17,0.69,78.54
+"Bexley 002F",17,0.69,78.54
+"Enfield 023E",17,0.69,78.54
+"Southwark 004E",17,0.69,78.54
+"Enfield 033C",17,0.69,78.54
+"Kensington and Chelsea 011D",17,0.69,78.54
+"Southwark 036D",17,0.69,78.54
+"Barking and Dagenham 006D",17,0.69,78.54
+"Barnet 041D",17,0.69,78.54
+"Hounslow 018G",17,0.69,78.54
+"Kensington and Chelsea 006A",16,0.61,76.17
+"Barking and Dagenham 015D",16,0.61,76.17
+"Lewisham 025C",16,0.61,76.17
+"Hillingdon 024B",16,0.61,76.17
+"Enfield 016F",16,0.61,76.17
+"Enfield 012E",16,0.61,76.17
+"Kensington and Chelsea 018E",16,0.61,76.17
+"Brent 025D",16,0.61,76.17
+"Greenwich 030E",16,0.61,76.17
+"Lewisham 034A",16,0.61,76.17
+"Harrow 032A",16,0.61,76.17
+"Westminster 004D",16,0.61,76.17
+"Tower Hamlets 018D",16,0.61,76.17
+"Merton 001G",16,0.61,76.17
+"Southwark 012I",16,0.61,76.17
+"Barking and Dagenham 001A",16,0.61,76.17
+"Redbridge 033B",16,0.61,76.17
+"Brent 002C",16,0.61,76.17
+"Southwark 020B",16,0.61,76.17
+"Islington 005C",16,0.61,76.17
+"Haringey 032C",16,0.61,76.17
+"Croydon 013F",16,0.61,76.17
+"Havering 013F",16,0.61,76.17
+"Westminster 002D",16,0.61,76.17
+"Southwark 011D",16,0.61,76.17
+"Bromley 020B",16,0.61,76.17
+"Hackney 025D",16,0.61,76.17
+"Barking and Dagenham 019G",16,0.61,76.17
+"Barnet 034C",16,0.61,76.17
+"Waltham Forest 022C",16,0.61,76.17
+"Lewisham 017A",16,0.61,76.17
+"Lambeth 029B",16,0.61,76.17
+"Redbridge 029D",16,0.61,76.17
+"Ealing 006D",16,0.61,76.17
+"Lambeth 003G",16,0.61,76.17
+"Hillingdon 027F",16,0.61,76.17
+"Waltham Forest 007A",16,0.61,76.17
+"Haringey 026A",16,0.61,76.17
+"Hackney 028D",16,0.61,76.17
+"Bexley 009A",16,0.61,76.17
+"Havering 007G",16,0.61,76.17
+"Camden 002D",16,0.61,76.17
+"Camden 029G",16,0.61,76.17
+"Tower Hamlets 026F",16,0.61,76.17
+"Southwark 010C",16,0.61,76.17
+"Ealing 044A",16,0.61,76.17
+"Greenwich 038C",16,0.61,76.17
+"Southwark 012H",16,0.61,76.17
+"Lambeth 028B",16,0.61,76.17
+"Hillingdon 027A",16,0.61,76.17
+"Haringey 007A",16,0.61,76.17
+"Merton 016C",16,0.61,76.17
+"Wandsworth 029D",16,0.61,76.17
+"Harrow 025B",16,0.61,76.17
+"Ealing 024E",16,0.61,76.17
+"Hackney 016A",16,0.61,76.17
+"Ealing 027B",16,0.61,76.17
+"Wandsworth 001C",16,0.61,76.17
+"Enfield 023A",16,0.61,76.17
+"Tower Hamlets 032C",16,0.61,76.17
+"Bromley 014B",16,0.61,76.17
+"Redbridge 013A",16,0.61,76.17
+"Kensington and Chelsea 011E",16,0.61,76.17
+"Southwark 028C",16,0.61,76.17
+"Southwark 023C",16,0.61,76.17
+"Ealing 015A",16,0.61,76.17
+"Merton 005F",16,0.61,76.17
+"Hounslow 011E",16,0.61,76.17
+"Bromley 001F",16,0.61,76.17
+"Tower Hamlets 022A",16,0.61,76.17
+"Greenwich 033C",16,0.61,76.17
+"Tower Hamlets 018C",16,0.61,76.17
+"Croydon 020D",16,0.61,76.17
+"Brent 023A",16,0.61,76.17
+"Lambeth 016C",16,0.61,76.17
+"Richmond upon Thames 010E",16,0.61,76.17
+"Barnet 023C",16,0.61,76.17
+"Westminster 021E",16,0.61,76.17
+"Camden 009A",16,0.61,76.17
+"Islington 009A",16,0.61,76.17
+"Westminster 004C",16,0.61,76.17
+"Waltham Forest 026A",16,0.61,76.17
+"Tower Hamlets 004D",16,0.61,76.17
+"Lewisham 040D",16,0.61,76.17
+"Hounslow 001B",16,0.61,76.17
+"Croydon 016A",16,0.61,76.17
+"Hammersmith and Fulham 021B",16,0.61,76.17
+"Hillingdon 002F",16,0.61,76.17
+"Redbridge 036C",16,0.61,76.17
+"Westminster 008A",16,0.61,76.17
+"Sutton 012B",16,0.61,76.17
+"Hackney 022A",16,0.61,76.17
+"Barking and Dagenham 002D",16,0.61,76.17
+"Lambeth 003A",16,0.61,76.17
+"Lambeth 015B",16,0.61,76.17
+"Islington 010D",16,0.61,76.17
+"Hackney 002H",16,0.61,76.17
+"Tower Hamlets 030C",16,0.61,76.17
+"Hillingdon 029A",16,0.61,76.17
+"Ealing 044B",16,0.61,76.17
+"Islington 001C",16,0.61,76.17
+"Westminster 014H",16,0.61,76.17
+"Westminster 014A",16,0.61,76.17
+"Lewisham 029E",16,0.61,76.17
+"Newham 008C",16,0.61,76.17
+"Tower Hamlets 036A",16,0.61,76.17
+"Croydon 020A",16,0.61,76.17
+"Westminster 001A",16,0.61,76.17
+"Southwark 009A",16,0.61,76.17
+"Harrow 027F",16,0.61,76.17
+"Newham 021C",16,0.61,76.17
+"Hackney 011C",16,0.61,76.17
+"Islington 010A",16,0.61,76.17
+"Greenwich 003A",16,0.61,76.17
+"Bexley 003A",16,0.61,76.17
+"Lambeth 003C",16,0.61,76.17
+"Newham 017D",16,0.61,76.17
+"Enfield 025C",16,0.61,76.17
+"Tower Hamlets 005B",15,0.52,73.41
+"Hackney 002G",15,0.52,73.41
+"Richmond upon Thames 011C",15,0.52,73.41
+"Kensington and Chelsea 015B",15,0.52,73.41
+"Newham 036B",15,0.52,73.41
+"Newham 025E",15,0.52,73.41
+"Barking and Dagenham 023E",15,0.52,73.41
+"Croydon 006E",15,0.52,73.41
+"Barking and Dagenham 021D",15,0.52,73.41
+"Haringey 002A",15,0.52,73.41
+"Barking and Dagenham 012A",15,0.52,73.41
+"Southwark 008E",15,0.52,73.41
+"Brent 014E",15,0.52,73.41
+"Southwark 025E",15,0.52,73.41
+"Bromley 013E",15,0.52,73.41
+"Waltham Forest 008B",15,0.52,73.41
+"Hackney 014D",15,0.52,73.41
+"Haringey 020B",15,0.52,73.41
+"Barking and Dagenham 021G",15,0.52,73.41
+"Enfield 006B",15,0.52,73.41
+"Greenwich 034F",15,0.52,73.41
+"Kensington and Chelsea 021B",15,0.52,73.41
+"Waltham Forest 019D",15,0.52,73.41
+"Barking and Dagenham 015B",15,0.52,73.41
+"Waltham Forest 016D",15,0.52,73.41
+"Greenwich 003C",15,0.52,73.41
+"Hammersmith and Fulham 014D",15,0.52,73.41
+"Lambeth 032A",15,0.52,73.41
+"Bromley 015E",15,0.52,73.41
+"Tower Hamlets 001B",15,0.52,73.41
+"Hammersmith and Fulham 005A",15,0.52,73.41
+"Hillingdon 032B",15,0.52,73.41
+"Islington 018C",15,0.52,73.41
+"Ealing 032E",15,0.52,73.41
+"Merton 019B",15,0.52,73.41
+"Hounslow 031A",15,0.52,73.41
+"Bromley 024C",15,0.52,73.41
+"Hounslow 021D",15,0.52,73.41
+"Hammersmith and Fulham 017A",15,0.52,73.41
+"Bromley 014E",15,0.52,73.41
+"Islington 016F",15,0.52,73.41
+"Hounslow 006G",15,0.52,73.41
+"Barking and Dagenham 010A",15,0.52,73.41
+"Brent 029E",15,0.52,73.41
+"Hillingdon 017A",15,0.52,73.41
+"Kensington and Chelsea 003A",15,0.52,73.41
+"Newham 031A",15,0.52,73.41
+"Brent 011A",15,0.52,73.41
+"Bromley 008F",15,0.52,73.41
+"Tower Hamlets 021I",15,0.52,73.41
+"Lambeth 017B",15,0.52,73.41
+"Harrow 028B",15,0.52,73.41
+"Tower Hamlets 026D",15,0.52,73.41
+"Hillingdon 017C",15,0.52,73.41
+"Islington 001E",15,0.52,73.41
+"Waltham Forest 020D",15,0.52,73.41
+"Redbridge 034G",15,0.52,73.41
+"Hackney 013A",15,0.52,73.41
+"Bexley 019A",15,0.52,73.41
+"Havering 004F",15,0.52,73.41
+"Islington 010C",15,0.52,73.41
+"Camden 015C",15,0.52,73.41
+"Redbridge 032G",15,0.52,73.41
+"Lambeth 028C",15,0.52,73.41
+"Brent 024C",15,0.52,73.41
+"Brent 014F",15,0.52,73.41
+"Bromley 009E",15,0.52,73.41
+"Islington 010B",15,0.52,73.41
+"Islington 017D",15,0.52,73.41
+"Hillingdon 015A",15,0.52,73.41
+"Harrow 007A",15,0.52,73.41
+"Wandsworth 008B",15,0.52,73.41
+"Southwark 018D",15,0.52,73.41
+"Hillingdon 027C",15,0.52,73.41
+"Wandsworth 039E",15,0.52,73.41
+"Islington 005E",15,0.52,73.41
+"Hammersmith and Fulham 001B",15,0.52,73.41
+"Bromley 022C",15,0.52,73.41
+"Ealing 008A",15,0.52,73.41
+"Greenwich 012C",15,0.52,73.41
+"Hounslow 031D",15,0.52,73.41
+"Havering 011C",15,0.52,73.41
+"Haringey 019B",15,0.52,73.41
+"Croydon 005D",15,0.52,73.41
+"Tower Hamlets 024C",15,0.52,73.41
+"Waltham Forest 024B",15,0.52,73.41
+"Ealing 009B",15,0.52,73.41
+"Hounslow 026D",15,0.52,73.41
+"Newham 017C",15,0.52,73.41
+"Southwark 032D",15,0.52,73.41
+"Hounslow 031E",15,0.52,73.41
+"Wandsworth 024B",15,0.52,73.41
+"Islington 001D",15,0.52,73.41
+"Redbridge 022C",15,0.52,73.41
+"Waltham Forest 015D",15,0.52,73.41
+"Ealing 008C",15,0.52,73.41
+"Ealing 025D",15,0.52,73.41
+"Bexley 003C",15,0.52,73.41
+"Barking and Dagenham 023F",15,0.52,73.41
+"Tower Hamlets 014I",15,0.52,73.41
+"Islington 011C",15,0.52,73.41
+"Sutton 003A",15,0.52,73.41
+"Lambeth 019D",15,0.52,73.41
+"Newham 035D",15,0.52,73.41
+"Barking and Dagenham 008G",15,0.52,73.41
+"Hillingdon 027J",15,0.52,73.41
+"Hackney 007B",15,0.52,73.41
+"Hounslow 023D",15,0.52,73.41
+"Enfield 002C",15,0.52,73.41
+"Greenwich 011E",15,0.52,73.41
+"Hackney 011E",15,0.52,73.41
+"Kensington and Chelsea 017B",15,0.52,73.41
+"Hackney 011A",15,0.52,73.41
+"Tower Hamlets 008G",15,0.52,73.41
+"Enfield 015E",15,0.52,73.41
+"Hammersmith and Fulham 004B",15,0.52,73.41
+"Ealing 008D",15,0.52,73.41
+"Greenwich 037B",15,0.52,73.41
+"Croydon 026A",15,0.52,73.41
+"Tower Hamlets 026C",15,0.52,73.41
+"Lewisham 002B",15,0.52,73.41
+"Hillingdon 007D",15,0.52,73.41
+"Harrow 019C",15,0.52,73.41
+"Lewisham 028A",15,0.52,73.41
+"Hackney 020F",15,0.52,73.41
+"Lambeth 025A",15,0.52,73.41
+"Greenwich 001C",15,0.52,73.41
+"Newham 040D",15,0.52,73.41
+"Haringey 025C",15,0.52,73.41
+"Newham 005C",15,0.52,73.41
+"Barking and Dagenham 013D",15,0.52,73.41
+"Hounslow 018D",15,0.52,73.41
+"Bromley 019C",15,0.52,73.41
+"Hillingdon 020D",15,0.52,73.41
+"Harrow 007E",15,0.52,73.41
+"Lewisham 002A",15,0.52,73.41
+"Hillingdon 015J",15,0.52,73.41
+"Southwark 024B",15,0.52,73.41
+"Newham 001A",14,0.43,70.54
+"Enfield 024B",14,0.43,70.54
+"Barking and Dagenham 006E",14,0.43,70.54
+"Tower Hamlets 021J",14,0.43,70.54
+"Barking and Dagenham 010B",14,0.43,70.54
+"Hammersmith and Fulham 004D",14,0.43,70.54
+"Lambeth 029D",14,0.43,70.54
+"Southwark 021E",14,0.43,70.54
+"Westminster 015B",14,0.43,70.54
+"Harrow 013G",14,0.43,70.54
+"Enfield 006D",14,0.43,70.54
+"Newham 032C",14,0.43,70.54
+"Southwark 009C",14,0.43,70.54
+"Lambeth 026A",14,0.43,70.54
+"Waltham Forest 011D",14,0.43,70.54
+"Kensington and Chelsea 005C",14,0.43,70.54
+"Haringey 004B",14,0.43,70.54
+"Redbridge 010C",14,0.43,70.54
+"Wandsworth 011A",14,0.43,70.54
+"Tower Hamlets 008B",14,0.43,70.54
+"Lewisham 037A",14,0.43,70.54
+"Sutton 004A",14,0.43,70.54
+"Kensington and Chelsea 002B",14,0.43,70.54
+"Croydon 019A",14,0.43,70.54
+"Hounslow 010C",14,0.43,70.54
+"Hounslow 016A",14,0.43,70.54
+"Croydon 013D",14,0.43,70.54
+"Hillingdon 025A",14,0.43,70.54
+"Hounslow 007B",14,0.43,70.54
+"Merton 018B",14,0.43,70.54
+"Richmond upon Thames 006A",14,0.43,70.54
+"Waltham Forest 023E",14,0.43,70.54
+"Islington 019B",14,0.43,70.54
+"Hillingdon 025D",14,0.43,70.54
+"Newham 028C",14,0.43,70.54
+"Hounslow 027D",14,0.43,70.54
+"Haringey 008A",14,0.43,70.54
+"Redbridge 012A",14,0.43,70.54
+"Tower Hamlets 023C",14,0.43,70.54
+"Enfield 030B",14,0.43,70.54
+"Croydon 019B",14,0.43,70.54
+"Waltham Forest 013A",14,0.43,70.54
+"Waltham Forest 013B",14,0.43,70.54
+"Brent 006A",14,0.43,70.54
+"Hackney 028C",14,0.43,70.54
+"Camden 012A",14,0.43,70.54
+"Westminster 010A",14,0.43,70.54
+"Brent 007D",14,0.43,70.54
+"Haringey 006D",14,0.43,70.54
+"Waltham Forest 020B",14,0.43,70.54
+"Barking and Dagenham 017C",14,0.43,70.54
+"Haringey 007C",14,0.43,70.54
+"Richmond upon Thames 004D",14,0.43,70.54
+"Hackney 001C",14,0.43,70.54
+"Kensington and Chelsea 020C",14,0.43,70.54
+"Southwark 012G",14,0.43,70.54
+"Hackney 011D",14,0.43,70.54
+"Brent 001F",14,0.43,70.54
+"Greenwich 003B",14,0.43,70.54
+"Hackney 032A",14,0.43,70.54
+"Ealing 007A",14,0.43,70.54
+"Westminster 014E",14,0.43,70.54
+"Harrow 020C",14,0.43,70.54
+"Tower Hamlets 032B",14,0.43,70.54
+"Ealing 026B",14,0.43,70.54
+"Enfield 002A",14,0.43,70.54
+"Barking and Dagenham 004E",14,0.43,70.54
+"Wandsworth 018D",14,0.43,70.54
+"Bexley 019B",14,0.43,70.54
+"Redbridge 033C",14,0.43,70.54
+"Enfield 002E",14,0.43,70.54
+"Hillingdon 013C",14,0.43,70.54
+"Islington 018D",14,0.43,70.54
+"Southwark 019C",14,0.43,70.54
+"Merton 022A",14,0.43,70.54
+"Havering 011E",14,0.43,70.54
+"Barking and Dagenham 019F",14,0.43,70.54
+"Harrow 027A",14,0.43,70.54
+"Croydon 018D",14,0.43,70.54
+"Lewisham 006A",14,0.43,70.54
+"Tower Hamlets 016A",14,0.43,70.54
+"Hackney 020C",14,0.43,70.54
+"Brent 019E",14,0.43,70.54
+"Lewisham 003A",14,0.43,70.54
+"Sutton 021C",14,0.43,70.54
+"Hammersmith and Fulham 015E",14,0.43,70.54
+"Hammersmith and Fulham 012A",14,0.43,70.54
+"Hammersmith and Fulham 023G",14,0.43,70.54
+"Merton 001F",14,0.43,70.54
+"Hounslow 011A",14,0.43,70.54
+"Southwark 010B",14,0.43,70.54
+"Bexley 001A",14,0.43,70.54
+"Islington 007E",14,0.43,70.54
+"Waltham Forest 013E",14,0.43,70.54
+"Newham 001B",14,0.43,70.54
+"Hackney 002D",14,0.43,70.54
+"Wandsworth 007B",14,0.43,70.54
+"Lewisham 017D",14,0.43,70.54
+"Lambeth 021A",14,0.43,70.54
+"Newham 031B",14,0.43,70.54
+"Wandsworth 007D",14,0.43,70.54
+"Croydon 015F",14,0.43,70.54
+"Brent 035C",14,0.43,70.54
+"Croydon 001A",14,0.43,70.54
+"Redbridge 029C",14,0.43,70.54
+"Barnet 041C",14,0.43,70.54
+"Wandsworth 016C",14,0.43,70.54
+"Lewisham 031B",14,0.43,70.54
+"Hammersmith and Fulham 024A",14,0.43,70.54
+"Harrow 012E",14,0.43,70.54
+"Tower Hamlets 006A",14,0.43,70.54
+"Richmond upon Thames 011A",14,0.43,70.54
+"Sutton 005C",14,0.43,70.54
+"Haringey 037C",14,0.43,70.54
+"Hounslow 015E",14,0.43,70.54
+"Ealing 029F",14,0.43,70.54
+"Southwark 021A",14,0.43,70.54
+"Brent 028B",14,0.43,70.54
+"Westminster 005F",14,0.43,70.54
+"Barnet 023D",14,0.43,70.54
+"Camden 017D",14,0.43,70.54
+"Brent 018E",14,0.43,70.54
+"Newham 016D",14,0.43,70.54
+"Kingston upon Thames 006A",14,0.43,70.54
+"Lambeth 033A",14,0.43,70.54
+"Enfield 002D",14,0.43,70.54
+"Croydon 024D",14,0.43,70.54
+"Bexley 008F",14,0.43,70.54
+"Ealing 029B",14,0.43,70.54
+"Bexley 008I",14,0.43,70.54
+"Hounslow 029B",14,0.43,70.54
+"Southwark 004H",14,0.43,70.54
+"Ealing 026E",14,0.43,70.54
+"Bexley 028C",14,0.43,70.54
+"Ealing 024B",14,0.43,70.54
+"Brent 004A",14,0.43,70.54
+"Croydon 033E",14,0.43,70.54
+"Sutton 019B",14,0.43,70.54
+"Camden 015E",14,0.43,70.54
+"Bexley 004C",14,0.43,70.54
+"Harrow 030C",14,0.43,70.54
+"Lewisham 013A",14,0.43,70.54
+"Islington 006B",14,0.43,70.54
+"Islington 014A",13,0.33,66.69
+"Waltham Forest 026E",13,0.33,66.69
+"Greenwich 006C",13,0.33,66.69
+"Lambeth 027A",13,0.33,66.69
+"Wandsworth 037A",13,0.33,66.69
+"Newham 027A",13,0.33,66.69
+"Merton 018E",13,0.33,66.69
+"Newham 006B",13,0.33,66.69
+"Bromley 019D",13,0.33,66.69
+"Wandsworth 023B",13,0.33,66.69
+"Newham 019A",13,0.33,66.69
+"Redbridge 002A",13,0.33,66.69
+"Havering 012E",13,0.33,66.69
+"Westminster 024G",13,0.33,66.69
+"Southwark 024E",13,0.33,66.69
+"Kensington and Chelsea 020F",13,0.33,66.69
+"Barking and Dagenham 013E",13,0.33,66.69
+"Barnet 036F",13,0.33,66.69
+"Southwark 007E",13,0.33,66.69
+"Waltham Forest 003A",13,0.33,66.69
+"Newham 033A",13,0.33,66.69
+"Tower Hamlets 020A",13,0.33,66.69
+"Wandsworth 035B",13,0.33,66.69
+"Brent 021F",13,0.33,66.69
+"Barnet 032F",13,0.33,66.69
+"Ealing 015F",13,0.33,66.69
+"Wandsworth 013B",13,0.33,66.69
+"Bexley 015C",13,0.33,66.69
+"Tower Hamlets 011B",13,0.33,66.69
+"Croydon 016C",13,0.33,66.69
+"Croydon 036C",13,0.33,66.69
+"Lambeth 003D",13,0.33,66.69
+"Brent 003E",13,0.33,66.69
+"Hillingdon 028A",13,0.33,66.69
+"Haringey 032D",13,0.33,66.69
+"Kensington and Chelsea 013C",13,0.33,66.69
+"Brent 029D",13,0.33,66.69
+"Bromley 009C",13,0.33,66.69
+"Waltham Forest 013D",13,0.33,66.69
+"Tower Hamlets 006C",13,0.33,66.69
+"Greenwich 029C",13,0.33,66.69
+"Hackney 008A",13,0.33,66.69
+"Southwark 019E",13,0.33,66.69
+"Tower Hamlets 001G",13,0.33,66.69
+"Greenwich 008D",13,0.33,66.69
+"Merton 018C",13,0.33,66.69
+"Lewisham 011C",13,0.33,66.69
+"Southwark 014G",13,0.33,66.69
+"Islington 014E",13,0.33,66.69
+"Hammersmith and Fulham 006A",13,0.33,66.69
+"Westminster 009A",13,0.33,66.69
+"Newham 029A",13,0.33,66.69
+"Bexley 002A",13,0.33,66.69
+"Islington 021D",13,0.33,66.69
+"Enfield 023D",13,0.33,66.69
+"Hounslow 001C",13,0.33,66.69
+"Lambeth 002B",13,0.33,66.69
+"Hounslow 023A",13,0.33,66.69
+"Greenwich 019C",13,0.33,66.69
+"Bromley 009D",13,0.33,66.69
+"Kensington and Chelsea 019A",13,0.33,66.69
+"Lewisham 001A",13,0.33,66.69
+"Harrow 002E",13,0.33,66.69
+"Lewisham 020C",13,0.33,66.69
+"Richmond upon Thames 003D",13,0.33,66.69
+"Enfield 023C",13,0.33,66.69
+"Hackney 032B",13,0.33,66.69
+"Hackney 020D",13,0.33,66.69
+"Southwark 004I",13,0.33,66.69
+"Lambeth 005E",13,0.33,66.69
+"Hounslow 005B",13,0.33,66.69
+"Wandsworth 004C",13,0.33,66.69
+"Enfield 025G",13,0.33,66.69
+"Brent 009D",13,0.33,66.69
+"Hackney 026E",13,0.33,66.69
+"Lambeth 002E",13,0.33,66.69
+"Islington 014D",13,0.33,66.69
+"Southwark 020D",13,0.33,66.69
+"Brent 015A",13,0.33,66.69
+"Ealing 043C",13,0.33,66.69
+"Merton 003A",13,0.33,66.69
+"Barking and Dagenham 002A",13,0.33,66.69
+"Ealing 033E",13,0.33,66.69
+"Hounslow 023B",13,0.33,66.69
+"Waltham Forest 014B",13,0.33,66.69
+"Sutton 002E",13,0.33,66.69
+"Hounslow 020A",13,0.33,66.69
+"Hounslow 015B",13,0.33,66.69
+"Wandsworth 034B",13,0.33,66.69
+"Islington 004D",13,0.33,66.69
+"Tower Hamlets 018F",13,0.33,66.69
+"Redbridge 023C",13,0.33,66.69
+"Tower Hamlets 008E",13,0.33,66.69
+"Lambeth 034D",13,0.33,66.69
+"Southwark 008B",13,0.33,66.69
+"Ealing 033B",13,0.33,66.69
+"Hackney 029C",13,0.33,66.69
+"Hounslow 010D",13,0.33,66.69
+"Southwark 014D",13,0.33,66.69
+"Westminster 021A",13,0.33,66.69
+"Barnet 038C",13,0.33,66.69
+"Bromley 041E",13,0.33,66.69
+"Haringey 011C",13,0.33,66.69
+"Haringey 002C",13,0.33,66.69
+"Bromley 001C",13,0.33,66.69
+"Lewisham 005C",13,0.33,66.69
+"Ealing 029A",13,0.33,66.69
+"Westminster 003B",13,0.33,66.69
+"Hammersmith and Fulham 015A",13,0.33,66.69
+"Enfield 032E",13,0.33,66.69
+"Harrow 005A",13,0.33,66.69
+"Ealing 027A",13,0.33,66.69
+"Camden 020A",13,0.33,66.69
+"Hillingdon 020A",13,0.33,66.69
+"Kingston upon Thames 020C",13,0.33,66.69
+"Southwark 010A",13,0.33,66.69
+"Southwark 011A",13,0.33,66.69
+"Camden 019E",13,0.33,66.69
+"Havering 017B",13,0.33,66.69
+"Brent 009G",13,0.33,66.69
+"Redbridge 040B",13,0.33,66.69
+"Hillingdon 018B",13,0.33,66.69
+"Haringey 008C",13,0.33,66.69
+"Hackney 025B",13,0.33,66.69
+"Westminster 010G",13,0.33,66.69
+"Camden 007D",13,0.33,66.69
+"Newham 011C",13,0.33,66.69
+"Tower Hamlets 021A",13,0.33,66.69
+"Barking and Dagenham 019D",13,0.33,66.69
+"Hounslow 031B",13,0.33,66.69
+"Southwark 020A",13,0.33,66.69
+"Westminster 009H",13,0.33,66.69
+"Southwark 023B",13,0.33,66.69
+"Haringey 008B",13,0.33,66.69
+"Westminster 019D",13,0.33,66.69
+"Southwark 021B",13,0.33,66.69
+"Hackney 003D",13,0.33,66.69
+"Hillingdon 023C",13,0.33,66.69
+"Havering 022B",13,0.33,66.69
+"Hounslow 017A",13,0.33,66.69
+"Hillingdon 022D",13,0.33,66.69
+"Hammersmith and Fulham 021E",13,0.33,66.69
+"Westminster 002B",13,0.33,66.69
+"Hammersmith and Fulham 002A",13,0.33,66.69
+"Ealing 003F",13,0.33,66.69
+"Westminster 022C",13,0.33,66.69
+"Enfield 014C",13,0.33,66.69
+"Merton 023C",13,0.33,66.69
+"Lewisham 008B",13,0.33,66.69
+"Hammersmith and Fulham 007C",13,0.33,66.69
+"Greenwich 009A",13,0.33,66.69
+"Barking and Dagenham 014B",13,0.33,66.69
+"Barnet 022C",13,0.33,66.69
+"Tower Hamlets 019F",13,0.33,66.69
+"Sutton 006B",13,0.33,66.69
+"Enfield 023B",13,0.33,66.69
+"Tower Hamlets 023F",13,0.33,66.69
+"Croydon 014A",13,0.33,66.69
+"Westminster 017B",13,0.33,66.69
+"Croydon 028E",13,0.33,66.69
+"Enfield 009D",13,0.33,66.69
+"Tower Hamlets 035A",13,0.33,66.69
+"Newham 007D",13,0.33,66.69
+"Tower Hamlets 014C",13,0.33,66.69
+"Enfield 004B",13,0.33,66.69
+"Kensington and Chelsea 005B",13,0.33,66.69
+"Barking and Dagenham 010D",13,0.33,66.69
+"Barnet 002D",13,0.33,66.69
+"Kensington and Chelsea 001E",13,0.33,66.69
+"Southwark 031D",13,0.33,66.69
+"Wandsworth 020E",13,0.33,66.69
+"Camden 007C",13,0.33,66.69
+"Barnet 011E",13,0.33,66.69
+"Southwark 028D",13,0.33,66.69
+"Brent 026C",13,0.33,66.69
+"Croydon 010A",13,0.33,66.69
+"Southwark 019B",13,0.33,66.69
+"Enfield 006C",13,0.33,66.69
+"Newham 024D",13,0.33,66.69
+"Westminster 009K",13,0.33,66.69
+"Brent 025E",13,0.33,66.69
+"Hounslow 001A",13,0.33,66.69
+"Lambeth 002C",13,0.33,66.69
+"Newham 022B",13,0.33,66.69
+"Hounslow 027B",13,0.33,66.69
+"Waltham Forest 026C",13,0.33,66.69
+"Hounslow 014A",13,0.33,66.69
+"Brent 035A",13,0.33,66.69
+"Croydon 040C",13,0.33,66.69
+"Tower Hamlets 002B",13,0.33,66.69
+"Hillingdon 020E",13,0.33,66.69
+"Barking and Dagenham 019I",13,0.33,66.69
+"Richmond upon Thames 015C",12,0.22,62.38
+"Newham 010A",12,0.22,62.38
+"Bromley 006C",12,0.22,62.38
+"Enfield 012A",12,0.22,62.38
+"Sutton 003C",12,0.22,62.38
+"Newham 022F",12,0.22,62.38
+"Lewisham 010B",12,0.22,62.38
+"Hammersmith and Fulham 003C",12,0.22,62.38
+"Wandsworth 032C",12,0.22,62.38
+"Bromley 033D",12,0.22,62.38
+"Hammersmith and Fulham 016A",12,0.22,62.38
+"Enfield 007E",12,0.22,62.38
+"Enfield 037A",12,0.22,62.38
+"Barking and Dagenham 011E",12,0.22,62.38
+"Croydon 014C",12,0.22,62.38
+"Newham 009A",12,0.22,62.38
+"Wandsworth 035D",12,0.22,62.38
+"Enfield 020A",12,0.22,62.38
+"Tower Hamlets 003D",12,0.22,62.38
+"Merton 016D",12,0.22,62.38
+"Brent 009B",12,0.22,62.38
+"Barking and Dagenham 022D",12,0.22,62.38
+"Greenwich 017A",12,0.22,62.38
+"Islington 016B",12,0.22,62.38
+"Greenwich 021A",12,0.22,62.38
+"Lewisham 040A",12,0.22,62.38
+"Lambeth 008D",12,0.22,62.38
+"Haringey 024A",12,0.22,62.38
+"Sutton 017B",12,0.22,62.38
+"Newham 042D",12,0.22,62.38
+"Southwark 033E",12,0.22,62.38
+"Bromley 014D",12,0.22,62.38
+"Lewisham 007C",12,0.22,62.38
+"Greenwich 040C",12,0.22,62.38
+"Merton 004A",12,0.22,62.38
+"Hillingdon 019D",12,0.22,62.38
+"Hounslow 011B",12,0.22,62.38
+"Camden 019C",12,0.22,62.38
+"Enfield 035A",12,0.22,62.38
+"Lambeth 017D",12,0.22,62.38
+"Hounslow 007D",12,0.22,62.38
+"Hillingdon 020B",12,0.22,62.38
+"Lewisham 026A",12,0.22,62.38
+"Hackney 028B",12,0.22,62.38
+"Bexley 004D",12,0.22,62.38
+"Hackney 010B",12,0.22,62.38
+"Ealing 001E",12,0.22,62.38
+"Wandsworth 010H",12,0.22,62.38
+"Wandsworth 038B",12,0.22,62.38
+"Hounslow 011D",12,0.22,62.38
+"Newham 021A",12,0.22,62.38
+"Newham 016B",12,0.22,62.38
+"Harrow 013F",12,0.22,62.38
+"Brent 007E",12,0.22,62.38
+"Barking and Dagenham 013B",12,0.22,62.38
+"Islington 003D",12,0.22,62.38
+"Lambeth 011C",12,0.22,62.38
+"Camden 006D",12,0.22,62.38
+"Hackney 008D",12,0.22,62.38
+"Lewisham 016C",12,0.22,62.38
+"Brent 011E",12,0.22,62.38
+"Hackney 022E",12,0.22,62.38
+"Bromley 032B",12,0.22,62.38
+"Merton 022E",12,0.22,62.38
+"Haringey 033D",12,0.22,62.38
+"Camden 012B",12,0.22,62.38
+"Hammersmith and Fulham 011D",12,0.22,62.38
+"Croydon 013E",12,0.22,62.38
+"Barnet 015D",12,0.22,62.38
+"Islington 012B",12,0.22,62.38
+"Greenwich 041B",12,0.22,62.38
+"Hillingdon 021D",12,0.22,62.38
+"Ealing 012A",12,0.22,62.38
+"Westminster 024B",12,0.22,62.38
+"Ealing 027E",12,0.22,62.38
+"Greenwich 029E",12,0.22,62.38
+"Islington 005D",12,0.22,62.38
+"Kingston upon Thames 016E",12,0.22,62.38
+"Southwark 015D",12,0.22,62.38
+"Greenwich 011C",12,0.22,62.38
+"Wandsworth 004H",12,0.22,62.38
+"Hackney 010A",12,0.22,62.38
+"Greenwich 009D",12,0.22,62.38
+"Waltham Forest 011C",12,0.22,62.38
+"Newham 006C",12,0.22,62.38
+"Waltham Forest 014D",12,0.22,62.38
+"Lewisham 039B",12,0.22,62.38
+"Lewisham 003C",12,0.22,62.38
+"Croydon 004A",12,0.22,62.38
+"Camden 018C",12,0.22,62.38
+"Kensington and Chelsea 009A",12,0.22,62.38
+"Lambeth 021D",12,0.22,62.38
+"Merton 017A",12,0.22,62.38
+"Lewisham 013C",12,0.22,62.38
+"Brent 022E",12,0.22,62.38
+"Barnet 019C",12,0.22,62.38
+"Haringey 011B",12,0.22,62.38
+"Lambeth 018D",12,0.22,62.38
+"Hillingdon 025E",12,0.22,62.38
+"Barking and Dagenham 020C",12,0.22,62.38
+"Newham 004C",12,0.22,62.38
+"Ealing 033D",12,0.22,62.38
+"Hillingdon 028D",12,0.22,62.38
+"Brent 014D",12,0.22,62.38
+"Richmond upon Thames 012D",12,0.22,62.38
+"Westminster 007E",12,0.22,62.38
+"Havering 016E",12,0.22,62.38
+"Barking and Dagenham 009A",12,0.22,62.38
+"Enfield 018B",12,0.22,62.38
+"Hackney 004D",12,0.22,62.38
+"Redbridge 020A",12,0.22,62.38
+"Wandsworth 012A",12,0.22,62.38
+"Bromley 040C",12,0.22,62.38
+"Newham 003C",12,0.22,62.38
+"Newham 030B",12,0.22,62.38
+"Wandsworth 014E",12,0.22,62.38
+"Waltham Forest 016A",12,0.22,62.38
+"Wandsworth 003A",12,0.22,62.38
+"Enfield 017A",12,0.22,62.38
+"Lewisham 025B",12,0.22,62.38
+"Lambeth 005C",12,0.22,62.38
+"Islington 004A",12,0.22,62.38
+"Lewisham 041C",12,0.22,62.38
+"Newham 008D",12,0.22,62.38
+"Merton 012A",12,0.22,62.38
+"Waltham Forest 001B",12,0.22,62.38
+"Lambeth 007E",12,0.22,62.38
+"Camden 009B",12,0.22,62.38
+"Havering 004D",12,0.22,62.38
+"Hackney 014A",12,0.22,62.38
+"Newham 029B",12,0.22,62.38
+"Southwark 001D",12,0.22,62.38
+"Islington 017A",12,0.22,62.38
+"Hillingdon 022A",12,0.22,62.38
+"Harrow 008E",12,0.22,62.38
+"Wandsworth 018A",12,0.22,62.38
+"Newham 010E",12,0.22,62.38
+"Lewisham 030A",12,0.22,62.38
+"Wandsworth 039A",12,0.22,62.38
+"Hackney 031B",12,0.22,62.38
+"Tower Hamlets 013B",12,0.22,62.38
+"Hillingdon 032E",12,0.22,62.38
+"Hounslow 016C",12,0.22,62.38
+"Hounslow 017G",12,0.22,62.38
+"Tower Hamlets 016C",12,0.22,62.38
+"Tower Hamlets 007B",12,0.22,62.38
+"Barking and Dagenham 016E",12,0.22,62.38
+"Barking and Dagenham 004F",12,0.22,62.38
+"Croydon 021B",12,0.22,62.38
+"Southwark 027C",12,0.22,62.38
+"Southwark 008D",12,0.22,62.38
+"Lewisham 001H",12,0.22,62.38
+"Havering 012D",12,0.22,62.38
+"Croydon 006D",12,0.22,62.38
+"Barking and Dagenham 002E",12,0.22,62.38
+"Westminster 019F",12,0.22,62.38
+"Wandsworth 003B",12,0.22,62.38
+"Barking and Dagenham 022B",12,0.22,62.38
+"Harrow 021C",12,0.22,62.38
+"Ealing 016A",12,0.22,62.38
+"Islington 018E",12,0.22,62.38
+"Croydon 013A",12,0.22,62.38
+"Westminster 004E",12,0.22,62.38
+"Kensington and Chelsea 018A",12,0.22,62.38
+"Redbridge 031D",12,0.22,62.38
+"Bexley 001C",12,0.22,62.38
+"Greenwich 031C",12,0.22,62.38
+"Kingston upon Thames 017D",12,0.22,62.38
+"Haringey 010B",12,0.22,62.38
+"Haringey 035D",12,0.22,62.38
+"Kensington and Chelsea 003E",12,0.22,62.38
+"Barnet 043D",12,0.22,62.38
+"Brent 003A",12,0.22,62.38
+"Merton 016A",12,0.22,62.38
+"Croydon 015B",12,0.22,62.38
+"Haringey 027B",12,0.22,62.38
+"Redbridge 031F",12,0.22,62.38
+"Camden 013E",12,0.22,62.38
+"Lambeth 024B",12,0.22,62.38
+"Greenwich 035I",12,0.22,62.38
+"Redbridge 040A",12,0.22,62.38
+"Haringey 026C",12,0.22,62.38
+"Sutton 004G",12,0.22,62.38
+"Newham 033G",12,0.22,62.38
+"Newham 041D",12,0.22,62.38
+"Ealing 005D",12,0.22,62.38
+"Ealing 024A",12,0.22,62.38
+"Bromley 035B",12,0.22,62.38
+"Harrow 009B",12,0.22,62.38
+"Barking and Dagenham 007A",12,0.22,62.38
+"Croydon 008C",12,0.22,62.38
+"Newham 003D",12,0.22,62.38
+"Brent 027A",12,0.22,62.38
+"Camden 022D",12,0.22,62.38
+"Barking and Dagenham 008A",12,0.22,62.38
+"Croydon 011B",12,0.22,62.38
+"Hillingdon 029D",12,0.22,62.38
+"Enfield 025A",12,0.22,62.38
+"Westminster 003C",12,0.22,62.38
+"Croydon 028C",12,0.22,62.38
+"Hounslow 017B",12,0.22,62.38
+"Southwark 016A",12,0.22,62.38
+"Newham 027B",12,0.22,62.38
+"Tower Hamlets 019D",12,0.22,62.38
+"Westminster 001D",12,0.22,62.38
+"Brent 010E",12,0.22,62.38
+"Redbridge 009G",12,0.22,62.38
+"Merton 020D",12,0.22,62.38
+"Southwark 026B",12,0.22,62.38
+"Newham 018E",12,0.22,62.38
+"Tower Hamlets 008C",12,0.22,62.38
+"Enfield 029A",12,0.22,62.38
+"Lewisham 029B",12,0.22,62.38
+"Newham 026D",12,0.22,62.38
+"Croydon 024F",12,0.22,62.38
+"Waltham Forest 028F",11,0.10,56.75
+"Croydon 014D",11,0.10,56.75
+"Hammersmith and Fulham 006C",11,0.10,56.75
+"Havering 011B",11,0.10,56.75
+"Croydon 010B",11,0.10,56.75
+"Lewisham 017B",11,0.10,56.75
+"Barking and Dagenham 011A",11,0.10,56.75
+"Lewisham 002C",11,0.10,56.75
+"Wandsworth 021A",11,0.10,56.75
+"Haringey 009D",11,0.10,56.75
+"Enfield 005A",11,0.10,56.75
+"Kingston upon Thames 017C",11,0.10,56.75
+"Hackney 006D",11,0.10,56.75
+"Islington 020G",11,0.10,56.75
+"Lewisham 025A",11,0.10,56.75
+"Merton 020E",11,0.10,56.75
+"Wandsworth 013D",11,0.10,56.75
+"Ealing 010D",11,0.10,56.75
+"Croydon 022F",11,0.10,56.75
+"Kensington and Chelsea 007C",11,0.10,56.75
+"Lewisham 025D",11,0.10,56.75
+"Hackney 025G",11,0.10,56.75
+"Southwark 035B",11,0.10,56.75
+"Lewisham 038B",11,0.10,56.75
+"Southwark 026D",11,0.10,56.75
+"Enfield 022B",11,0.10,56.75
+"Havering 003B",11,0.10,56.75
+"Lambeth 010E",11,0.10,56.75
+"Enfield 012B",11,0.10,56.75
+"Wandsworth 039D",11,0.10,56.75
+"Hackney 031A",11,0.10,56.75
+"Redbridge 006C",11,0.10,56.75
+"Haringey 018C",11,0.10,56.75
+"Lambeth 032C",11,0.10,56.75
+"Islington 011E",11,0.10,56.75
+"Lambeth 011A",11,0.10,56.75
+"Lambeth 034E",11,0.10,56.75
+"Lewisham 027E",11,0.10,56.75
+"Greenwich 037C",11,0.10,56.75
+"Tower Hamlets 030A",11,0.10,56.75
+"Wandsworth 016D",11,0.10,56.75
+"Camden 012E",11,0.10,56.75
+"Westminster 016E",11,0.10,56.75
+"Westminster 022E",11,0.10,56.75
+"Newham 038D",11,0.10,56.75
+"Hounslow 028C",11,0.10,56.75
+"Camden 002E",11,0.10,56.75
+"Lambeth 026E",11,0.10,56.75
+"Kensington and Chelsea 012D",11,0.10,56.75
+"Newham 026C",11,0.10,56.75
+"Hackney 024A",11,0.10,56.75
+"Waltham Forest 019B",11,0.10,56.75
+"Southwark 007D",11,0.10,56.75
+"Barking and Dagenham 016C",11,0.10,56.75
+"Bromley 040D",11,0.10,56.75
+"Sutton 011B",11,0.10,56.75
+"Newham 026A",11,0.10,56.75
+"Greenwich 012D",11,0.10,56.75
+"Bexley 023C",11,0.10,56.75
+"Hillingdon 004A",11,0.10,56.75
+"Camden 007B",11,0.10,56.75
+"Ealing 008E",11,0.10,56.75
+"Haringey 010D",11,0.10,56.75
+"Lambeth 009B",11,0.10,56.75
+"Lewisham 015B",11,0.10,56.75
+"Barking and Dagenham 023D",11,0.10,56.75
+"Barking and Dagenham 017B",11,0.10,56.75
+"Enfield 018E",11,0.10,56.75
+"Ealing 006C",11,0.10,56.75
+"Harrow 030A",11,0.10,56.75
+"Camden 001C",11,0.10,56.75
+"Haringey 026D",11,0.10,56.75
+"Hounslow 026B",11,0.10,56.75
+"Lambeth 020D",11,0.10,56.75
+"Haringey 018B",11,0.10,56.75
+"Southwark 036C",11,0.10,56.75
+"Lewisham 030B",11,0.10,56.75
+"Kensington and Chelsea 012E",11,0.10,56.75
+"Brent 018B",11,0.10,56.75
+"Enfield 027A",11,0.10,56.75
+"Southwark 035C",11,0.10,56.75
+"Islington 018A",11,0.10,56.75
+"Redbridge 023B",11,0.10,56.75
+"Tower Hamlets 001F",11,0.10,56.75
+"Hackney 023D",11,0.10,56.75
+"Merton 007E",11,0.10,56.75
+"Barking and Dagenham 023C",11,0.10,56.75
+"Greenwich 009B",11,0.10,56.75
+"Redbridge 007A",11,0.10,56.75
+"Camden 015D",11,0.10,56.75
+"Havering 004A",11,0.10,56.75
+"Haringey 033A",11,0.10,56.75
+"Barnet 012E",11,0.10,56.75
+"Greenwich 025A",11,0.10,56.75
+"Tower Hamlets 020F",11,0.10,56.75
+"Havering 001D",11,0.10,56.75
+"Ealing 006A",11,0.10,56.75
+"Lewisham 020G",11,0.10,56.75
+"Bexley 008B",11,0.10,56.75
+"Hackney 025F",11,0.10,56.75
+"Redbridge 036A",11,0.10,56.75
+"Hounslow 024D",11,0.10,56.75
+"Croydon 009B",11,0.10,56.75
+"Brent 028C",11,0.10,56.75
+"Islington 012E",11,0.10,56.75
+"Lewisham 034C",11,0.10,56.75
+"Havering 028E",11,0.10,56.75
+"Barnet 027C",11,0.10,56.75
+"Haringey 010C",11,0.10,56.75
+"Redbridge 035H",11,0.10,56.75
+"Lambeth 035E",11,0.10,56.75
+"Tower Hamlets 023E",11,0.10,56.75
+"Islington 001B",11,0.10,56.75
+"Newham 006A",11,0.10,56.75
+"Kensington and Chelsea 019C",11,0.10,56.75
+"Enfield 012C",11,0.10,56.75
+"Newham 023E",11,0.10,56.75
+"Redbridge 008B",11,0.10,56.75
+"Lewisham 020D",11,0.10,56.75
+"Hillingdon 024E",11,0.10,56.75
+"Lambeth 025B",11,0.10,56.75
+"Hounslow 024C",11,0.10,56.75
+"Newham 010D",11,0.10,56.75
+"Ealing 002C",11,0.10,56.75
+"Waltham Forest 013F",11,0.10,56.75
+"Ealing 001B",11,0.10,56.75
+"Redbridge 002C",11,0.10,56.75
+"Greenwich 001A",11,0.10,56.75
+"Harrow 011D",11,0.10,56.75
+"Newham 009C",11,0.10,56.75
+"Bromley 001A",11,0.10,56.75
+"Newham 038C",11,0.10,56.75
+"Hammersmith and Fulham 010D",11,0.10,56.75
+"Merton 023E",11,0.10,56.75
+"Lambeth 022B",11,0.10,56.75
+"Camden 022A",11,0.10,56.75
+"Harrow 011A",11,0.10,56.75
+"Hillingdon 023E",11,0.10,56.75
+"Enfield 035F",11,0.10,56.75
+"Sutton 015C",11,0.10,56.75
+"Waltham Forest 018E",11,0.10,56.75
+"Redbridge 015D",11,0.10,56.75
+"Hillingdon 024A",11,0.10,56.75
+"Newham 029C",11,0.10,56.75
+"Barking and Dagenham 019A",11,0.10,56.75
+"Hounslow 022E",11,0.10,56.75
+"Southwark 016D",11,0.10,56.75
+"Newham 008E",11,0.10,56.75
+"Waltham Forest 028B",11,0.10,56.75
+"Haringey 030D",11,0.10,56.75
+"Greenwich 019B",11,0.10,56.75
+"Redbridge 034D",11,0.10,56.75
+"Tower Hamlets 032A",11,0.10,56.75
+"Ealing 019E",11,0.10,56.75
+"Bexley 007C",11,0.10,56.75
+"Greenwich 041A",11,0.10,56.75
+"Greenwich 031D",11,0.10,56.75
+"Enfield 027C",11,0.10,56.75
+"Tower Hamlets 005D",11,0.10,56.75
+"Haringey 017D",11,0.10,56.75
+"Croydon 047D",11,0.10,56.75
+"Haringey 030B",11,0.10,56.75
+"Merton 018A",11,0.10,56.75
+"Harrow 002F",11,0.10,56.75
+"Newham 041C",11,0.10,56.75
+"Greenwich 009C",11,0.10,56.75
+"Merton 014D",11,0.10,56.75
+"Hackney 016E",11,0.10,56.75
+"Hackney 013B",11,0.10,56.75
+"Enfield 035C",11,0.10,56.75
+"Croydon 007E",11,0.10,56.75
+"Hackney 014E",11,0.10,56.75
+"Sutton 001E",11,0.10,56.75
+"Enfield 005B",11,0.10,56.75
+"Waltham Forest 012C",11,0.10,56.75
+"Islington 004C",11,0.10,56.75
+"Sutton 018C",11,0.10,56.75
+"Ealing 017D",11,0.10,56.75
+"Southwark 010E",11,0.10,56.75
+"Bromley 009B",11,0.10,56.75
+"Barnet 013A",11,0.10,56.75
+"Enfield 001A",11,0.10,56.75
+"Croydon 034E",11,0.10,56.75
+"Islington 013A",11,0.10,56.75
+"Wandsworth 006E",11,0.10,56.75
+"Havering 012A",11,0.10,56.75
+"Bromley 016A",11,0.10,56.75
+"Tower Hamlets 011F",11,0.10,56.75
+"Bexley 010A",11,0.10,56.75
+"Kensington and Chelsea 021E",11,0.10,56.75
+"Lewisham 038A",11,0.10,56.75
+"Kensington and Chelsea 006D",11,0.10,56.75
+"Brent 027D",11,0.10,56.75
+"Southwark 004G",11,0.10,56.75
+"Havering 001A",11,0.10,56.75
+"Islington 014C",11,0.10,56.75
+"Sutton 014B",11,0.10,56.75
+"Ealing 031D",11,0.10,56.75
+"Newham 014A",11,0.10,56.75
+"Southwark 026A",11,0.10,56.75
+"Lewisham 027B",11,0.10,56.75
+"Bromley 005C",11,0.10,56.75
+"Harrow 029C",11,0.10,56.75
+"Tower Hamlets 002C",11,0.10,56.75
+"Lambeth 025E",11,0.10,56.75
+"Croydon 026C",11,0.10,56.75
+"Bexley 017C",11,0.10,56.75
+"Redbridge 031C",11,0.10,56.75
+"Enfield 024E",11,0.10,56.75
+"Greenwich 003E",11,0.10,56.75
+"Wandsworth 008A",11,0.10,56.75
+"Newham 031D",11,0.10,56.75
+"Greenwich 015A",11,0.10,56.75
+"Hammersmith and Fulham 004C",11,0.10,56.75
+"Westminster 019A",11,0.10,56.75
+"Croydon 032D",11,0.10,56.75
+"Lambeth 011D",11,0.10,56.75
+"Greenwich 006A",11,0.10,56.75
+"Southwark 019D",11,0.10,56.75
+"Sutton 011C",11,0.10,56.75
+"Greenwich 005F",11,0.10,56.75
+"Wandsworth 018E",11,0.10,56.75
+"Kensington and Chelsea 011C",11,0.10,56.75
+"Hounslow 009C",11,0.10,56.75
+"Tower Hamlets 024F",11,0.10,56.75
+"Haringey 026B",11,0.10,56.75
+"Hammersmith and Fulham 008D",11,0.10,56.75
+"Hillingdon 003B",11,0.10,56.75
+"Tower Hamlets 032E",11,0.10,56.75
+"Bromley 013C",11,0.10,56.75
+"Islington 003E",11,0.10,56.75
+"Lambeth 011E",11,0.10,56.75
+"Richmond upon Thames 003C",11,0.10,56.75
+"Barnet 034A",11,0.10,56.75
+"Harrow 023B",11,0.10,56.75
+"Lambeth 015A",11,0.10,56.75
+"Redbridge 009E",11,0.10,56.75
+"Barking and Dagenham 012B",11,0.10,56.75
+"Lambeth 033B",11,0.10,56.75
+"Islington 008D",11,0.10,56.75
+"Enfield 030E",11,0.10,56.75
+"Tower Hamlets 017B",11,0.10,56.75
+"Islington 007D",11,0.10,56.75
+"Enfield 032C",11,0.10,56.75
+"Harrow 020A",11,0.10,56.75
+"Haringey 006A",11,0.10,56.75
+"Islington 009B",11,0.10,56.75
+"Brent 020C",11,0.10,56.75
+"Westminster 004B",11,0.10,56.75
+"Camden 018D",11,0.10,56.75
+"Southwark 031E",11,0.10,56.75
+"Bromley 004D",11,0.10,56.75
+"Brent 006E",11,0.10,56.75
+"Enfield 025E",11,0.10,56.75
+"Merton 016E",11,0.10,56.75
+"Richmond upon Thames 002B",11,0.10,56.75
+"Hackney 024F",11,0.10,56.75
+"Islington 008C",11,0.10,56.75
+"Croydon 037B",11,0.10,56.75
+"Tower Hamlets 018E",11,0.10,56.75
+"Southwark 022B",11,0.10,56.75
+"Harrow 001A",11,0.10,56.75
+"Sutton 001B",11,0.10,56.75
+"Ealing 029C",11,0.10,56.75
+"Croydon 030E",11,0.10,56.75
+"Lewisham 027C",11,0.10,56.75
+"Croydon 031C",11,0.10,56.75
+"Hackney 019F",11,0.10,56.75
+"Hackney 007F",11,0.10,56.75
+"Newham 029D",11,0.10,56.75
+"Waltham Forest 018D",11,0.10,56.75
+"Croydon 005C",11,0.10,56.75
+"Haringey 027C",11,0.10,56.75
+"Hillingdon 023B",11,0.10,56.75
+"Sutton 009B",11,0.10,56.75
+"Bexley 028D",11,0.10,56.75
+"Hackney 024C",11,0.10,56.75
+"Tower Hamlets 004F",11,0.10,56.75
+"Barnet 015E",11,0.10,56.75
+"Hackney 019C",11,0.10,56.75
+"Ealing 001A",11,0.10,56.75
+"Camden 009E",10,-0.03,50.10
+"Newham 001D",10,-0.03,50.10
+"Southwark 006B",10,-0.03,50.10
+"Brent 018A",10,-0.03,50.10
+"Camden 013B",10,-0.03,50.10
+"Hammersmith and Fulham 019D",10,-0.03,50.10
+"Brent 022B",10,-0.03,50.10
+"Haringey 013C",10,-0.03,50.10
+"Lambeth 025D",10,-0.03,50.10
+"Southwark 008A",10,-0.03,50.10
+"Lewisham 019E",10,-0.03,50.10
+"Hammersmith and Fulham 015B",10,-0.03,50.10
+"Newham 039A",10,-0.03,50.10
+"Hillingdon 024D",10,-0.03,50.10
+"Sutton 007B",10,-0.03,50.10
+"Lewisham 013B",10,-0.03,50.10
+"Ealing 039B",10,-0.03,50.10
+"Brent 010H",10,-0.03,50.10
+"Barnet 014C",10,-0.03,50.10
+"Hammersmith and Fulham 016B",10,-0.03,50.10
+"Merton 007B",10,-0.03,50.10
+"Croydon 008B",10,-0.03,50.10
+"Barking and Dagenham 004B",10,-0.03,50.10
+"Hounslow 021C",10,-0.03,50.10
+"Ealing 038B",10,-0.03,50.10
+"Redbridge 009C",10,-0.03,50.10
+"Southwark 015F",10,-0.03,50.10
+"Bexley 007E",10,-0.03,50.10
+"Westminster 006E",10,-0.03,50.10
+"Redbridge 034C",10,-0.03,50.10
+"Croydon 007D",10,-0.03,50.10
+"Havering 003C",10,-0.03,50.10
+"Kingston upon Thames 018A",10,-0.03,50.10
+"Lambeth 024C",10,-0.03,50.10
+"Waltham Forest 021A",10,-0.03,50.10
+"Hackney 011B",10,-0.03,50.10
+"Camden 020D",10,-0.03,50.10
+"Havering 028D",10,-0.03,50.10
+"Havering 004C",10,-0.03,50.10
+"Southwark 031A",10,-0.03,50.10
+"Bromley 015D",10,-0.03,50.10
+"Barking and Dagenham 011B",10,-0.03,50.10
+"Redbridge 002B",10,-0.03,50.10
+"Southwark 014B",10,-0.03,50.10
+"Lewisham 035D",10,-0.03,50.10
+"Haringey 005A",10,-0.03,50.10
+"Hackney 016C",10,-0.03,50.10
+"Greenwich 007E",10,-0.03,50.10
+"Croydon 016E",10,-0.03,50.10
+"Hackney 020E",10,-0.03,50.10
+"Barking and Dagenham 003C",10,-0.03,50.10
+"Greenwich 020E",10,-0.03,50.10
+"Redbridge 034E",10,-0.03,50.10
+"Lewisham 003E",10,-0.03,50.10
+"Wandsworth 037D",10,-0.03,50.10
+"Brent 031F",10,-0.03,50.10
+"Kensington and Chelsea 017A",10,-0.03,50.10
+"Barnet 043E",10,-0.03,50.10
+"Hillingdon 022E",10,-0.03,50.10
+"Lambeth 006A",10,-0.03,50.10
+"Kensington and Chelsea 017D",10,-0.03,50.10
+"Camden 011C",10,-0.03,50.10
+"Islington 003C",10,-0.03,50.10
+"Croydon 024C",10,-0.03,50.10
+"Sutton 001A",10,-0.03,50.10
+"Southwark 032B",10,-0.03,50.10
+"Richmond upon Thames 023B",10,-0.03,50.10
+"Lambeth 004C",10,-0.03,50.10
+"Newham 002D",10,-0.03,50.10
+"Barking and Dagenham 007E",10,-0.03,50.10
+"Ealing 009A",10,-0.03,50.10
+"Redbridge 001E",10,-0.03,50.10
+"Southwark 004A",10,-0.03,50.10
+"Newham 034D",10,-0.03,50.10
+"Brent 023E",10,-0.03,50.10
+"Havering 002A",10,-0.03,50.10
+"Haringey 018A",10,-0.03,50.10
+"Wandsworth 013A",10,-0.03,50.10
+"Sutton 024C",10,-0.03,50.10
+"Camden 004B",10,-0.03,50.10
+"Lewisham 031A",10,-0.03,50.10
+"Hackney 019E",10,-0.03,50.10
+"Barking and Dagenham 021C",10,-0.03,50.10
+"Wandsworth 004E",10,-0.03,50.10
+"Westminster 001B",10,-0.03,50.10
+"Ealing 002A",10,-0.03,50.10
+"Greenwich 039A",10,-0.03,50.10
+"Merton 013A",10,-0.03,50.10
+"Hackney 029D",10,-0.03,50.10
+"Lewisham 033B",10,-0.03,50.10
+"Redbridge 033A",10,-0.03,50.10
+"Islington 001A",10,-0.03,50.10
+"Bexley 013C",10,-0.03,50.10
+"Newham 024E",10,-0.03,50.10
+"Merton 022D",10,-0.03,50.10
+"Greenwich 014D",10,-0.03,50.10
+"Hillingdon 032D",10,-0.03,50.10
+"Lewisham 001D",10,-0.03,50.10
+"Richmond upon Thames 004F",10,-0.03,50.10
+"Bromley 002D",10,-0.03,50.10
+"Barking and Dagenham 020A",10,-0.03,50.10
+"Wandsworth 015A",10,-0.03,50.10
+"Brent 021C",10,-0.03,50.10
+"Islington 007C",10,-0.03,50.10
+"Kensington and Chelsea 011A",10,-0.03,50.10
+"Brent 014B",10,-0.03,50.10
+"Hackney 012D",10,-0.03,50.10
+"Croydon 019C",10,-0.03,50.10
+"Barnet 024C",10,-0.03,50.10
+"Ealing 040D",10,-0.03,50.10
+"Lambeth 005D",10,-0.03,50.10
+"Haringey 006B",10,-0.03,50.10
+"Hillingdon 030B",10,-0.03,50.10
+"Hounslow 026A",10,-0.03,50.10
+"Waltham Forest 004A",10,-0.03,50.10
+"Camden 008A",10,-0.03,50.10
+"Hounslow 016B",10,-0.03,50.10
+"Southwark 004F",10,-0.03,50.10
+"Hounslow 010B",10,-0.03,50.10
+"Redbridge 009F",10,-0.03,50.10
+"Islington 002E",10,-0.03,50.10
+"Tower Hamlets 025C",10,-0.03,50.10
+"Tower Hamlets 009C",10,-0.03,50.10
+"Greenwich 021B",10,-0.03,50.10
+"Redbridge 032E",10,-0.03,50.10
+"Hillingdon 019E",10,-0.03,50.10
+"Hammersmith and Fulham 023D",10,-0.03,50.10
+"Croydon 021D",10,-0.03,50.10
+"Haringey 020H",10,-0.03,50.10
+"Merton 008B",10,-0.03,50.10
+"Kingston upon Thames 011A",10,-0.03,50.10
+"Kensington and Chelsea 014B",10,-0.03,50.10
+"Bromley 034B",10,-0.03,50.10
+"Ealing 009E",10,-0.03,50.10
+"Croydon 002D",10,-0.03,50.10
+"Merton 002A",10,-0.03,50.10
+"Newham 020C",10,-0.03,50.10
+"Westminster 009G",10,-0.03,50.10
+"Brent 005C",10,-0.03,50.10
+"Newham 024C",10,-0.03,50.10
+"Bromley 001E",10,-0.03,50.10
+"Merton 017C",10,-0.03,50.10
+"Waltham Forest 023D",10,-0.03,50.10
+"Kensington and Chelsea 005D",10,-0.03,50.10
+"Ealing 042D",10,-0.03,50.10
+"Ealing 012B",10,-0.03,50.10
+"Bromley 001B",10,-0.03,50.10
+"Richmond upon Thames 013C",10,-0.03,50.10
+"Kingston upon Thames 005E",10,-0.03,50.10
+"Bexley 019F",10,-0.03,50.10
+"Lewisham 007D",10,-0.03,50.10
+"Greenwich 017B",10,-0.03,50.10
+"Brent 021A",10,-0.03,50.10
+"Southwark 013E",10,-0.03,50.10
+"Westminster 006A",10,-0.03,50.10
+"Redbridge 013D",10,-0.03,50.10
+"Ealing 016C",10,-0.03,50.10
+"Hammersmith and Fulham 024D",10,-0.03,50.10
+"Croydon 001D",10,-0.03,50.10
+"Hackney 007E",10,-0.03,50.10
+"Redbridge 022D",10,-0.03,50.10
+"Lewisham 003D",10,-0.03,50.10
+"Hammersmith and Fulham 013A",10,-0.03,50.10
+"Waltham Forest 004C",10,-0.03,50.10
+"Tower Hamlets 015C",10,-0.03,50.10
+"Hounslow 017D",10,-0.03,50.10
+"Lewisham 002D",10,-0.03,50.10
+"Southwark 017D",10,-0.03,50.10
+"Kensington and Chelsea 007D",10,-0.03,50.10
+"Tower Hamlets 036E",10,-0.03,50.10
+"Lewisham 020F",10,-0.03,50.10
+"Wandsworth 011C",10,-0.03,50.10
+"Ealing 003D",10,-0.03,50.10
+"Southwark 030D",10,-0.03,50.10
+"Greenwich 008C",10,-0.03,50.10
+"Tower Hamlets 019G",10,-0.03,50.10
+"Greenwich 038A",10,-0.03,50.10
+"Enfield 031F",10,-0.03,50.10
+"Barking and Dagenham 020D",10,-0.03,50.10
+"Harrow 006D",10,-0.03,50.10
+"Tower Hamlets 034D",10,-0.03,50.10
+"Sutton 008D",10,-0.03,50.10
+"Wandsworth 010J",10,-0.03,50.10
+"Bromley 029C",10,-0.03,50.10
+"Hammersmith and Fulham 015D",10,-0.03,50.10
+"Bromley 034D",10,-0.03,50.10
+"Southwark 006A",10,-0.03,50.10
+"Richmond upon Thames 002E",10,-0.03,50.10
+"Redbridge 031E",10,-0.03,50.10
+"Croydon 013C",10,-0.03,50.10
+"Lewisham 037D",10,-0.03,50.10
+"Lewisham 031C",10,-0.03,50.10
+"Kensington and Chelsea 008E",10,-0.03,50.10
+"Camden 013D",10,-0.03,50.10
+"Hammersmith and Fulham 020D",10,-0.03,50.10
+"Islington 008A",10,-0.03,50.10
+"Barnet 043B",10,-0.03,50.10
+"Havering 027E",10,-0.03,50.10
+"Ealing 030C",10,-0.03,50.10
+"Barnet 025E",10,-0.03,50.10
+"Harrow 027B",10,-0.03,50.10
+"Lewisham 010A",10,-0.03,50.10
+"Wandsworth 036E",10,-0.03,50.10
+"Croydon 030D",10,-0.03,50.10
+"Wandsworth 029A",10,-0.03,50.10
+"Havering 001C",10,-0.03,50.10
+"Redbridge 036G",10,-0.03,50.10
+"Greenwich 025E",10,-0.03,50.10
+"Croydon 046E",10,-0.03,50.10
+"Kensington and Chelsea 021A",10,-0.03,50.10
+"Redbridge 013B",10,-0.03,50.10
+"Kensington and Chelsea 014E",10,-0.03,50.10
+"Barking and Dagenham 023A",10,-0.03,50.10
+"Brent 018C",10,-0.03,50.10
+"Brent 031C",10,-0.03,50.10
+"Enfield 037D",10,-0.03,50.10
+"Newham 026B",10,-0.03,50.10
+"Hounslow 004D",10,-0.03,50.10
+"Merton 006B",10,-0.03,50.10
+"Kingston upon Thames 005C",10,-0.03,50.10
+"Enfield 031B",10,-0.03,50.10
+"Brent 015F",10,-0.03,50.10
+"Kensington and Chelsea 013A",10,-0.03,50.10
+"Barnet 026B",10,-0.03,50.10
+"Havering 011D",10,-0.03,50.10
+"Hillingdon 028B",10,-0.03,50.10
+"Haringey 019D",10,-0.03,50.10
+"Wandsworth 016A",10,-0.03,50.10
+"Brent 019A",10,-0.03,50.10
+"Islington 012A",10,-0.03,50.10
+"Hillingdon 019B",10,-0.03,50.10
+"Croydon 045E",10,-0.03,50.10
+"Tower Hamlets 004I",10,-0.03,50.10
+"Hillingdon 025B",10,-0.03,50.10
+"Tower Hamlets 009A",10,-0.03,50.10
+"Southwark 024C",10,-0.03,50.10
+"Waltham Forest 009C",10,-0.03,50.10
+"Camden 016B",10,-0.03,50.10
+"Haringey 011A",10,-0.03,50.10
+"Waltham Forest 016B",10,-0.03,50.10
+"Waltham Forest 007F",10,-0.03,50.10
+"Newham 022C",10,-0.03,50.10
+"Southwark 018E",10,-0.03,50.10
+"Kensington and Chelsea 010A",10,-0.03,50.10
+"Barking and Dagenham 022A",10,-0.03,50.10
+"Wandsworth 009A",10,-0.03,50.10
+"Camden 002B",10,-0.03,50.10
+"Lewisham 026C",10,-0.03,50.10
+"Croydon 031B",10,-0.03,50.10
+"Brent 025C",10,-0.03,50.10
+"Enfield 003D",10,-0.03,50.10
+"Waltham Forest 008E",10,-0.03,50.10
+"Waltham Forest 017B",10,-0.03,50.10
+"Lambeth 033C",10,-0.03,50.10
+"Ealing 044C",10,-0.03,50.10
+"Hillingdon 025C",10,-0.03,50.10
+"Richmond upon Thames 019C",10,-0.03,50.10
+"Waltham Forest 022E",10,-0.03,50.10
+"Hackney 026G",10,-0.03,50.10
+"Barnet 038E",10,-0.03,50.10
+"Brent 001D",10,-0.03,50.10
+"Hounslow 031C",10,-0.03,50.10
+"Camden 014D",10,-0.03,50.10
+"Lambeth 014D",10,-0.03,50.10
+"Camden 020E",10,-0.03,50.10
+"Hillingdon 019A",10,-0.03,50.10
+"Tower Hamlets 010E",10,-0.03,50.10
+"Lambeth 008C",10,-0.03,50.10
+"Lewisham 006B",10,-0.03,50.10
+"Westminster 002A",10,-0.03,50.10
+"Barnet 025A",10,-0.03,50.10
+"Barnet 026C",10,-0.03,50.10
+"Enfield 007A",10,-0.03,50.10
+"Wandsworth 022A",10,-0.03,50.10
+"Camden 029D",10,-0.03,50.10
+"Waltham Forest 025E",10,-0.03,50.10
+"Southwark 020C",10,-0.03,50.10
+"Westminster 007H",10,-0.03,50.10
+"Sutton 018A",10,-0.03,50.10
+"Croydon 024E",10,-0.03,50.10
+"Hillingdon 018A",10,-0.03,50.10
+"Hackney 025J",10,-0.03,50.10
+"Newham 002B",10,-0.03,50.10
+"Kingston upon Thames 005D",10,-0.03,50.10
+"Enfield 005C",10,-0.03,50.10
+"Croydon 031A",10,-0.03,50.10
+"Greenwich 011A",10,-0.03,50.10
+"Southwark 018A",10,-0.03,50.10
+"Kensington and Chelsea 014C",10,-0.03,50.10
+"Hounslow 014D",10,-0.03,50.10
+"Enfield 018A",10,-0.03,50.10
+"Hackney 022B",10,-0.03,50.10
+"Hillingdon 005C",10,-0.03,50.10
+"Redbridge 003A",10,-0.03,50.10
+"Waltham Forest 027E",10,-0.03,50.10
+"Hackney 001B",10,-0.03,50.10
+"Tower Hamlets 022D",10,-0.03,50.10
+"Greenwich 011F",10,-0.03,50.10
+"Kensington and Chelsea 009E",10,-0.03,50.10
+"Hackney 009E",10,-0.03,50.10
+"Wandsworth 023C",10,-0.03,50.10
+"Ealing 040B",10,-0.03,50.10
+"Hounslow 004C",10,-0.03,50.10
+"Havering 021B",10,-0.03,50.10
+"Enfield 033A",10,-0.03,50.10
+"Haringey 013B",10,-0.03,50.10
+"Merton 007A",10,-0.03,50.10
+"Bromley 020D",10,-0.03,50.10
+"Enfield 037B",10,-0.03,50.10
+"Lambeth 015E",10,-0.03,50.10
+"Lambeth 010A",10,-0.03,50.10
+"Barnet 037D",10,-0.03,50.10
+"Wandsworth 035E",10,-0.03,50.10
+"Haringey 001C",10,-0.03,50.10
+"Ealing 031E",10,-0.03,50.10
+"Southwark 026C",10,-0.03,50.10
+"Merton 006E",10,-0.03,50.10
+"Lewisham 027A",10,-0.03,50.10
+"Westminster 010C",10,-0.03,50.10
+"Merton 014A",10,-0.03,50.10
+"Tower Hamlets 012F",10,-0.03,50.10
+"Barnet 024E",10,-0.03,50.10
+"Kingston upon Thames 013B",10,-0.03,50.10
+"Hammersmith and Fulham 002D",10,-0.03,50.10
+"Havering 023D",10,-0.03,50.10
+"Brent 011D",10,-0.03,50.10
+"Kensington and Chelsea 013E",10,-0.03,50.10
+"Lewisham 035A",10,-0.03,50.10
+"Sutton 010B",10,-0.03,50.10
+"Waltham Forest 011E",10,-0.03,50.10
+"Barnet 034B",10,-0.03,50.10
+"Havering 010D",10,-0.03,50.10
+"Hounslow 013A",9,-0.18,42.57
+"Hounslow 008A",9,-0.18,42.57
+"Waltham Forest 019C",9,-0.18,42.57
+"Lewisham 014B",9,-0.18,42.57
+"Newham 035C",9,-0.18,42.57
+"Lambeth 017A",9,-0.18,42.57
+"Newham 020B",9,-0.18,42.57
+"Hackney 026D",9,-0.18,42.57
+"Merton 014C",9,-0.18,42.57
+"Westminster 004A",9,-0.18,42.57
+"Ealing 017A",9,-0.18,42.57
+"Redbridge 032D",9,-0.18,42.57
+"Croydon 020G",9,-0.18,42.57
+"Bromley 010A",9,-0.18,42.57
+"Brent 012B",9,-0.18,42.57
+"Redbridge 035C",9,-0.18,42.57
+"Westminster 022D",9,-0.18,42.57
+"Lambeth 028E",9,-0.18,42.57
+"Tower Hamlets 036B",9,-0.18,42.57
+"Haringey 036C",9,-0.18,42.57
+"Lewisham 016D",9,-0.18,42.57
+"Waltham Forest 007C",9,-0.18,42.57
+"Greenwich 002E",9,-0.18,42.57
+"Redbridge 040D",9,-0.18,42.57
+"Richmond upon Thames 007D",9,-0.18,42.57
+"Barnet 025D",9,-0.18,42.57
+"Barnet 040B",9,-0.18,42.57
+"Brent 027G",9,-0.18,42.57
+"Hammersmith and Fulham 012E",9,-0.18,42.57
+"Haringey 023D",9,-0.18,42.57
+"Lambeth 027E",9,-0.18,42.57
+"Richmond upon Thames 015F",9,-0.18,42.57
+"Islington 011J",9,-0.18,42.57
+"Croydon 008E",9,-0.18,42.57
+"Ealing 007B",9,-0.18,42.57
+"Barnet 031A",9,-0.18,42.57
+"Tower Hamlets 008A",9,-0.18,42.57
+"Bexley 002B",9,-0.18,42.57
+"Haringey 032A",9,-0.18,42.57
+"Barnet 034D",9,-0.18,42.57
+"Camden 005A",9,-0.18,42.57
+"Redbridge 005B",9,-0.18,42.57
+"Lewisham 007B",9,-0.18,42.57
+"Havering 028B",9,-0.18,42.57
+"Bexley 006B",9,-0.18,42.57
+"Barnet 026E",9,-0.18,42.57
+"Enfield 018C",9,-0.18,42.57
+"Tower Hamlets 025B",9,-0.18,42.57
+"Brent 013A",9,-0.18,42.57
+"Havering 003D",9,-0.18,42.57
+"Westminster 002E",9,-0.18,42.57
+"Westminster 021G",9,-0.18,42.57
+"Ealing 025A",9,-0.18,42.57
+"Barking and Dagenham 018D",9,-0.18,42.57
+"Newham 031C",9,-0.18,42.57
+"Barnet 008C",9,-0.18,42.57
+"Hounslow 029A",9,-0.18,42.57
+"Tower Hamlets 016B",9,-0.18,42.57
+"Barnet 042A",9,-0.18,42.57
+"Newham 035A",9,-0.18,42.57
+"Enfield 003C",9,-0.18,42.57
+"Haringey 030C",9,-0.18,42.57
+"Bromley 005B",9,-0.18,42.57
+"Croydon 041A",9,-0.18,42.57
+"Brent 013E",9,-0.18,42.57
+"Enfield 025F",9,-0.18,42.57
+"Merton 019D",9,-0.18,42.57
+"Islington 017C",9,-0.18,42.57
+"Harrow 013C",9,-0.18,42.57
+"Newham 038B",9,-0.18,42.57
+"Bexley 019C",9,-0.18,42.57
+"Havering 017I",9,-0.18,42.57
+"Richmond upon Thames 013D",9,-0.18,42.57
+"Ealing 003C",9,-0.18,42.57
+"Tower Hamlets 024H",9,-0.18,42.57
+"Hammersmith and Fulham 020B",9,-0.18,42.57
+"Enfield 007D",9,-0.18,42.57
+"Bromley 042D",9,-0.18,42.57
+"Havering 017H",9,-0.18,42.57
+"Waltham Forest 006C",9,-0.18,42.57
+"Barking and Dagenham 007F",9,-0.18,42.57
+"Tower Hamlets 003B",9,-0.18,42.57
+"Lewisham 010E",9,-0.18,42.57
+"Enfield 001C",9,-0.18,42.57
+"Harrow 033G",9,-0.18,42.57
+"Camden 009C",9,-0.18,42.57
+"Croydon 030C",9,-0.18,42.57
+"Haringey 018D",9,-0.18,42.57
+"Hillingdon 028F",9,-0.18,42.57
+"Croydon 045A",9,-0.18,42.57
+"Westminster 024F",9,-0.18,42.57
+"Southwark 029B",9,-0.18,42.57
+"Lewisham 035E",9,-0.18,42.57
+"Sutton 012C",9,-0.18,42.57
+"Waltham Forest 018B",9,-0.18,42.57
+"Brent 021E",9,-0.18,42.57
+"Newham 011A",9,-0.18,42.57
+"Islington 015B",9,-0.18,42.57
+"Ealing 013A",9,-0.18,42.57
+"Lewisham 033C",9,-0.18,42.57
+"Islington 014F",9,-0.18,42.57
+"Lambeth 014E",9,-0.18,42.57
+"Islington 009D",9,-0.18,42.57
+"Haringey 009B",9,-0.18,42.57
+"Enfield 022E",9,-0.18,42.57
+"Hounslow 021A",9,-0.18,42.57
+"Greenwich 037F",9,-0.18,42.57
+"Bromley 002C",9,-0.18,42.57
+"Haringey 027D",9,-0.18,42.57
+"Bexley 011D",9,-0.18,42.57
+"Hackney 024D",9,-0.18,42.57
+"Bromley 014C",9,-0.18,42.57
+"Lambeth 006C",9,-0.18,42.57
+"Bromley 023B",9,-0.18,42.57
+"Bromley 005D",9,-0.18,42.57
+"Lambeth 022C",9,-0.18,42.57
+"Waltham Forest 002D",9,-0.18,42.57
+"Kensington and Chelsea 001B",9,-0.18,42.57
+"Haringey 028A",9,-0.18,42.57
+"Croydon 002B",9,-0.18,42.57
+"Kingston upon Thames 013E",9,-0.18,42.57
+"Waltham Forest 026B",9,-0.18,42.57
+"Redbridge 034A",9,-0.18,42.57
+"Lambeth 018A",9,-0.18,42.57
+"Southwark 014E",9,-0.18,42.57
+"Hounslow 011C",9,-0.18,42.57
+"Islington 006A",9,-0.18,42.57
+"Tower Hamlets 014H",9,-0.18,42.57
+"Croydon 005A",9,-0.18,42.57
+"Richmond upon Thames 023E",9,-0.18,42.57
+"Hammersmith and Fulham 023A",9,-0.18,42.57
+"Islington 019A",9,-0.18,42.57
+"Sutton 001D",9,-0.18,42.57
+"Enfield 024D",9,-0.18,42.57
+"Wandsworth 003D",9,-0.18,42.57
+"Hounslow 012C",9,-0.18,42.57
+"Waltham Forest 027A",9,-0.18,42.57
+"Havering 014B",9,-0.18,42.57
+"Richmond upon Thames 023F",9,-0.18,42.57
+"Richmond upon Thames 018B",9,-0.18,42.57
+"Enfield 026E",9,-0.18,42.57
+"Lewisham 017E",9,-0.18,42.57
+"Hackney 012A",9,-0.18,42.57
+"Kingston upon Thames 018B",9,-0.18,42.57
+"Lambeth 009C",9,-0.18,42.57
+"Merton 013E",9,-0.18,42.57
+"Barnet 033C",9,-0.18,42.57
+"Greenwich 005D",9,-0.18,42.57
+"Southwark 011B",9,-0.18,42.57
+"Hillingdon 008B",9,-0.18,42.57
+"Haringey 034B",9,-0.18,42.57
+"Newham 007B",9,-0.18,42.57
+"Redbridge 029B",9,-0.18,42.57
+"Hillingdon 014E",9,-0.18,42.57
+"Haringey 028B",9,-0.18,42.57
+"Redbridge 005A",9,-0.18,42.57
+"Lambeth 035D",9,-0.18,42.57
+"Hillingdon 016G",9,-0.18,42.57
+"Lewisham 014D",9,-0.18,42.57
+"Brent 030B",9,-0.18,42.57
+"Brent 020A",9,-0.18,42.57
+"Wandsworth 005D",9,-0.18,42.57
+"Hounslow 026C",9,-0.18,42.57
+"Richmond upon Thames 016C",9,-0.18,42.57
+"Redbridge 007E",9,-0.18,42.57
+"Lewisham 028D",9,-0.18,42.57
+"Merton 006A",9,-0.18,42.57
+"Merton 024A",9,-0.18,42.57
+"Ealing 018C",9,-0.18,42.57
+"Southwark 033B",9,-0.18,42.57
+"Westminster 005D",9,-0.18,42.57
+"Barking and Dagenham 004C",9,-0.18,42.57
+"Harrow 007D",9,-0.18,42.57
+"Haringey 022D",9,-0.18,42.57
+"Haringey 021A",9,-0.18,42.57
+"Barnet 040C",9,-0.18,42.57
+"Tower Hamlets 031B",9,-0.18,42.57
+"Haringey 029D",9,-0.18,42.57
+"Enfield 036F",9,-0.18,42.57
+"Hammersmith and Fulham 017D",9,-0.18,42.57
+"Barking and Dagenham 008D",9,-0.18,42.57
+"Lambeth 003B",9,-0.18,42.57
+"Merton 014E",9,-0.18,42.57
+"Barnet 023B",9,-0.18,42.57
+"Haringey 013A",9,-0.18,42.57
+"Haringey 005D",9,-0.18,42.57
+"Bromley 010D",9,-0.18,42.57
+"Kingston upon Thames 018D",9,-0.18,42.57
+"Wandsworth 010B",9,-0.18,42.57
+"Camden 014A",9,-0.18,42.57
+"Hounslow 022A",9,-0.18,42.57
+"Harrow 003C",9,-0.18,42.57
+"Barking and Dagenham 001C",9,-0.18,42.57
+"Havering 017E",9,-0.18,42.57
+"Croydon 025D",9,-0.18,42.57
+"Enfield 021E",9,-0.18,42.57
+"Hillingdon 030E",9,-0.18,42.57
+"Greenwich 007D",9,-0.18,42.57
+"Barking and Dagenham 012C",9,-0.18,42.57
+"Islington 013C",9,-0.18,42.57
+"Brent 036D",9,-0.18,42.57
+"Lambeth 012A",9,-0.18,42.57
+"Barnet 014D",9,-0.18,42.57
+"Barnet 021E",9,-0.18,42.57
+"Enfield 001D",9,-0.18,42.57
+"Merton 012E",9,-0.18,42.57
+"Croydon 005B",9,-0.18,42.57
+"Lambeth 002D",9,-0.18,42.57
+"Barking and Dagenham 016D",9,-0.18,42.57
+"Greenwich 034H",9,-0.18,42.57
+"Lewisham 024B",9,-0.18,42.57
+"Croydon 036D",9,-0.18,42.57
+"Kensington and Chelsea 015C",9,-0.18,42.57
+"Waltham Forest 014F",9,-0.18,42.57
+"Barnet 031C",9,-0.18,42.57
+"Croydon 031D",9,-0.18,42.57
+"Lambeth 031D",9,-0.18,42.57
+"Hackney 009C",9,-0.18,42.57
+"Bromley 008C",9,-0.18,42.57
+"Havering 030A",9,-0.18,42.57
+"Waltham Forest 025D",9,-0.18,42.57
+"Bexley 029D",9,-0.18,42.57
+"Westminster 022A",9,-0.18,42.57
+"Waltham Forest 005C",9,-0.18,42.57
+"Ealing 001D",9,-0.18,42.57
+"Newham 036C",9,-0.18,42.57
+"Redbridge 023F",9,-0.18,42.57
+"Southwark 007A",9,-0.18,42.57
+"Lambeth 034B",9,-0.18,42.57
+"Bexley 021D",9,-0.18,42.57
+"Barnet 029E",9,-0.18,42.57
+"Kingston upon Thames 006D",9,-0.18,42.57
+"Barking and Dagenham 014A",9,-0.18,42.57
+"Lewisham 038C",9,-0.18,42.57
+"Camden 010B",9,-0.18,42.57
+"Barking and Dagenham 019C",9,-0.18,42.57
+"Redbridge 026B",9,-0.18,42.57
+"Waltham Forest 028D",9,-0.18,42.57
+"Ealing 041D",9,-0.18,42.57
+"Barking and Dagenham 007B",9,-0.18,42.57
+"Kensington and Chelsea 009B",9,-0.18,42.57
+"Lambeth 024A",9,-0.18,42.57
+"Lambeth 009A",9,-0.18,42.57
+"Hillingdon 014C",9,-0.18,42.57
+"Lambeth 032F",9,-0.18,42.57
+"Croydon 038B",9,-0.18,42.57
+"Kingston upon Thames 013A",9,-0.18,42.57
+"Croydon 009D",9,-0.18,42.57
+"Sutton 002B",9,-0.18,42.57
+"Kensington and Chelsea 010C",9,-0.18,42.57
+"Southwark 027E",9,-0.18,42.57
+"Lewisham 037E",9,-0.18,42.57
+"Havering 004E",9,-0.18,42.57
+"Ealing 021A",9,-0.18,42.57
+"Tower Hamlets 003A",9,-0.18,42.57
+"Greenwich 034C",9,-0.18,42.57
+"Croydon 009A",9,-0.18,42.57
+"Tower Hamlets 030D",9,-0.18,42.57
+"Hammersmith and Fulham 025A",9,-0.18,42.57
+"Camden 006B",9,-0.18,42.57
+"Havering 006C",9,-0.18,42.57
+"Haringey 007B",9,-0.18,42.57
+"Hackney 003E",9,-0.18,42.57
+"Lambeth 021E",9,-0.18,42.57
+"Enfield 033D",9,-0.18,42.57
+"Hackney 010D",9,-0.18,42.57
+"Greenwich 019D",9,-0.18,42.57
+"Barking and Dagenham 001B",9,-0.18,42.57
+"Hillingdon 031D",9,-0.18,42.57
+"Wandsworth 005B",9,-0.18,42.57
+"Greenwich 032B",9,-0.18,42.57
+"Lambeth 006E",9,-0.18,42.57
+"Hillingdon 023A",9,-0.18,42.57
+"Hackney 013C",9,-0.18,42.57
+"Barnet 042F",9,-0.18,42.57
+"Ealing 003E",9,-0.18,42.57
+"Croydon 014B",9,-0.18,42.57
+"Merton 004B",9,-0.18,42.57
+"Hammersmith and Fulham 011A",9,-0.18,42.57
+"Hounslow 013C",9,-0.18,42.57
+"Tower Hamlets 031A",9,-0.18,42.57
+"Haringey 008D",9,-0.18,42.57
+"Southwark 017A",9,-0.18,42.57
+"Haringey 017A",9,-0.18,42.57
+"Bromley 015A",9,-0.18,42.57
+"Sutton 005D",9,-0.18,42.57
+"Redbridge 013C",9,-0.18,42.57
+"Wandsworth 026D",9,-0.18,42.57
+"Greenwich 034D",9,-0.18,42.57
+"Enfield 003F",9,-0.18,42.57
+"Hammersmith and Fulham 015C",9,-0.18,42.57
+"Greenwich 033B",9,-0.18,42.57
+"Harrow 013D",9,-0.18,42.57
+"Greenwich 007C",9,-0.18,42.57
+"Lewisham 026D",9,-0.18,42.57
+"Kingston upon Thames 006E",9,-0.18,42.57
+"Hillingdon 017E",9,-0.18,42.57
+"Barnet 006D",9,-0.18,42.57
+"Barking and Dagenham 002F",9,-0.18,42.57
+"Camden 016C",9,-0.18,42.57
+"Ealing 027D",9,-0.18,42.57
+"Hillingdon 004E",9,-0.18,42.57
+"Greenwich 028B",9,-0.18,42.57
+"Bromley 033B",9,-0.18,42.57
+"Ealing 022D",9,-0.18,42.57
+"Harrow 016D",9,-0.18,42.57
+"Bromley 012D",9,-0.18,42.57
+"Kensington and Chelsea 019B",9,-0.18,42.57
+"Waltham Forest 021C",9,-0.18,42.57
+"Richmond upon Thames 017B",9,-0.18,42.57
+"Sutton 006E",9,-0.18,42.57
+"Waltham Forest 024A",9,-0.18,42.57
+"Wandsworth 014C",9,-0.18,42.57
+"Harrow 021A",9,-0.18,42.57
+"Greenwich 001D",9,-0.18,42.57
+"Hillingdon 004B",9,-0.18,42.57
+"Kingston upon Thames 004A",9,-0.18,42.57
+"Croydon 002A",9,-0.18,42.57
+"Barnet 031B",9,-0.18,42.57
+"Sutton 015D",9,-0.18,42.57
+"Havering 019D",9,-0.18,42.57
+"Greenwich 012A",9,-0.18,42.57
+"Redbridge 006E",9,-0.18,42.57
+"Waltham Forest 010C",9,-0.18,42.57
+"Hackney 019D",9,-0.18,42.57
+"Islington 011K",9,-0.18,42.57
+"Camden 014C",9,-0.18,42.57
+"Lewisham 014A",9,-0.18,42.57
+"Hammersmith and Fulham 025B",9,-0.18,42.57
+"Enfield 011C",9,-0.18,42.57
+"Hillingdon 028G",9,-0.18,42.57
+"Waltham Forest 012B",9,-0.18,42.57
+"Redbridge 031B",9,-0.18,42.57
+"Barnet 013D",9,-0.18,42.57
+"Redbridge 006F",9,-0.18,42.57
+"Islington 020D",9,-0.18,42.57
+"Wandsworth 004B",9,-0.18,42.57
+"Brent 020B",9,-0.18,42.57
+"Wandsworth 012B",9,-0.18,42.57
+"Enfield 008C",9,-0.18,42.57
+"Brent 026A",9,-0.18,42.57
+"Sutton 001C",9,-0.18,42.57
+"Kingston upon Thames 002C",9,-0.18,42.57
+"Southwark 013D",9,-0.18,42.57
+"Islington 019C",9,-0.18,42.57
+"Camden 022C",9,-0.18,42.57
+"Bromley 006B",9,-0.18,42.57
+"Islington 022E",9,-0.18,42.57
+"Enfield 002B",9,-0.18,42.57
+"Redbridge 040E",9,-0.18,42.57
+"Enfield 035D",9,-0.18,42.57
+"Tower Hamlets 004C",9,-0.18,42.57
+"Kingston upon Thames 007A",9,-0.18,42.57
+"Barnet 006A",9,-0.18,42.57
+"Havering 011A",9,-0.18,42.57
+"Barnet 024H",9,-0.18,42.57
+"Westminster 006B",9,-0.18,42.57
+"Waltham Forest 005D",9,-0.18,42.57
+"Hammersmith and Fulham 019A",9,-0.18,42.57
+"Hackney 006A",9,-0.18,42.57
+"Lambeth 009D",9,-0.18,42.57
+"Lewisham 014C",9,-0.18,42.57
+"Enfield 006E",9,-0.18,42.57
+"Bromley 042B",9,-0.18,42.57
+"Harrow 023E",9,-0.18,42.57
+"Bexley 008G",9,-0.18,42.57
+"Richmond upon Thames 003G",9,-0.18,42.57
+"Richmond upon Thames 022F",9,-0.18,42.57
+"Lambeth 029E",9,-0.18,42.57
+"Ealing 016D",9,-0.18,42.57
+"Hackney 023B",9,-0.18,42.57
+"Sutton 016A",9,-0.18,42.57
+"Ealing 015C",9,-0.18,42.57
+"Croydon 015G",9,-0.18,42.57
+"Tower Hamlets 007C",9,-0.18,42.57
+"Redbridge 023A",9,-0.18,42.57
+"Wandsworth 006C",8,-0.34,34.19
+"Barking and Dagenham 006A",8,-0.34,34.19
+"Waltham Forest 012E",8,-0.34,34.19
+"Hillingdon 022C",8,-0.34,34.19
+"Westminster 005C",8,-0.34,34.19
+"Hillingdon 021F",8,-0.34,34.19
+"Croydon 017B",8,-0.34,34.19
+"Southwark 032A",8,-0.34,34.19
+"Enfield 001B",8,-0.34,34.19
+"Hammersmith and Fulham 001E",8,-0.34,34.19
+"Hillingdon 009E",8,-0.34,34.19
+"Hounslow 001E",8,-0.34,34.19
+"Barnet 038A",8,-0.34,34.19
+"Merton 019E",8,-0.34,34.19
+"Southwark 031C",8,-0.34,34.19
+"Merton 008D",8,-0.34,34.19
+"Waltham Forest 021D",8,-0.34,34.19
+"Hounslow 007C",8,-0.34,34.19
+"Southwark 028E",8,-0.34,34.19
+"Barnet 015B",8,-0.34,34.19
+"Westminster 006D",8,-0.34,34.19
+"Lambeth 031A",8,-0.34,34.19
+"Lewisham 006C",8,-0.34,34.19
+"Barnet 013F",8,-0.34,34.19
+"Westminster 006C",8,-0.34,34.19
+"Bromley 012B",8,-0.34,34.19
+"Westminster 021B",8,-0.34,34.19
+"Enfield 035B",8,-0.34,34.19
+"Barking and Dagenham 004A",8,-0.34,34.19
+"Croydon 022E",8,-0.34,34.19
+"Westminster 023F",8,-0.34,34.19
+"Ealing 031F",8,-0.34,34.19
+"Hounslow 025E",8,-0.34,34.19
+"Bromley 025D",8,-0.34,34.19
+"Ealing 021D",8,-0.34,34.19
+"Waltham Forest 018C",8,-0.34,34.19
+"Newham 014C",8,-0.34,34.19
+"Croydon 020F",8,-0.34,34.19
+"Islington 001F",8,-0.34,34.19
+"Waltham Forest 008C",8,-0.34,34.19
+"Hammersmith and Fulham 021D",8,-0.34,34.19
+"Lewisham 022C",8,-0.34,34.19
+"Merton 024E",8,-0.34,34.19
+"Barking and Dagenham 018A",8,-0.34,34.19
+"Hounslow 020E",8,-0.34,34.19
+"Islington 006G",8,-0.34,34.19
+"Brent 012A",8,-0.34,34.19
+"Westminster 021F",8,-0.34,34.19
+"Croydon 010C",8,-0.34,34.19
+"Greenwich 007G",8,-0.34,34.19
+"Greenwich 022D",8,-0.34,34.19
+"Redbridge 006B",8,-0.34,34.19
+"Lambeth 015D",8,-0.34,34.19
+"Barnet 033B",8,-0.34,34.19
+"Islington 013E",8,-0.34,34.19
+"Kensington and Chelsea 016D",8,-0.34,34.19
+"Ealing 030A",8,-0.34,34.19
+"Richmond upon Thames 014A",8,-0.34,34.19
+"Southwark 032E",8,-0.34,34.19
+"Redbridge 020B",8,-0.34,34.19
+"Hammersmith and Fulham 012D",8,-0.34,34.19
+"Wandsworth 020F",8,-0.34,34.19
+"Ealing 023A",8,-0.34,34.19
+"Hillingdon 029B",8,-0.34,34.19
+"Ealing 038C",8,-0.34,34.19
+"Barnet 022F",8,-0.34,34.19
+"Wandsworth 010C",8,-0.34,34.19
+"Enfield 016C",8,-0.34,34.19
+"Brent 021D",8,-0.34,34.19
+"Wandsworth 016E",8,-0.34,34.19
+"Southwark 027A",8,-0.34,34.19
+"Enfield 003E",8,-0.34,34.19
+"Tower Hamlets 031G",8,-0.34,34.19
+"Ealing 018E",8,-0.34,34.19
+"Havering 005A",8,-0.34,34.19
+"Redbridge 001G",8,-0.34,34.19
+"Ealing 012D",8,-0.34,34.19
+"Bromley 006E",8,-0.34,34.19
+"Wandsworth 005A",8,-0.34,34.19
+"Westminster 024A",8,-0.34,34.19
+"Bexley 008D",8,-0.34,34.19
+"Bexley 001D",8,-0.34,34.19
+"Hounslow 008D",8,-0.34,34.19
+"Merton 022C",8,-0.34,34.19
+"Bexley 010C",8,-0.34,34.19
+"Waltham Forest 027C",8,-0.34,34.19
+"Lambeth 032E",8,-0.34,34.19
+"Greenwich 016A",8,-0.34,34.19
+"Hillingdon 015G",8,-0.34,34.19
+"Hackney 007A",8,-0.34,34.19
+"Newham 020D",8,-0.34,34.19
+"Greenwich 039B",8,-0.34,34.19
+"Redbridge 014D",8,-0.34,34.19
+"Harrow 029B",8,-0.34,34.19
+"Havering 017G",8,-0.34,34.19
+"Haringey 015B",8,-0.34,34.19
+"Croydon 041E",8,-0.34,34.19
+"Lambeth 007A",8,-0.34,34.19
+"Barking and Dagenham 013C",8,-0.34,34.19
+"Croydon 002E",8,-0.34,34.19
+"Southwark 023E",8,-0.34,34.19
+"Bromley 008A",8,-0.34,34.19
+"Camden 008D",8,-0.34,34.19
+"Redbridge 035F",8,-0.34,34.19
+"Enfield 031C",8,-0.34,34.19
+"Waltham Forest 019E",8,-0.34,34.19
+"Havering 009F",8,-0.34,34.19
+"Croydon 017E",8,-0.34,34.19
+"Bromley 013D",8,-0.34,34.19
+"Havering 017A",8,-0.34,34.19
+"Bexley 017E",8,-0.34,34.19
+"Newham 003B",8,-0.34,34.19
+"Waltham Forest 010D",8,-0.34,34.19
+"Southwark 017C",8,-0.34,34.19
+"Sutton 020C",8,-0.34,34.19
+"Barnet 011C",8,-0.34,34.19
+"Croydon 032A",8,-0.34,34.19
+"Newham 018C",8,-0.34,34.19
+"Camden 006E",8,-0.34,34.19
+"Wandsworth 007C",8,-0.34,34.19
+"Bexley 002D",8,-0.34,34.19
+"Wandsworth 008D",8,-0.34,34.19
+"Hammersmith and Fulham 002B",8,-0.34,34.19
+"Southwark 031B",8,-0.34,34.19
+"Hammersmith and Fulham 009B",8,-0.34,34.19
+"Barking and Dagenham 009C",8,-0.34,34.19
+"Barking and Dagenham 003D",8,-0.34,34.19
+"Ealing 018D",8,-0.34,34.19
+"Waltham Forest 018A",8,-0.34,34.19
+"Haringey 017B",8,-0.34,34.19
+"Greenwich 002I",8,-0.34,34.19
+"Greenwich 002F",8,-0.34,34.19
+"Islington 002D",8,-0.34,34.19
+"Brent 006B",8,-0.34,34.19
+"Lambeth 033E",8,-0.34,34.19
+"Hounslow 025F",8,-0.34,34.19
+"Greenwich 035H",8,-0.34,34.19
+"Camden 009D",8,-0.34,34.19
+"Lewisham 030C",8,-0.34,34.19
+"Newham 023B",8,-0.34,34.19
+"Enfield 028E",8,-0.34,34.19
+"Hillingdon 026B",8,-0.34,34.19
+"Greenwich 034I",8,-0.34,34.19
+"Havering 026A",8,-0.34,34.19
+"Lambeth 019E",8,-0.34,34.19
+"Camden 011B",8,-0.34,34.19
+"Richmond upon Thames 005C",8,-0.34,34.19
+"Bromley 023E",8,-0.34,34.19
+"Bromley 026B",8,-0.34,34.19
+"Brent 002G",8,-0.34,34.19
+"Westminster 016D",8,-0.34,34.19
+"Camden 007A",8,-0.34,34.19
+"Ealing 041C",8,-0.34,34.19
+"Enfield 031D",8,-0.34,34.19
+"Waltham Forest 010A",8,-0.34,34.19
+"Harrow 020D",8,-0.34,34.19
+"Sutton 007C",8,-0.34,34.19
+"Kensington and Chelsea 010E",8,-0.34,34.19
+"Tower Hamlets 002D",8,-0.34,34.19
+"Brent 010G",8,-0.34,34.19
+"Waltham Forest 025A",8,-0.34,34.19
+"Hammersmith and Fulham 025C",8,-0.34,34.19
+"Harrow 028A",8,-0.34,34.19
+"Southwark 001A",8,-0.34,34.19
+"Bexley 020G",8,-0.34,34.19
+"Islington 010E",8,-0.34,34.19
+"Sutton 021A",8,-0.34,34.19
+"Hounslow 014B",8,-0.34,34.19
+"Hillingdon 027G",8,-0.34,34.19
+"Waltham Forest 003B",8,-0.34,34.19
+"Bexley 008C",8,-0.34,34.19
+"Newham 024B",8,-0.34,34.19
+"Tower Hamlets 024E",8,-0.34,34.19
+"Lewisham 008C",8,-0.34,34.19
+"Wandsworth 037C",8,-0.34,34.19
+"Enfield 029C",8,-0.34,34.19
+"Croydon 004E",8,-0.34,34.19
+"Newham 017A",8,-0.34,34.19
+"Croydon 029E",8,-0.34,34.19
+"Ealing 023D",8,-0.34,34.19
+"Richmond upon Thames 009D",8,-0.34,34.19
+"Croydon 016B",8,-0.34,34.19
+"Lambeth 031C",8,-0.34,34.19
+"Bexley 013A",8,-0.34,34.19
+"Lambeth 030E",8,-0.34,34.19
+"Enfield 026D",8,-0.34,34.19
+"Brent 010B",8,-0.34,34.19
+"Hammersmith and Fulham 025D",8,-0.34,34.19
+"Brent 022C",8,-0.34,34.19
+"Enfield 036B",8,-0.34,34.19
+"Greenwich 022B",8,-0.34,34.19
+"Southwark 014A",8,-0.34,34.19
+"Haringey 001D",8,-0.34,34.19
+"Hammersmith and Fulham 014A",8,-0.34,34.19
+"Greenwich 031B",8,-0.34,34.19
+"Newham 019C",8,-0.34,34.19
+"Harrow 028D",8,-0.34,34.19
+"Islington 009C",8,-0.34,34.19
+"Barnet 022A",8,-0.34,34.19
+"Merton 009C",8,-0.34,34.19
+"Waltham Forest 009B",8,-0.34,34.19
+"Camden 001B",8,-0.34,34.19
+"Tower Hamlets 020E",8,-0.34,34.19
+"Camden 023A",8,-0.34,34.19
+"Newham 028D",8,-0.34,34.19
+"Hackney 024E",8,-0.34,34.19
+"Newham 011B",8,-0.34,34.19
+"Camden 001A",8,-0.34,34.19
+"Barking and Dagenham 012E",8,-0.34,34.19
+"Waltham Forest 001A",8,-0.34,34.19
+"Croydon 032B",8,-0.34,34.19
+"Bromley 036D",8,-0.34,34.19
+"Bromley 029D",8,-0.34,34.19
+"Hammersmith and Fulham 003D",8,-0.34,34.19
+"Waltham Forest 009A",8,-0.34,34.19
+"Islington 002B",8,-0.34,34.19
+"Greenwich 017D",8,-0.34,34.19
+"Merton 005E",8,-0.34,34.19
+"Lewisham 008E",8,-0.34,34.19
+"Hackney 012C",8,-0.34,34.19
+"Westminster 023D",8,-0.34,34.19
+"Hounslow 009A",8,-0.34,34.19
+"Hounslow 016E",8,-0.34,34.19
+"Richmond upon Thames 001C",8,-0.34,34.19
+"Croydon 037C",8,-0.34,34.19
+"Newham 020A",8,-0.34,34.19
+"Greenwich 029D",8,-0.34,34.19
+"Islington 012D",8,-0.34,34.19
+"Hackney 009B",8,-0.34,34.19
+"Croydon 002C",8,-0.34,34.19
+"Islington 014B",8,-0.34,34.19
+"Newham 034I",8,-0.34,34.19
+"Barnet 019E",8,-0.34,34.19
+"Camden 006C",8,-0.34,34.19
+"Hillingdon 024C",8,-0.34,34.19
+"Hillingdon 026C",8,-0.34,34.19
+"Hillingdon 016D",8,-0.34,34.19
+"Barnet 010C",8,-0.34,34.19
+"Haringey 035C",8,-0.34,34.19
+"Lewisham 035C",8,-0.34,34.19
+"Wandsworth 001B",8,-0.34,34.19
+"Croydon 015A",8,-0.34,34.19
+"Southwark 025D",8,-0.34,34.19
+"Ealing 040C",8,-0.34,34.19
+"Redbridge 015B",8,-0.34,34.19
+"Enfield 036D",8,-0.34,34.19
+"Harrow 010B",8,-0.34,34.19
+"Wandsworth 003C",8,-0.34,34.19
+"Newham 034L",8,-0.34,34.19
+"Haringey 010A",8,-0.34,34.19
+"Hackney 006E",8,-0.34,34.19
+"Hillingdon 033D",8,-0.34,34.19
+"Ealing 014D",8,-0.34,34.19
+"Richmond upon Thames 013A",8,-0.34,34.19
+"Enfield 036C",8,-0.34,34.19
+"Brent 028E",8,-0.34,34.19
+"Ealing 017E",8,-0.34,34.19
+"Hounslow 006A",8,-0.34,34.19
+"Hackney 015D",8,-0.34,34.19
+"Waltham Forest 020H",8,-0.34,34.19
+"Hammersmith and Fulham 006E",8,-0.34,34.19
+"Merton 009A",8,-0.34,34.19
+"Greenwich 031A",8,-0.34,34.19
+"Barking and Dagenham 007G",8,-0.34,34.19
+"Haringey 034D",8,-0.34,34.19
+"Barnet 037E",8,-0.34,34.19
+"Greenwich 022A",8,-0.34,34.19
+"Barnet 001E",8,-0.34,34.19
+"Waltham Forest 027D",8,-0.34,34.19
+"Brent 012C",8,-0.34,34.19
+"Bexley 001B",8,-0.34,34.19
+"Harrow 031A",8,-0.34,34.19
+"Ealing 022A",8,-0.34,34.19
+"Barking and Dagenham 023B",8,-0.34,34.19
+"Wandsworth 039C",8,-0.34,34.19
+"Tower Hamlets 017C",8,-0.34,34.19
+"Croydon 036B",8,-0.34,34.19
+"Barnet 021C",8,-0.34,34.19
+"Tower Hamlets 023D",8,-0.34,34.19
+"Ealing 005C",8,-0.34,34.19
+"Sutton 013C",8,-0.34,34.19
+"Lambeth 008B",8,-0.34,34.19
+"Sutton 002C",8,-0.34,34.19
+"Barking and Dagenham 008F",8,-0.34,34.19
+"Islington 006D",8,-0.34,34.19
+"Croydon 035D",8,-0.34,34.19
+"Waltham Forest 009D",8,-0.34,34.19
+"Haringey 028D",8,-0.34,34.19
+"Redbridge 032C",8,-0.34,34.19
+"Haringey 036B",8,-0.34,34.19
+"Barnet 023A",8,-0.34,34.19
+"Wandsworth 031C",8,-0.34,34.19
+"Sutton 005A",8,-0.34,34.19
+"Ealing 044D",8,-0.34,34.19
+"Hammersmith and Fulham 010B",8,-0.34,34.19
+"Greenwich 034B",8,-0.34,34.19
+"Havering 002B",8,-0.34,34.19
+"Enfield 004E",8,-0.34,34.19
+"Barnet 010A",8,-0.34,34.19
+"Wandsworth 012D",8,-0.34,34.19
+"Redbridge 014F",8,-0.34,34.19
+"Richmond upon Thames 010D",8,-0.34,34.19
+"Bromley 004B",8,-0.34,34.19
+"Haringey 004C",8,-0.34,34.19
+"Bromley 010C",8,-0.34,34.19
+"Newham 007A",8,-0.34,34.19
+"Merton 012D",8,-0.34,34.19
+"Barking and Dagenham 003A",8,-0.34,34.19
+"Hammersmith and Fulham 023H",8,-0.34,34.19
+"Wandsworth 022C",8,-0.34,34.19
+"Hounslow 013D",8,-0.34,34.19
+"Ealing 008B",8,-0.34,34.19
+"Camden 002A",8,-0.34,34.19
+"Richmond upon Thames 022A",8,-0.34,34.19
+"Newham 025F",8,-0.34,34.19
+"Haringey 006C",8,-0.34,34.19
+"Ealing 010B",8,-0.34,34.19
+"Wandsworth 007A",8,-0.34,34.19
+"Ealing 010E",8,-0.34,34.19
+"Wandsworth 035C",8,-0.34,34.19
+"Brent 033C",8,-0.34,34.19
+"Merton 012B",8,-0.34,34.19
+"Tower Hamlets 010F",8,-0.34,34.19
+"Newham 025A",8,-0.34,34.19
+"Barnet 010D",8,-0.34,34.19
+"Havering 030C",8,-0.34,34.19
+"Croydon 014E",8,-0.34,34.19
+"Southwark 020E",8,-0.34,34.19
+"Lambeth 034A",8,-0.34,34.19
+"Ealing 021B",8,-0.34,34.19
+"Brent 034D",8,-0.34,34.19
+"Redbridge 037A",8,-0.34,34.19
+"Bexley 015E",8,-0.34,34.19
+"Lewisham 038E",8,-0.34,34.19
+"Sutton 010E",8,-0.34,34.19
+"Westminster 017D",8,-0.34,34.19
+"Bexley 009E",8,-0.34,34.19
+"Bromley 016C",8,-0.34,34.19
+"Lewisham 033D",8,-0.34,34.19
+"Ealing 031B",8,-0.34,34.19
+"Lewisham 018C",8,-0.34,34.19
+"Bromley 039D",8,-0.34,34.19
+"Croydon 026B",8,-0.34,34.19
+"Wandsworth 012C",8,-0.34,34.19
+"Barnet 031D",8,-0.34,34.19
+"Tower Hamlets 012B",8,-0.34,34.19
+"Brent 025F",8,-0.34,34.19
+"Hounslow 021E",8,-0.34,34.19
+"Brent 023D",8,-0.34,34.19
+"Newham 005D",8,-0.34,34.19
+"Brent 005B",8,-0.34,34.19
+"Barking and Dagenham 003B",8,-0.34,34.19
+"Merton 003E",8,-0.34,34.19
+"Croydon 017A",8,-0.34,34.19
+"Wandsworth 032B",8,-0.34,34.19
+"Croydon 022D",8,-0.34,34.19
+"Richmond upon Thames 013F",8,-0.34,34.19
+"Bexley 008H",8,-0.34,34.19
+"Brent 005A",8,-0.34,34.19
+"Greenwich 028A",8,-0.34,34.19
+"Waltham Forest 020I",8,-0.34,34.19
+"Enfield 008E",8,-0.34,34.19
+"Harrow 023D",8,-0.34,34.19
+"Bromley 022B",8,-0.34,34.19
+"Kingston upon Thames 008B",8,-0.34,34.19
+"Hammersmith and Fulham 014C",8,-0.34,34.19
+"Barnet 029F",8,-0.34,34.19
+"Newham 019D",8,-0.34,34.19
+"Brent 018D",8,-0.34,34.19
+"Islington 002C",8,-0.34,34.19
+"Greenwich 025B",8,-0.34,34.19
+"Tower Hamlets 012A",8,-0.34,34.19
+"Waltham Forest 002A",8,-0.34,34.19
+"Bexley 002E",8,-0.34,34.19
+"Lewisham 022E",8,-0.34,34.19
+"Ealing 010F",8,-0.34,34.19
+"Redbridge 009B",8,-0.34,34.19
+"Kingston upon Thames 004B",8,-0.34,34.19
+"Havering 016D",8,-0.34,34.19
+"Southwark 033C",8,-0.34,34.19
+"Kensington and Chelsea 003D",8,-0.34,34.19
+"Barnet 036E",8,-0.34,34.19
+"Merton 012C",8,-0.34,34.19
+"Greenwich 040D",8,-0.34,34.19
+"Hounslow 030C",8,-0.34,34.19
+"Camden 013A",8,-0.34,34.19
+"Ealing 001C",8,-0.34,34.19
+"Hackney 012B",8,-0.34,34.19
+"Barnet 037B",8,-0.34,34.19
+"Wandsworth 034C",8,-0.34,34.19
+"Barnet 027B",8,-0.34,34.19
+"Havering 006D",8,-0.34,34.19
+"Tower Hamlets 019H",8,-0.34,34.19
+"Waltham Forest 028E",8,-0.34,34.19
+"Brent 015E",8,-0.34,34.19
+"Merton 013D",8,-0.34,34.19
+"Haringey 009A",8,-0.34,34.19
+"Hackney 016B",8,-0.34,34.19
+"Enfield 032D",8,-0.34,34.19
+"Lambeth 026C",8,-0.34,34.19
+"Sutton 019A",8,-0.34,34.19
+"Sutton 016B",8,-0.34,34.19
+"Waltham Forest 023A",8,-0.34,34.19
+"Richmond upon Thames 013E",8,-0.34,34.19
+"Harrow 006A",8,-0.34,34.19
+"Newham 015A",8,-0.34,34.19
+"Ealing 006E",8,-0.34,34.19
+"Lambeth 024D",8,-0.34,34.19
+"Waltham Forest 015A",8,-0.34,34.19
+"Bromley 041C",8,-0.34,34.19
+"Greenwich 015B",8,-0.34,34.19
+"Wandsworth 037B",8,-0.34,34.19
+"Croydon 045D",8,-0.34,34.19
+"Hammersmith and Fulham 017C",8,-0.34,34.19
+"Waltham Forest 025B",8,-0.34,34.19
+"Merton 011E",8,-0.34,34.19
+"Barnet 040A",8,-0.34,34.19
+"Sutton 019E",8,-0.34,34.19
+"Croydon 042A",7,-0.52,25.89
+"Waltham Forest 001C",7,-0.52,25.89
+"Lewisham 028B",7,-0.52,25.89
+"Lewisham 001B",7,-0.52,25.89
+"Croydon 040D",7,-0.52,25.89
+"Kingston upon Thames 003E",7,-0.52,25.89
+"Lambeth 030B",7,-0.52,25.89
+"Newham 016A",7,-0.52,25.89
+"Richmond upon Thames 017C",7,-0.52,25.89
+"Ealing 041B",7,-0.52,25.89
+"Bexley 018F",7,-0.52,25.89
+"Redbridge 020D",7,-0.52,25.89
+"Barking and Dagenham 009E",7,-0.52,25.89
+"Croydon 030A",7,-0.52,25.89
+"Lambeth 024E",7,-0.52,25.89
+"Brent 019B",7,-0.52,25.89
+"Lewisham 022D",7,-0.52,25.89
+"Richmond upon Thames 009B",7,-0.52,25.89
+"Newham 007C",7,-0.52,25.89
+"Wandsworth 015B",7,-0.52,25.89
+"Tower Hamlets 022B",7,-0.52,25.89
+"Croydon 007B",7,-0.52,25.89
+"Barking and Dagenham 008E",7,-0.52,25.89
+"Bromley 033A",7,-0.52,25.89
+"Lambeth 002A",7,-0.52,25.89
+"Barking and Dagenham 019H",7,-0.52,25.89
+"Southwark 033D",7,-0.52,25.89
+"Hounslow 024F",7,-0.52,25.89
+"Croydon 011D",7,-0.52,25.89
+"Merton 008E",7,-0.52,25.89
+"Richmond upon Thames 012C",7,-0.52,25.89
+"Richmond upon Thames 001G",7,-0.52,25.89
+"Enfield 021D",7,-0.52,25.89
+"Hillingdon 015K",7,-0.52,25.89
+"Greenwich 017C",7,-0.52,25.89
+"Ealing 016B",7,-0.52,25.89
+"Redbridge 027B",7,-0.52,25.89
+"Enfield 019A",7,-0.52,25.89
+"Wandsworth 034A",7,-0.52,25.89
+"Bexley 021C",7,-0.52,25.89
+"Haringey 031B",7,-0.52,25.89
+"Lambeth 009E",7,-0.52,25.89
+"Hackney 004B",7,-0.52,25.89
+"Barnet 029C",7,-0.52,25.89
+"Bromley 016E",7,-0.52,25.89
+"Lambeth 025C",7,-0.52,25.89
+"Lewisham 021E",7,-0.52,25.89
+"Hounslow 009D",7,-0.52,25.89
+"Camden 016A",7,-0.52,25.89
+"Lewisham 009A",7,-0.52,25.89
+"Newham 025D",7,-0.52,25.89
+"Hackney 020B",7,-0.52,25.89
+"Barnet 025C",7,-0.52,25.89
+"Wandsworth 025B",7,-0.52,25.89
+"Redbridge 031A",7,-0.52,25.89
+"Newham 025C",7,-0.52,25.89
+"Barnet 004D",7,-0.52,25.89
+"Lewisham 037C",7,-0.52,25.89
+"Tower Hamlets 005A",7,-0.52,25.89
+"Sutton 008F",7,-0.52,25.89
+"Bromley 020C",7,-0.52,25.89
+"Bromley 005G",7,-0.52,25.89
+"Croydon 041B",7,-0.52,25.89
+"Redbridge 018A",7,-0.52,25.89
+"Newham 015D",7,-0.52,25.89
+"Brent 016C",7,-0.52,25.89
+"Greenwich 020A",7,-0.52,25.89
+"Hounslow 027E",7,-0.52,25.89
+"Lambeth 018B",7,-0.52,25.89
+"Barking and Dagenham 008H",7,-0.52,25.89
+"Hammersmith and Fulham 007A",7,-0.52,25.89
+"Enfield 010A",7,-0.52,25.89
+"Waltham Forest 002E",7,-0.52,25.89
+"Lambeth 012C",7,-0.52,25.89
+"Croydon 032E",7,-0.52,25.89
+"Croydon 029A",7,-0.52,25.89
+"Greenwich 021D",7,-0.52,25.89
+"Waltham Forest 003D",7,-0.52,25.89
+"Barnet 026A",7,-0.52,25.89
+"Merton 002C",7,-0.52,25.89
+"Ealing 023B",7,-0.52,25.89
+"Kensington and Chelsea 005E",7,-0.52,25.89
+"Southwark 019A",7,-0.52,25.89
+"Haringey 022C",7,-0.52,25.89
+"Richmond upon Thames 018D",7,-0.52,25.89
+"Westminster 002C",7,-0.52,25.89
+"Waltham Forest 017E",7,-0.52,25.89
+"Havering 008C",7,-0.52,25.89
+"Redbridge 035D",7,-0.52,25.89
+"Hounslow 024A",7,-0.52,25.89
+"Croydon 017C",7,-0.52,25.89
+"Hackney 015B",7,-0.52,25.89
+"Hammersmith and Fulham 012F",7,-0.52,25.89
+"Merton 025E",7,-0.52,25.89
+"Hammersmith and Fulham 012C",7,-0.52,25.89
+"Barking and Dagenham 019B",7,-0.52,25.89
+"Waltham Forest 011B",7,-0.52,25.89
+"Barnet 035E",7,-0.52,25.89
+"Wandsworth 027A",7,-0.52,25.89
+"Richmond upon Thames 001B",7,-0.52,25.89
+"Hammersmith and Fulham 008A",7,-0.52,25.89
+"Croydon 003B",7,-0.52,25.89
+"Southwark 033A",7,-0.52,25.89
+"Enfield 030A",7,-0.52,25.89
+"Waltham Forest 021E",7,-0.52,25.89
+"Haringey 004A",7,-0.52,25.89
+"Merton 008C",7,-0.52,25.89
+"Brent 026B",7,-0.52,25.89
+"Barnet 016A",7,-0.52,25.89
+"Hammersmith and Fulham 007B",7,-0.52,25.89
+"Brent 036C",7,-0.52,25.89
+"Bexley 005D",7,-0.52,25.89
+"Redbridge 024A",7,-0.52,25.89
+"Tower Hamlets 026A",7,-0.52,25.89
+"Tower Hamlets 014F",7,-0.52,25.89
+"Merton 017B",7,-0.52,25.89
+"Lambeth 027D",7,-0.52,25.89
+"Tower Hamlets 004G",7,-0.52,25.89
+"Greenwich 001B",7,-0.52,25.89
+"Haringey 012C",7,-0.52,25.89
+"Sutton 024D",7,-0.52,25.89
+"Greenwich 027B",7,-0.52,25.89
+"Havering 029D",7,-0.52,25.89
+"Croydon 017D",7,-0.52,25.89
+"Waltham Forest 005B",7,-0.52,25.89
+"Redbridge 009D",7,-0.52,25.89
+"Greenwich 025D",7,-0.52,25.89
+"Redbridge 036E",7,-0.52,25.89
+"Barnet 007A",7,-0.52,25.89
+"Hackney 013D",7,-0.52,25.89
+"Merton 008A",7,-0.52,25.89
+"Newham 010B",7,-0.52,25.89
+"Kensington and Chelsea 010D",7,-0.52,25.89
+"Croydon 034D",7,-0.52,25.89
+"Hillingdon 001B",7,-0.52,25.89
+"Southwark 029A",7,-0.52,25.89
+"Bromley 004E",7,-0.52,25.89
+"Camden 016E",7,-0.52,25.89
+"Islington 017B",7,-0.52,25.89
+"Sutton 006D",7,-0.52,25.89
+"Hackney 022C",7,-0.52,25.89
+"Westminster 003D",7,-0.52,25.89
+"Greenwich 030C",7,-0.52,25.89
+"Hounslow 010A",7,-0.52,25.89
+"Havering 017F",7,-0.52,25.89
+"Lewisham 011B",7,-0.52,25.89
+"Barnet 017A",7,-0.52,25.89
+"Bromley 012C",7,-0.52,25.89
+"Wandsworth 013C",7,-0.52,25.89
+"Bexley 028A",7,-0.52,25.89
+"Croydon 001C",7,-0.52,25.89
+"Haringey 033C",7,-0.52,25.89
+"Hillingdon 018F",7,-0.52,25.89
+"Lewisham 026B",7,-0.52,25.89
+"Redbridge 032F",7,-0.52,25.89
+"Bromley 007C",7,-0.52,25.89
+"Ealing 014B",7,-0.52,25.89
+"Richmond upon Thames 006C",7,-0.52,25.89
+"Havering 001B",7,-0.52,25.89
+"Croydon 003D",7,-0.52,25.89
+"Enfield 029E",7,-0.52,25.89
+"Southwark 024D",7,-0.52,25.89
+"Barnet 026D",7,-0.52,25.89
+"Hillingdon 010E",7,-0.52,25.89
+"Havering 023B",7,-0.52,25.89
+"Ealing 005A",7,-0.52,25.89
+"Greenwich 015D",7,-0.52,25.89
+"Bexley 013B",7,-0.52,25.89
+"Wandsworth 025A",7,-0.52,25.89
+"Kensington and Chelsea 018B",7,-0.52,25.89
+"Redbridge 027D",7,-0.52,25.89
+"Waltham Forest 012A",7,-0.52,25.89
+"Ealing 017B",7,-0.52,25.89
+"Enfield 016E",7,-0.52,25.89
+"Southwark 017E",7,-0.52,25.89
+"Barnet 024B",7,-0.52,25.89
+"Ealing 030D",7,-0.52,25.89
+"Merton 025A",7,-0.52,25.89
+"Kingston upon Thames 012A",7,-0.52,25.89
+"Richmond upon Thames 004A",7,-0.52,25.89
+"Hounslow 008C",7,-0.52,25.89
+"Barking and Dagenham 010C",7,-0.52,25.89
+"Wandsworth 019A",7,-0.52,25.89
+"Redbridge 031G",7,-0.52,25.89
+"Harrow 002B",7,-0.52,25.89
+"Ealing 032D",7,-0.52,25.89
+"Brent 023B",7,-0.52,25.89
+"Bromley 039C",7,-0.52,25.89
+"Havering 026E",7,-0.52,25.89
+"Harrow 015E",7,-0.52,25.89
+"Brent 011C",7,-0.52,25.89
+"Hounslow 025C",7,-0.52,25.89
+"Ealing 033A",7,-0.52,25.89
+"Redbridge 001C",7,-0.52,25.89
+"Lambeth 020E",7,-0.52,25.89
+"Richmond upon Thames 020F",7,-0.52,25.89
+"Wandsworth 006B",7,-0.52,25.89
+"Southwark 001C",7,-0.52,25.89
+"Bexley 010B",7,-0.52,25.89
+"Havering 022D",7,-0.52,25.89
+"Barnet 002A",7,-0.52,25.89
+"Havering 018C",7,-0.52,25.89
+"Havering 022C",7,-0.52,25.89
+"Barnet 036D",7,-0.52,25.89
+"Richmond upon Thames 005E",7,-0.52,25.89
+"Waltham Forest 022D",7,-0.52,25.89
+"Harrow 025D",7,-0.52,25.89
+"Harrow 022C",7,-0.52,25.89
+"Haringey 033B",7,-0.52,25.89
+"Kensington and Chelsea 007E",7,-0.52,25.89
+"Tower Hamlets 019E",7,-0.52,25.89
+"Sutton 007A",7,-0.52,25.89
+"Sutton 013D",7,-0.52,25.89
+"Newham 005B",7,-0.52,25.89
+"Camden 018A",7,-0.52,25.89
+"Sutton 005E",7,-0.52,25.89
+"Richmond upon Thames 022D",7,-0.52,25.89
+"Lewisham 021A",7,-0.52,25.89
+"Southwark 013B",7,-0.52,25.89
+"Southwark 022G",7,-0.52,25.89
+"Ealing 003B",7,-0.52,25.89
+"Kingston upon Thames 011C",7,-0.52,25.89
+"Lewisham 005B",7,-0.52,25.89
+"Greenwich 029B",7,-0.52,25.89
+"Ealing 032A",7,-0.52,25.89
+"Wandsworth 029C",7,-0.52,25.89
+"Greenwich 022C",7,-0.52,25.89
+"Lewisham 019C",7,-0.52,25.89
+"Barnet 010B",7,-0.52,25.89
+"Greenwich 035C",7,-0.52,25.89
+"Greenwich 014A",7,-0.52,25.89
+"Haringey 023A",7,-0.52,25.89
+"Croydon 006C",7,-0.52,25.89
+"Southwark 027D",7,-0.52,25.89
+"Sutton 017C",7,-0.52,25.89
+"Havering 007C",7,-0.52,25.89
+"Wandsworth 004I",7,-0.52,25.89
+"Hounslow 028B",7,-0.52,25.89
+"Harrow 011C",7,-0.52,25.89
+"Hackney 015C",7,-0.52,25.89
+"Hammersmith and Fulham 021A",7,-0.52,25.89
+"Greenwich 041C",7,-0.52,25.89
+"Greenwich 025C",7,-0.52,25.89
+"Merton 019C",7,-0.52,25.89
+"Newham 042E",7,-0.52,25.89
+"Bexley 008A",7,-0.52,25.89
+"Enfield 003G",7,-0.52,25.89
+"Lewisham 009C",7,-0.52,25.89
+"Lewisham 022B",7,-0.52,25.89
+"Barnet 013B",7,-0.52,25.89
+"Lewisham 015A",7,-0.52,25.89
+"Redbridge 014C",7,-0.52,25.89
+"Haringey 031A",7,-0.52,25.89
+"Lambeth 023C",7,-0.52,25.89
+"Ealing 042B",7,-0.52,25.89
+"Merton 014B",7,-0.52,25.89
+"Waltham Forest 001E",7,-0.52,25.89
+"Lewisham 031D",7,-0.52,25.89
+"Hounslow 010E",7,-0.52,25.89
+"Bromley 042C",7,-0.52,25.89
+"Brent 030A",7,-0.52,25.89
+"Greenwich 029A",7,-0.52,25.89
+"Barking and Dagenham 017A",7,-0.52,25.89
+"Redbridge 040C",7,-0.52,25.89
+"Croydon 029C",7,-0.52,25.89
+"Haringey 028C",7,-0.52,25.89
+"Brent 010D",7,-0.52,25.89
+"Richmond upon Thames 006D",7,-0.52,25.89
+"Bromley 021B",7,-0.52,25.89
+"Richmond upon Thames 021B",7,-0.52,25.89
+"Barnet 029A",7,-0.52,25.89
+"Brent 033D",7,-0.52,25.89
+"Newham 015B",7,-0.52,25.89
+"Wandsworth 033C",7,-0.52,25.89
+"Bexley 010D",7,-0.52,25.89
+"Croydon 004D",7,-0.52,25.89
+"Redbridge 004B",7,-0.52,25.89
+"Barnet 041B",7,-0.52,25.89
+"Hounslow 012B",7,-0.52,25.89
+"Bromley 007E",7,-0.52,25.89
+"Croydon 009F",7,-0.52,25.89
+"Barking and Dagenham 007C",7,-0.52,25.89
+"Croydon 025B",7,-0.52,25.89
+"Newham 011E",7,-0.52,25.89
+"Hillingdon 003D",7,-0.52,25.89
+"Harrow 016C",7,-0.52,25.89
+"Barnet 007F",7,-0.52,25.89
+"Harrow 033B",7,-0.52,25.89
+"Hackney 004E",7,-0.52,25.89
+"Hackney 009A",7,-0.52,25.89
+"Harrow 001B",7,-0.52,25.89
+"Richmond upon Thames 011B",7,-0.52,25.89
+"Bromley 037D",7,-0.52,25.89
+"Harrow 029A",7,-0.52,25.89
+"Barnet 007B",7,-0.52,25.89
+"Barnet 035A",7,-0.52,25.89
+"Hillingdon 001A",7,-0.52,25.89
+"Bexley 026C",7,-0.52,25.89
+"Ealing 026D",7,-0.52,25.89
+"Lewisham 016A",7,-0.52,25.89
+"Enfield 011B",7,-0.52,25.89
+"Enfield 026B",7,-0.52,25.89
+"Bromley 032C",7,-0.52,25.89
+"Enfield 026A",7,-0.52,25.89
+"Havering 010B",7,-0.52,25.89
+"Hounslow 015G",7,-0.52,25.89
+"Hackney 029B",7,-0.52,25.89
+"Hillingdon 018D",7,-0.52,25.89
+"Enfield 028C",7,-0.52,25.89
+"Merton 024D",7,-0.52,25.89
+"Waltham Forest 012D",7,-0.52,25.89
+"Barking and Dagenham 018B",7,-0.52,25.89
+"Merton 017D",7,-0.52,25.89
+"Redbridge 007B",7,-0.52,25.89
+"Redbridge 038A",7,-0.52,25.89
+"Lewisham 022A",7,-0.52,25.89
+"Barnet 033E",7,-0.52,25.89
+"Barnet 008A",7,-0.52,25.89
+"Greenwich 008B",7,-0.52,25.89
+"Redbridge 004C",7,-0.52,25.89
+"Bexley 024C",7,-0.52,25.89
+"Waltham Forest 002B",7,-0.52,25.89
+"Hillingdon 004C",7,-0.52,25.89
+"Hackney 001D",7,-0.52,25.89
+"Southwark 029D",7,-0.52,25.89
+"Barnet 008E",7,-0.52,25.89
+"Bexley 027F",7,-0.52,25.89
+"Brent 004E",7,-0.52,25.89
+"Bromley 018A",7,-0.52,25.89
+"Barking and Dagenham 013F",7,-0.52,25.89
+"Greenwich 020D",7,-0.52,25.89
+"Redbridge 018C",7,-0.52,25.89
+"Haringey 001A",7,-0.52,25.89
+"Waltham Forest 004E",7,-0.52,25.89
+"Richmond upon Thames 020E",7,-0.52,25.89
+"Enfield 036A",7,-0.52,25.89
+"Waltham Forest 027B",7,-0.52,25.89
+"Harrow 004A",7,-0.52,25.89
+"Westminster 023G",7,-0.52,25.89
+"Hounslow 008B",7,-0.52,25.89
+"Greenwich 035G",7,-0.52,25.89
+"Kensington and Chelsea 018C",7,-0.52,25.89
+"Tower Hamlets 010C",7,-0.52,25.89
+"Newham 004A",7,-0.52,25.89
+"Barnet 012D",7,-0.52,25.89
+"Lambeth 033D",7,-0.52,25.89
+"Lewisham 016B",7,-0.52,25.89
+"Wandsworth 016B",7,-0.52,25.89
+"Haringey 005C",7,-0.52,25.89
+"Havering 027B",7,-0.52,25.89
+"Newham 001C",7,-0.52,25.89
+"Barnet 009B",7,-0.52,25.89
+"Camden 006A",7,-0.52,25.89
+"Enfield 020B",7,-0.52,25.89
+"Hammersmith and Fulham 002C",7,-0.52,25.89
+"Brent 015B",7,-0.52,25.89
+"Wandsworth 009C",7,-0.52,25.89
+"Enfield 016B",7,-0.52,25.89
+"Newham 036A",7,-0.52,25.89
+"Brent 003G",7,-0.52,25.89
+"Ealing 033C",7,-0.52,25.89
+"Enfield 019B",7,-0.52,25.89
+"Kingston upon Thames 012B",7,-0.52,25.89
+"Bromley 012A",7,-0.52,25.89
+"Kingston upon Thames 010C",7,-0.52,25.89
+"Enfield 020C",7,-0.52,25.89
+"Havering 010C",7,-0.52,25.89
+"Hackney 014F",7,-0.52,25.89
+"Tower Hamlets 033C",7,-0.52,25.89
+"Merton 024C",7,-0.52,25.89
+"Bromley 036B",7,-0.52,25.89
+"Brent 009E",7,-0.52,25.89
+"Lewisham 017F",7,-0.52,25.89
+"Westminster 024C",7,-0.52,25.89
+"Barnet 017E",7,-0.52,25.89
+"Camden 005C",7,-0.52,25.89
+"Lambeth 014A",7,-0.52,25.89
+"Havering 009E",7,-0.52,25.89
+"Harrow 023G",7,-0.52,25.89
+"Barking and Dagenham 002C",7,-0.52,25.89
+"Lewisham 005D",7,-0.52,25.89
+"Barnet 035F",7,-0.52,25.89
+"Harrow 031B",7,-0.52,25.89
+"Sutton 020A",7,-0.52,25.89
+"Waltham Forest 008A",7,-0.52,25.89
+"Tower Hamlets 025E",7,-0.52,25.89
+"Lambeth 031B",7,-0.52,25.89
+"Ealing 005B",7,-0.52,25.89
+"Barnet 033D",7,-0.52,25.89
+"Richmond upon Thames 002C",7,-0.52,25.89
+"Croydon 030B",7,-0.52,25.89
+"Hounslow 001D",7,-0.52,25.89
+"Wandsworth 027D",7,-0.52,25.89
+"Greenwich 033D",7,-0.52,25.89
+"Hounslow 004B",7,-0.52,25.89
+"Croydon 028B",7,-0.52,25.89
+"Brent 022A",7,-0.52,25.89
+"Greenwich 014B",7,-0.52,25.89
+"Sutton 014C",7,-0.52,25.89
+"Hounslow 004E",7,-0.52,25.89
+"Wandsworth 022B",7,-0.52,25.89
+"Ealing 009D",7,-0.52,25.89
+"Bromley 008G",7,-0.52,25.89
+"Hackney 025I",7,-0.52,25.89
+"Hammersmith and Fulham 003A",7,-0.52,25.89
+"Newham 022E",7,-0.52,25.89
+"Newham 032D",7,-0.52,25.89
+"Enfield 024C",7,-0.52,25.89
+"Croydon 011A",7,-0.52,25.89
+"Barnet 043F",7,-0.52,25.89
+"Hillingdon 018C",7,-0.52,25.89
+"Bromley 026C",7,-0.52,25.89
+"Southwark 030E",7,-0.52,25.89
+"Lewisham 027D",7,-0.52,25.89
+"Camden 003A",6,-0.73,17.25
+"Barnet 021A",6,-0.73,17.25
+"Ealing 019D",6,-0.73,17.25
+"Greenwich 041D",6,-0.73,17.25
+"Harrow 013E",6,-0.73,17.25
+"Hounslow 019A",6,-0.73,17.25
+"Barnet 022E",6,-0.73,17.25
+"Lambeth 004H",6,-0.73,17.25
+"Harrow 007B",6,-0.73,17.25
+"Bromley 015C",6,-0.73,17.25
+"Croydon 006A",6,-0.73,17.25
+"Ealing 002B",6,-0.73,17.25
+"Haringey 035B",6,-0.73,17.25
+"Kingston upon Thames 016C",6,-0.73,17.25
+"Hounslow 019C",6,-0.73,17.25
+"Hounslow 025D",6,-0.73,17.25
+"Hillingdon 009D",6,-0.73,17.25
+"Bexley 014B",6,-0.73,17.25
+"Enfield 007C",6,-0.73,17.25
+"Barnet 035B",6,-0.73,17.25
+"Lambeth 013B",6,-0.73,17.25
+"Lewisham 024C",6,-0.73,17.25
+"Harrow 030D",6,-0.73,17.25
+"Hillingdon 003C",6,-0.73,17.25
+"Bromley 032A",6,-0.73,17.25
+"Hammersmith and Fulham 019C",6,-0.73,17.25
+"Wandsworth 017D",6,-0.73,17.25
+"Lambeth 010C",6,-0.73,17.25
+"Hammersmith and Fulham 018C",6,-0.73,17.25
+"Bexley 009C",6,-0.73,17.25
+"Lambeth 020B",6,-0.73,17.25
+"Redbridge 017B",6,-0.73,17.25
+"Havering 029C",6,-0.73,17.25
+"Richmond upon Thames 010B",6,-0.73,17.25
+"Sutton 012E",6,-0.73,17.25
+"Wandsworth 030D",6,-0.73,17.25
+"Ealing 018F",6,-0.73,17.25
+"Barnet 041A",6,-0.73,17.25
+"Sutton 021D",6,-0.73,17.25
+"Brent 030E",6,-0.73,17.25
+"Lewisham 024D",6,-0.73,17.25
+"Bexley 014D",6,-0.73,17.25
+"Richmond upon Thames 019A",6,-0.73,17.25
+"Merton 001E",6,-0.73,17.25
+"Enfield 013C",6,-0.73,17.25
+"Croydon 023C",6,-0.73,17.25
+"Barnet 017C",6,-0.73,17.25
+"Kingston upon Thames 012E",6,-0.73,17.25
+"Greenwich 021C",6,-0.73,17.25
+"Ealing 039D",6,-0.73,17.25
+"Bromley 008E",6,-0.73,17.25
+"Hammersmith and Fulham 010E",6,-0.73,17.25
+"Bexley 029C",6,-0.73,17.25
+"Brent 008A",6,-0.73,17.25
+"Wandsworth 036A",6,-0.73,17.25
+"Richmond upon Thames 004C",6,-0.73,17.25
+"Hammersmith and Fulham 024C",6,-0.73,17.25
+"Kingston upon Thames 003A",6,-0.73,17.25
+"Richmond upon Thames 002F",6,-0.73,17.25
+"Richmond upon Thames 004E",6,-0.73,17.25
+"Havering 005C",6,-0.73,17.25
+"Barking and Dagenham 009D",6,-0.73,17.25
+"Barnet 017F",6,-0.73,17.25
+"Barnet 028B",6,-0.73,17.25
+"Merton 023B",6,-0.73,17.25
+"Kingston upon Thames 016D",6,-0.73,17.25
+"Hillingdon 033E",6,-0.73,17.25
+"Lambeth 013E",6,-0.73,17.25
+"Bexley 007B",6,-0.73,17.25
+"Bromley 002A",6,-0.73,17.25
+"Hackney 018B",6,-0.73,17.25
+"Waltham Forest 024E",6,-0.73,17.25
+"Havering 008B",6,-0.73,17.25
+"Greenwich 038E",6,-0.73,17.25
+"Kingston upon Thames 020B",6,-0.73,17.25
+"Greenwich 037E",6,-0.73,17.25
+"Barnet 012B",6,-0.73,17.25
+"Barking and Dagenham 011C",6,-0.73,17.25
+"Ealing 010C",6,-0.73,17.25
+"Wandsworth 036B",6,-0.73,17.25
+"Sutton 004B",6,-0.73,17.25
+"Lambeth 029A",6,-0.73,17.25
+"Sutton 003B",6,-0.73,17.25
+"Wandsworth 015C",6,-0.73,17.25
+"Harrow 008C",6,-0.73,17.25
+"Harrow 028C",6,-0.73,17.25
+"Havering 002D",6,-0.73,17.25
+"Bromley 037A",6,-0.73,17.25
+"Lewisham 028C",6,-0.73,17.25
+"Ealing 032C",6,-0.73,17.25
+"Greenwich 023A",6,-0.73,17.25
+"Enfield 015A",6,-0.73,17.25
+"Hackney 008C",6,-0.73,17.25
+"Hackney 004A",6,-0.73,17.25
+"Camden 023E",6,-0.73,17.25
+"Merton 023D",6,-0.73,17.25
+"Wandsworth 014A",6,-0.73,17.25
+"Lambeth 023A",6,-0.73,17.25
+"Waltham Forest 015E",6,-0.73,17.25
+"Barnet 004B",6,-0.73,17.25
+"Barnet 028D",6,-0.73,17.25
+"Hillingdon 021A",6,-0.73,17.25
+"Redbridge 018D",6,-0.73,17.25
+"Barnet 028C",6,-0.73,17.25
+"Hillingdon 008D",6,-0.73,17.25
+"Waltham Forest 001D",6,-0.73,17.25
+"Richmond upon Thames 003E",6,-0.73,17.25
+"Hillingdon 002B",6,-0.73,17.25
+"Hillingdon 002C",6,-0.73,17.25
+"Richmond upon Thames 012B",6,-0.73,17.25
+"Wandsworth 004D",6,-0.73,17.25
+"Kingston upon Thames 019A",6,-0.73,17.25
+"Bexley 018E",6,-0.73,17.25
+"Redbridge 037C",6,-0.73,17.25
+"Lewisham 033A",6,-0.73,17.25
+"Kensington and Chelsea 017C",6,-0.73,17.25
+"Barking and Dagenham 009B",6,-0.73,17.25
+"Greenwich 005C",6,-0.73,17.25
+"Barnet 037A",6,-0.73,17.25
+"Tower Hamlets 027C",6,-0.73,17.25
+"Richmond upon Thames 008A",6,-0.73,17.25
+"Croydon 025C",6,-0.73,17.25
+"Enfield 027E",6,-0.73,17.25
+"Bromley 011B",6,-0.73,17.25
+"Hounslow 012E",6,-0.73,17.25
+"Havering 026C",6,-0.73,17.25
+"Ealing 014E",6,-0.73,17.25
+"Lambeth 022A",6,-0.73,17.25
+"Richmond upon Thames 003A",6,-0.73,17.25
+"Wandsworth 032A",6,-0.73,17.25
+"Harrow 031D",6,-0.73,17.25
+"Havering 023E",6,-0.73,17.25
+"Lewisham 021D",6,-0.73,17.25
+"Haringey 021C",6,-0.73,17.25
+"Bromley 041D",6,-0.73,17.25
+"Lewisham 021C",6,-0.73,17.25
+"Barking and Dagenham 017D",6,-0.73,17.25
+"Hounslow 018I",6,-0.73,17.25
+"Wandsworth 036C",6,-0.73,17.25
+"Newham 042A",6,-0.73,17.25
+"Bromley 004C",6,-0.73,17.25
+"Lambeth 028A",6,-0.73,17.25
+"Bromley 030H",6,-0.73,17.25
+"Wandsworth 011D",6,-0.73,17.25
+"Camden 005E",6,-0.73,17.25
+"Hammersmith and Fulham 006D",6,-0.73,17.25
+"Barnet 002E",6,-0.73,17.25
+"Lewisham 023D",6,-0.73,17.25
+"Bexley 011B",6,-0.73,17.25
+"Hounslow 018E",6,-0.73,17.25
+"Barnet 019D",6,-0.73,17.25
+"Redbridge 010B",6,-0.73,17.25
+"Enfield 009B",6,-0.73,17.25
+"Brent 008B",6,-0.73,17.25
+"Lambeth 007C",6,-0.73,17.25
+"Lewisham 015D",6,-0.73,17.25
+"Harrow 003B",6,-0.73,17.25
+"Bromley 007B",6,-0.73,17.25
+"Haringey 021D",6,-0.73,17.25
+"Croydon 008A",6,-0.73,17.25
+"Barnet 027A",6,-0.73,17.25
+"Haringey 019A",6,-0.73,17.25
+"Lewisham 006D",6,-0.73,17.25
+"Barnet 027F",6,-0.73,17.25
+"Harrow 021D",6,-0.73,17.25
+"Westminster 021D",6,-0.73,17.25
+"Barnet 005D",6,-0.73,17.25
+"Hounslow 020C",6,-0.73,17.25
+"Camden 016D",6,-0.73,17.25
+"Greenwich 020B",6,-0.73,17.25
+"Barnet 043C",6,-0.73,17.25
+"Wandsworth 021E",6,-0.73,17.25
+"Bexley 020F",6,-0.73,17.25
+"Croydon 040B",6,-0.73,17.25
+"Southwark 027B",6,-0.73,17.25
+"Hillingdon 023D",6,-0.73,17.25
+"Hammersmith and Fulham 010A",6,-0.73,17.25
+"Hammersmith and Fulham 024B",6,-0.73,17.25
+"Bromley 002B",6,-0.73,17.25
+"Lambeth 006D",6,-0.73,17.25
+"Redbridge 026C",6,-0.73,17.25
+"Lambeth 035B",6,-0.73,17.25
+"Barnet 011A",6,-0.73,17.25
+"Croydon 034A",6,-0.73,17.25
+"Camden 011A",6,-0.73,17.25
+"Bromley 031B",6,-0.73,17.25
+"Havering 005E",6,-0.73,17.25
+"Havering 002E",6,-0.73,17.25
+"Bexley 021E",6,-0.73,17.25
+"Havering 025B",6,-0.73,17.25
+"Ealing 028D",6,-0.73,17.25
+"Newham 016C",6,-0.73,17.25
+"Havering 012F",6,-0.73,17.25
+"Enfield 013B",6,-0.73,17.25
+"Brent 006D",6,-0.73,17.25
+"Newham 021D",6,-0.73,17.25
+"Tower Hamlets 035C",6,-0.73,17.25
+"Redbridge 014A",6,-0.73,17.25
+"Bexley 006E",6,-0.73,17.25
+"Hounslow 012D",6,-0.73,17.25
+"Bexley 005B",6,-0.73,17.25
+"Bexley 010E",6,-0.73,17.25
+"Hackney 023E",6,-0.73,17.25
+"Wandsworth 019F",6,-0.73,17.25
+"Croydon 016D",6,-0.73,17.25
+"Bromley 024E",6,-0.73,17.25
+"Wandsworth 020D",6,-0.73,17.25
+"Kingston upon Thames 019D",6,-0.73,17.25
+"Harrow 010D",6,-0.73,17.25
+"Brent 002D",6,-0.73,17.25
+"Ealing 018B",6,-0.73,17.25
+"Barnet 037C",6,-0.73,17.25
+"Lambeth 035C",6,-0.73,17.25
+"Enfield 026C",6,-0.73,17.25
+"Enfield 004A",6,-0.73,17.25
+"Havering 020E",6,-0.73,17.25
+"Haringey 029C",6,-0.73,17.25
+"Richmond upon Thames 017A",6,-0.73,17.25
+"Lewisham 010C",6,-0.73,17.25
+"Barking and Dagenham 004G",6,-0.73,17.25
+"Westminster 007A",6,-0.73,17.25
+"Wandsworth 020B",6,-0.73,17.25
+"Wandsworth 006D",6,-0.73,17.25
+"Enfield 024A",6,-0.73,17.25
+"Islington 016A",6,-0.73,17.25
+"Hounslow 022B",6,-0.73,17.25
+"Wandsworth 022D",6,-0.73,17.25
+"Waltham Forest 003E",6,-0.73,17.25
+"Harrow 017E",6,-0.73,17.25
+"Harrow 029D",6,-0.73,17.25
+"Ealing 042C",6,-0.73,17.25
+"Hammersmith and Fulham 003B",6,-0.73,17.25
+"Brent 009A",6,-0.73,17.25
+"Wandsworth 014D",6,-0.73,17.25
+"Ealing 018A",6,-0.73,17.25
+"Harrow 017C",6,-0.73,17.25
+"Kensington and Chelsea 002D",6,-0.73,17.25
+"Kingston upon Thames 015D",6,-0.73,17.25
+"Ealing 019B",6,-0.73,17.25
+"Barnet 015A",6,-0.73,17.25
+"Sutton 020B",6,-0.73,17.25
+"Bromley 040A",6,-0.73,17.25
+"Greenwich 016D",6,-0.73,17.25
+"Wandsworth 026F",6,-0.73,17.25
+"Ealing 014C",6,-0.73,17.25
+"Enfield 010E",6,-0.73,17.25
+"Ealing 031C",6,-0.73,17.25
+"Haringey 014A",6,-0.73,17.25
+"Ealing 016E",6,-0.73,17.25
+"Barnet 032B",6,-0.73,17.25
+"Hammersmith and Fulham 014B",6,-0.73,17.25
+"Kingston upon Thames 009D",6,-0.73,17.25
+"Croydon 034F",6,-0.73,17.25
+"Lewisham 024E",6,-0.73,17.25
+"Brent 032C",6,-0.73,17.25
+"Lambeth 012E",6,-0.73,17.25
+"Lambeth 019B",6,-0.73,17.25
+"Lambeth 021B",6,-0.73,17.25
+"Harrow 031C",6,-0.73,17.25
+"Lewisham 023B",6,-0.73,17.25
+"Lewisham 010D",6,-0.73,17.25
+"Havering 020D",6,-0.73,17.25
+"Harrow 027E",6,-0.73,17.25
+"Waltham Forest 008D",6,-0.73,17.25
+"Ealing 019F",6,-0.73,17.25
+"Enfield 029D",6,-0.73,17.25
+"Sutton 014A",6,-0.73,17.25
+"Newham 040B",6,-0.73,17.25
+"Harrow 015C",6,-0.73,17.25
+"Hammersmith and Fulham 018A",6,-0.73,17.25
+"Barnet 036C",6,-0.73,17.25
+"Greenwich 008A",6,-0.73,17.25
+"Bromley 027B",6,-0.73,17.25
+"Enfield 004D",6,-0.73,17.25
+"Bromley 008D",6,-0.73,17.25
+"Lambeth 030C",6,-0.73,17.25
+"Redbridge 020C",6,-0.73,17.25
+"Barnet 015F",6,-0.73,17.25
+"Kingston upon Thames 005B",6,-0.73,17.25
+"Wandsworth 009D",6,-0.73,17.25
+"Bexley 003E",6,-0.73,17.25
+"Wandsworth 009E",6,-0.73,17.25
+"Greenwich 032C",6,-0.73,17.25
+"Richmond upon Thames 003F",6,-0.73,17.25
+"Harrow 005D",6,-0.73,17.25
+"Tower Hamlets 012H",6,-0.73,17.25
+"Merton 024B",6,-0.73,17.25
+"Hillingdon 008E",6,-0.73,17.25
+"Lambeth 022E",6,-0.73,17.25
+"Croydon 035C",6,-0.73,17.25
+"Lewisham 019B",6,-0.73,17.25
+"Sutton 004D",6,-0.73,17.25
+"Ealing 003A",6,-0.73,17.25
+"Croydon 001B",6,-0.73,17.25
+"Greenwich 023D",6,-0.73,17.25
+"Newham 011D",6,-0.73,17.25
+"Hounslow 030B",6,-0.73,17.25
+"Sutton 010A",6,-0.73,17.25
+"Hammersmith and Fulham 016D",6,-0.73,17.25
+"Redbridge 003D",6,-0.73,17.25
+"Havering 014A",6,-0.73,17.25
+"Harrow 017D",6,-0.73,17.25
+"Croydon 045C",6,-0.73,17.25
+"Redbridge 035G",6,-0.73,17.25
+"Newham 015E",6,-0.73,17.25
+"Hammersmith and Fulham 023E",6,-0.73,17.25
+"Redbridge 010D",6,-0.73,17.25
+"Wandsworth 019D",6,-0.73,17.25
+"Harrow 024B",6,-0.73,17.25
+"Richmond upon Thames 005A",6,-0.73,17.25
+"Sutton 014E",6,-0.73,17.25
+"Redbridge 015A",6,-0.73,17.25
+"Sutton 020E",6,-0.73,17.25
+"Merton 001B",6,-0.73,17.25
+"Wandsworth 006A",6,-0.73,17.25
+"Croydon 023A",6,-0.73,17.25
+"Croydon 011F",6,-0.73,17.25
+"Ealing 024C",6,-0.73,17.25
+"Ealing 035B",6,-0.73,17.25
+"Enfield 021B",6,-0.73,17.25
+"Croydon 042B",6,-0.73,17.25
+"Wandsworth 025C",6,-0.73,17.25
+"Croydon 026E",6,-0.73,17.25
+"Barking and Dagenham 016A",6,-0.73,17.25
+"Barking and Dagenham 008B",6,-0.73,17.25
+"Haringey 034A",6,-0.73,17.25
+"Wandsworth 026A",6,-0.73,17.25
+"Ealing 017C",6,-0.73,17.25
+"Tower Hamlets 032G",6,-0.73,17.25
+"Hillingdon 021E",6,-0.73,17.25
+"Kensington and Chelsea 002A",6,-0.73,17.25
+"Barnet 016B",6,-0.73,17.25
+"Islington 002A",6,-0.73,17.25
+"Havering 027D",6,-0.73,17.25
+"Harrow 017A",6,-0.73,17.25
+"Merton 009B",6,-0.73,17.25
+"Enfield 032A",6,-0.73,17.25
+"Southwark 030B",6,-0.73,17.25
+"Brent 013B",6,-0.73,17.25
+"Kingston upon Thames 011D",6,-0.73,17.25
+"Hillingdon 003A",6,-0.73,17.25
+"Haringey 014C",6,-0.73,17.25
+"Wandsworth 017A",6,-0.73,17.25
+"Enfield 008A",6,-0.73,17.25
+"Bexley 027B",6,-0.73,17.25
+"Harrow 033C",6,-0.73,17.25
+"Hammersmith and Fulham 009C",6,-0.73,17.25
+"Merton 019A",6,-0.73,17.25
+"Bexley 006A",6,-0.73,17.25
+"Haringey 030A",6,-0.73,17.25
+"Ealing 039C",6,-0.73,17.25
+"Brent 001E",6,-0.73,17.25
+"Tower Hamlets 036C",6,-0.73,17.25
+"Waltham Forest 028C",6,-0.73,17.25
+"Barnet 022B",6,-0.73,17.25
+"Barnet 018D",6,-0.73,17.25
+"Wandsworth 033A",6,-0.73,17.25
+"Westminster 007D",6,-0.73,17.25
+"Hammersmith and Fulham 011B",6,-0.73,17.25
+"Haringey 022B",6,-0.73,17.25
+"Greenwich 035E",6,-0.73,17.25
+"Bromley 006A",6,-0.73,17.25
+"Westminster 003E",6,-0.73,17.25
+"Newham 004B",6,-0.73,17.25
+"Havering 006A",6,-0.73,17.25
+"Bromley 022A",6,-0.73,17.25
+"Merton 004E",6,-0.73,17.25
+"Harrow 012A",6,-0.73,17.25
+"Waltham Forest 007D",6,-0.73,17.25
+"Havering 009C",6,-0.73,17.25
+"Haringey 036A",6,-0.73,17.25
+"Waltham Forest 028A",6,-0.73,17.25
+"Bromley 026D",6,-0.73,17.25
+"Merton 004C",6,-0.73,17.25
+"Bexley 019H",6,-0.73,17.25
+"Bexley 003D",6,-0.73,17.25
+"Sutton 025B",6,-0.73,17.25
+"Redbridge 007F",6,-0.73,17.25
+"Redbridge 018B",6,-0.73,17.25
+"Havering 007D",6,-0.73,17.25
+"Lambeth 023F",6,-0.73,17.25
+"Brent 032A",6,-0.73,17.25
+"Haringey 017C",6,-0.73,17.25
+"Bromley 005E",6,-0.73,17.25
+"Bromley 011A",6,-0.73,17.25
+"Barking and Dagenham 007D",6,-0.73,17.25
+"Barnet 019B",6,-0.73,17.25
+"Hounslow 027C",6,-0.73,17.25
+"Bexley 017B",6,-0.73,17.25
+"Hillingdon 029E",6,-0.73,17.25
+"Hammersmith and Fulham 009A",6,-0.73,17.25
+"Barnet 013C",6,-0.73,17.25
+"Bexley 028B",6,-0.73,17.25
+"Harrow 024C",6,-0.73,17.25
+"Hillingdon 019C",6,-0.73,17.25
+"Camden 003D",6,-0.73,17.25
+"Tower Hamlets 030B",6,-0.73,17.25
+"Hounslow 007E",6,-0.73,17.25
+"Kingston upon Thames 007E",6,-0.73,17.25
+"Enfield 020E",6,-0.73,17.25
+"Hammersmith and Fulham 018E",6,-0.73,17.25
+"Harrow 009A",6,-0.73,17.25
+"Bromley 039A",6,-0.73,17.25
+"Croydon 043E",6,-0.73,17.25
+"Harrow 007C",6,-0.73,17.25
+"Hillingdon 011C",6,-0.73,17.25
+"Wandsworth 035F",6,-0.73,17.25
+"Hounslow 006C",6,-0.73,17.25
+"Greenwich 030D",6,-0.73,17.25
+"Lambeth 023D",6,-0.73,17.25
+"Barnet 014B",6,-0.73,17.25
+"Richmond upon Thames 005D",6,-0.73,17.25
+"Barnet 038B",6,-0.73,17.25
+"Barnet 007C",6,-0.73,17.25
+"Barnet 009C",6,-0.73,17.25
+"Islington 009E",6,-0.73,17.25
+"Enfield 005E",6,-0.73,17.25
+"Kensington and Chelsea 021C",6,-0.73,17.25
+"Croydon 044D",6,-0.73,17.25
+"Redbridge 005C",6,-0.73,17.25
+"Ealing 035A",6,-0.73,17.25
+"Kensington and Chelsea 011B",6,-0.73,17.25
+"Richmond upon Thames 021D",6,-0.73,17.25
+"Croydon 006B",6,-0.73,17.25
+"Southwark 030C",6,-0.73,17.25
+"Kensington and Chelsea 017E",6,-0.73,17.25
+"Lambeth 022D",6,-0.73,17.25
+"Haringey 020D",6,-0.73,17.25
+"Barnet 004A",6,-0.73,17.25
+"Croydon 003A",6,-0.73,17.25
+"Harrow 003A",6,-0.73,17.25
+"Harrow 019B",5,-0.98,10.32
+"Wandsworth 019E",5,-0.98,10.32
+"Wandsworth 011E",5,-0.98,10.32
+"Hammersmith and Fulham 022B",5,-0.98,10.32
+"Havering 016C",5,-0.98,10.32
+"Kensington and Chelsea 009D",5,-0.98,10.32
+"Camden 023C",5,-0.98,10.32
+"Ealing 004A",5,-0.98,10.32
+"Sutton 005B",5,-0.98,10.32
+"Wandsworth 017E",5,-0.98,10.32
+"Brent 016B",5,-0.98,10.32
+"Haringey 014B",5,-0.98,10.32
+"Brent 033A",5,-0.98,10.32
+"Havering 015C",5,-0.98,10.32
+"Havering 010A",5,-0.98,10.32
+"Sutton 018E",5,-0.98,10.32
+"Kingston upon Thames 015B",5,-0.98,10.32
+"Hackney 003A",5,-0.98,10.32
+"Harrow 008A",5,-0.98,10.32
+"Brent 013C",5,-0.98,10.32
+"Bromley 011D",5,-0.98,10.32
+"Newham 023C",5,-0.98,10.32
+"Bromley 042A",5,-0.98,10.32
+"Lambeth 023E",5,-0.98,10.32
+"Bexley 023B",5,-0.98,10.32
+"Hounslow 028D",5,-0.98,10.32
+"Bromley 033C",5,-0.98,10.32
+"Kingston upon Thames 006B",5,-0.98,10.32
+"Newham 015C",5,-0.98,10.32
+"Kingston upon Thames 003B",5,-0.98,10.32
+"Merton 007D",5,-0.98,10.32
+"Waltham Forest 023C",5,-0.98,10.32
+"Lambeth 026D",5,-0.98,10.32
+"Sutton 011E",5,-0.98,10.32
+"Ealing 034C",5,-0.98,10.32
+"Camden 008B",5,-0.98,10.32
+"Hackney 007C",5,-0.98,10.32
+"Camden 010C",5,-0.98,10.32
+"Croydon 007C",5,-0.98,10.32
+"Brent 016A",5,-0.98,10.32
+"Redbridge 004A",5,-0.98,10.32
+"Havering 010F",5,-0.98,10.32
+"Hounslow 014G",5,-0.98,10.32
+"Hillingdon 001D",5,-0.98,10.32
+"Waltham Forest 016F",5,-0.98,10.32
+"Hounslow 019D",5,-0.98,10.32
+"Ealing 034A",5,-0.98,10.32
+"Greenwich 023C",5,-0.98,10.32
+"Barnet 006E",5,-0.98,10.32
+"Barnet 033A",5,-0.98,10.32
+"Redbridge 037E",5,-0.98,10.32
+"Bromley 007A",5,-0.98,10.32
+"Lambeth 030D",5,-0.98,10.32
+"Brent 005D",5,-0.98,10.32
+"Havering 008D",5,-0.98,10.32
+"Wandsworth 020C",5,-0.98,10.32
+"Sutton 004C",5,-0.98,10.32
+"Bexley 023A",5,-0.98,10.32
+"Bexley 018A",5,-0.98,10.32
+"Richmond upon Thames 022E",5,-0.98,10.32
+"Brent 015C",5,-0.98,10.32
+"Haringey 022A",5,-0.98,10.32
+"Greenwich 027C",5,-0.98,10.32
+"Waltham Forest 015C",5,-0.98,10.32
+"Haringey 020F",5,-0.98,10.32
+"Richmond upon Thames 020D",5,-0.98,10.32
+"Redbridge 003C",5,-0.98,10.32
+"Barnet 001F",5,-0.98,10.32
+"Bromley 040B",5,-0.98,10.32
+"Richmond upon Thames 010C",5,-0.98,10.32
+"Kingston upon Thames 004E",5,-0.98,10.32
+"Richmond upon Thames 002D",5,-0.98,10.32
+"Wandsworth 030C",5,-0.98,10.32
+"Hillingdon 021B",5,-0.98,10.32
+"Bromley 011E",5,-0.98,10.32
+"Lewisham 024A",5,-0.98,10.32
+"Bromley 037C",5,-0.98,10.32
+"Wandsworth 028B",5,-0.98,10.32
+"Hounslow 020B",5,-0.98,10.32
+"Barnet 014F",5,-0.98,10.32
+"Wandsworth 028C",5,-0.98,10.32
+"Barnet 021D",5,-0.98,10.32
+"Brent 004B",5,-0.98,10.32
+"Sutton 024B",5,-0.98,10.32
+"Richmond upon Thames 007A",5,-0.98,10.32
+"Bexley 020C",5,-0.98,10.32
+"Kingston upon Thames 015E",5,-0.98,10.32
+"Richmond upon Thames 020C",5,-0.98,10.32
+"Barnet 035D",5,-0.98,10.32
+"Bexley 027A",5,-0.98,10.32
+"Barnet 006C",5,-0.98,10.32
+"Sutton 009C",5,-0.98,10.32
+"Greenwich 034A",5,-0.98,10.32
+"Merton 025C",5,-0.98,10.32
+"Redbridge 007C",5,-0.98,10.32
+"Wandsworth 026E",5,-0.98,10.32
+"Harrow 032B",5,-0.98,10.32
+"Croydon 018B",5,-0.98,10.32
+"Barnet 007D",5,-0.98,10.32
+"Enfield 028A",5,-0.98,10.32
+"Wandsworth 004G",5,-0.98,10.32
+"Croydon 037A",5,-0.98,10.32
+"Hammersmith and Fulham 023F",5,-0.98,10.32
+"Redbridge 027A",5,-0.98,10.32
+"Barnet 018E",5,-0.98,10.32
+"Merton 017E",5,-0.98,10.32
+"Kingston upon Thames 001D",5,-0.98,10.32
+"Redbridge 027C",5,-0.98,10.32
+"Newham 042G",5,-0.98,10.32
+"Lambeth 027B",5,-0.98,10.32
+"Westminster 003A",5,-0.98,10.32
+"Sutton 010C",5,-0.98,10.32
+"Merton 015D",5,-0.98,10.32
+"Barnet 021B",5,-0.98,10.32
+"Barnet 040D",5,-0.98,10.32
+"Waltham Forest 004D",5,-0.98,10.32
+"Havering 024A",5,-0.98,10.32
+"Bromley 018D",5,-0.98,10.32
+"Wandsworth 017C",5,-0.98,10.32
+"Hillingdon 014B",5,-0.98,10.32
+"Richmond upon Thames 001E",5,-0.98,10.32
+"Redbridge 036B",5,-0.98,10.32
+"Croydon 009E",5,-0.98,10.32
+"Sutton 018B",5,-0.98,10.32
+"Kensington and Chelsea 008A",5,-0.98,10.32
+"Camden 003B",5,-0.98,10.32
+"Hammersmith and Fulham 018D",5,-0.98,10.32
+"Kensington and Chelsea 016E",5,-0.98,10.32
+"Sutton 006C",5,-0.98,10.32
+"Hammersmith and Fulham 020E",5,-0.98,10.32
+"Lewisham 011D",5,-0.98,10.32
+"Enfield 021C",5,-0.98,10.32
+"Hillingdon 013D",5,-0.98,10.32
+"Bromley 029B",5,-0.98,10.32
+"Bromley 034E",5,-0.98,10.32
+"Bromley 011C",5,-0.98,10.32
+"Redbridge 001F",5,-0.98,10.32
+"Bexley 029A",5,-0.98,10.32
+"Kingston upon Thames 004I",5,-0.98,10.32
+"Redbridge 017C",5,-0.98,10.32
+"Bromley 035C",5,-0.98,10.32
+"Redbridge 008D",5,-0.98,10.32
+"Southwark 032C",5,-0.98,10.32
+"Waltham Forest 007B",5,-0.98,10.32
+"Enfield 021F",5,-0.98,10.32
+"Croydon 044C",5,-0.98,10.32
+"Redbridge 004D",5,-0.98,10.32
+"Southwark 001E",5,-0.98,10.32
+"Redbridge 037B",5,-0.98,10.32
+"Richmond upon Thames 007B",5,-0.98,10.32
+"Bromley 034A",5,-0.98,10.32
+"Lambeth 030A",5,-0.98,10.32
+"Camden 004E",5,-0.98,10.32
+"Sutton 025E",5,-0.98,10.32
+"Harrow 002A",5,-0.98,10.32
+"Havering 018E",5,-0.98,10.32
+"Newham 005A",5,-0.98,10.32
+"Kingston upon Thames 007C",5,-0.98,10.32
+"Brent 033F",5,-0.98,10.32
+"Redbridge 033D",5,-0.98,10.32
+"Barnet 003A",5,-0.98,10.32
+"Brent 033E",5,-0.98,10.32
+"Barnet 043A",5,-0.98,10.32
+"Enfield 007B",5,-0.98,10.32
+"Hounslow 023E",5,-0.98,10.32
+"Kingston upon Thames 006C",5,-0.98,10.32
+"Hackney 006C",5,-0.98,10.32
+"Lambeth 006B",5,-0.98,10.32
+"Lambeth 013D",5,-0.98,10.32
+"Newham 032B",5,-0.98,10.32
+"Ealing 014A",5,-0.98,10.32
+"Brent 001C",5,-0.98,10.32
+"Camden 004D",5,-0.98,10.32
+"Redbridge 035E",5,-0.98,10.32
+"Redbridge 036H",5,-0.98,10.32
+"Havering 003E",5,-0.98,10.32
+"Barnet 007E",5,-0.98,10.32
+"Bromley 016B",5,-0.98,10.32
+"Bexley 025B",5,-0.98,10.32
+"Greenwich 016B",5,-0.98,10.32
+"Wandsworth 028D",5,-0.98,10.32
+"Croydon 031E",5,-0.98,10.32
+"Enfield 020G",5,-0.98,10.32
+"Redbridge 003B",5,-0.98,10.32
+"Sutton 021E",5,-0.98,10.32
+"Sutton 022C",5,-0.98,10.32
+"Bromley 039B",5,-0.98,10.32
+"Brent 004C",5,-0.98,10.32
+"Croydon 018A",5,-0.98,10.32
+"Waltham Forest 025C",5,-0.98,10.32
+"Hammersmith and Fulham 012B",5,-0.98,10.32
+"Bexley 026B",5,-0.98,10.32
+"Ealing 022B",5,-0.98,10.32
+"Waltham Forest 006A",5,-0.98,10.32
+"Enfield 009A",5,-0.98,10.32
+"Lewisham 029C",5,-0.98,10.32
+"Greenwich 016C",5,-0.98,10.32
+"Wandsworth 014B",5,-0.98,10.32
+"Bexley 016A",5,-0.98,10.32
+"Wandsworth 029B",5,-0.98,10.32
+"Havering 029A",5,-0.98,10.32
+"Ealing 013B",5,-0.98,10.32
+"Barnet 020D",5,-0.98,10.32
+"Ealing 034B",5,-0.98,10.32
+"Kingston upon Thames 009E",5,-0.98,10.32
+"Wandsworth 019B",5,-0.98,10.32
+"Bexley 026A",5,-0.98,10.32
+"Lewisham 023C",5,-0.98,10.32
+"Croydon 038A",5,-0.98,10.32
+"Southwark 029C",5,-0.98,10.32
+"Barnet 003C",5,-0.98,10.32
+"Croydon 033A",5,-0.98,10.32
+"Sutton 011F",5,-0.98,10.32
+"Bromley 037B",5,-0.98,10.32
+"Southwark 001B",5,-0.98,10.32
+"Richmond upon Thames 002A",5,-0.98,10.32
+"Haringey 020C",5,-0.98,10.32
+"Lambeth 005A",5,-0.98,10.32
+"Brent 001A",5,-0.98,10.32
+"Richmond upon Thames 006B",5,-0.98,10.32
+"Wandsworth 032D",5,-0.98,10.32
+"Hillingdon 003E",5,-0.98,10.32
+"Brent 005E",5,-0.98,10.32
+"Kingston upon Thames 017A",5,-0.98,10.32
+"Harrow 015F",5,-0.98,10.32
+"Southwark 008C",5,-0.98,10.32
+"Enfield 010D",5,-0.98,10.32
+"Wandsworth 026B",5,-0.98,10.32
+"Hillingdon 014D",5,-0.98,10.32
+"Bromley 020A",5,-0.98,10.32
+"Wandsworth 028A",5,-0.98,10.32
+"Barnet 004E",5,-0.98,10.32
+"Hillingdon 013A",5,-0.98,10.32
+"Croydon 039C",5,-0.98,10.32
+"Havering 014F",5,-0.98,10.32
+"Enfield 035E",5,-0.98,10.32
+"Bromley 036A",5,-0.98,10.32
+"Lewisham 039A",5,-0.98,10.32
+"Greenwich 041E",5,-0.98,10.32
+"Havering 027C",5,-0.98,10.32
+"Lewisham 011A",5,-0.98,10.32
+"Hounslow 008E",5,-0.98,10.32
+"Haringey 013D",5,-0.98,10.32
+"Harrow 024A",5,-0.98,10.32
+"Ealing 002E",5,-0.98,10.32
+"Merton 003D",5,-0.98,10.32
+"Merton 015E",5,-0.98,10.32
+"Ealing 011D",5,-0.98,10.32
+"Camden 005D",5,-0.98,10.32
+"Waltham Forest 004B",5,-0.98,10.32
+"Ealing 032B",5,-0.98,10.32
+"Hackney 008B",5,-0.98,10.32
+"Enfield 031A",5,-0.98,10.32
+"Kensington and Chelsea 013B",5,-0.98,10.32
+"Ealing 031A",5,-0.98,10.32
+"Croydon 021C",5,-0.98,10.32
+"Wandsworth 024E",5,-0.98,10.32
+"Barnet 013E",5,-0.98,10.32
+"Sutton 013B",5,-0.98,10.32
+"Merton 010D",5,-0.98,10.32
+"Hammersmith and Fulham 019B",5,-0.98,10.32
+"Redbridge 037D",5,-0.98,10.32
+"Havering 009D",5,-0.98,10.32
+"Barnet 011B",5,-0.98,10.32
+"Camden 004A",5,-0.98,10.32
+"Lewisham 006E",5,-0.98,10.32
+"Hammersmith and Fulham 022A",5,-0.98,10.32
+"Brent 002A",5,-0.98,10.32
+"Havering 021D",5,-0.98,10.32
+"Wandsworth 021D",5,-0.98,10.32
+"Tower Hamlets 031D",5,-0.98,10.32
+"Waltham Forest 005A",5,-0.98,10.32
+"Ealing 040A",5,-0.98,10.32
+"Lambeth 020C",5,-0.98,10.32
+"Ealing 022C",5,-0.98,10.32
+"Brent 007B",5,-0.98,10.32
+"Bexley 018D",5,-0.98,10.32
+"Kingston upon Thames 016B",5,-0.98,10.32
+"Enfield 028D",5,-0.98,10.32
+"Wandsworth 036D",5,-0.98,10.32
+"Ealing 039A",5,-0.98,10.32
+"Bromley 007F",5,-0.98,10.32
+"Barnet 024F",5,-0.98,10.32
+"Richmond upon Thames 003B",5,-0.98,10.32
+"Bexley 022C",5,-0.98,10.32
+"Redbridge 036D",5,-0.98,10.32
+"Havering 019C",5,-0.98,10.32
+"Sutton 004F",5,-0.98,10.32
+"Wandsworth 024C",5,-0.98,10.32
+"Sutton 017E",5,-0.98,10.32
+"Ealing 027C",5,-0.98,10.32
+"Richmond upon Thames 021A",5,-0.98,10.32
+"Havering 019B",5,-0.98,10.32
+"Haringey 020G",5,-0.98,10.32
+"Harrow 024D",5,-0.98,10.32
+"Havering 007E",5,-0.98,10.32
+"Ealing 025B",5,-0.98,10.32
+"Kingston upon Thames 020E",5,-0.98,10.32
+"Wandsworth 017B",5,-0.98,10.32
+"Barnet 002C",5,-0.98,10.32
+"Greenwich 014C",5,-0.98,10.32
+"Bromley 023C",5,-0.98,10.32
+"Richmond upon Thames 004H",5,-0.98,10.32
+"Enfield 031E",5,-0.98,10.32
+"Ealing 035D",5,-0.98,10.32
+"Hillingdon 002E",5,-0.98,10.32
+"Redbridge 008A",5,-0.98,10.32
+"Enfield 010C",5,-0.98,10.32
+"Enfield 011D",5,-0.98,10.32
+"Harrow 033E",5,-0.98,10.32
+"Barnet 029B",5,-0.98,10.32
+"Barnet 003D",5,-0.98,10.32
+"Harrow 008D",5,-0.98,10.32
+"Wandsworth 011B",5,-0.98,10.32
+"Richmond upon Thames 010A",5,-0.98,10.32
+"Southwark 028B",5,-0.98,10.32
+"Croydon 005E",5,-0.98,10.32
+"Hillingdon 033C",5,-0.98,10.32
+"Croydon 023D",5,-0.98,10.32
+"Harrow 033H",5,-0.98,10.32
+"Wandsworth 020A",5,-0.98,10.32
+"Kingston upon Thames 009B",5,-0.98,10.32
+"Richmond upon Thames 007C",5,-0.98,10.32
+"Bromley 029E",5,-0.98,10.32
+"Wandsworth 024A",5,-0.98,10.32
+"Enfield 022D",5,-0.98,10.32
+"Bromley 040E",5,-0.98,10.32
+"Hounslow 019B",5,-0.98,10.32
+"Havering 008E",5,-0.98,10.32
+"Wandsworth 033B",5,-0.98,10.32
+"Merton 013B",5,-0.98,10.32
+"Enfield 019C",5,-0.98,10.32
+"Tower Hamlets 007D",5,-0.98,10.32
+"Bromley 041B",5,-0.98,10.32
+"Hillingdon 009A",5,-0.98,10.32
+"Harrow 025C",5,-0.98,10.32
+"Sutton 015B",5,-0.98,10.32
+"Bexley 002C",5,-0.98,10.32
+"Richmond upon Thames 014B",5,-0.98,10.32
+"Barnet 002B",5,-0.98,10.32
+"Wandsworth 030A",5,-0.98,10.32
+"Harrow 005E",5,-0.98,10.32
+"Lambeth 007B",5,-0.98,10.32
+"Hackney 003B",5,-0.98,10.32
+"Havering 012B",5,-0.98,10.32
+"Tower Hamlets 034B",5,-0.98,10.32
+"Redbridge 008C",4,-1.29,4.85
+"Harrow 033I",4,-1.29,4.85
+"Richmond upon Thames 011D",4,-1.29,4.85
+"Sutton 017A",4,-1.29,4.85
+"Brent 007C",4,-1.29,4.85
+"Merton 007C",4,-1.29,4.85
+"Bromley 013B",4,-1.29,4.85
+"Barnet 009D",4,-1.29,4.85
+"Croydon 038C",4,-1.29,4.85
+"Hillingdon 010B",4,-1.29,4.85
+"Bexley 021A",4,-1.29,4.85
+"Havering 015A",4,-1.29,4.85
+"Bexley 020D",4,-1.29,4.85
+"Ealing 041E",4,-1.29,4.85
+"Hillingdon 006A",4,-1.29,4.85
+"Richmond upon Thames 022C",4,-1.29,4.85
+"Wandsworth 031A",4,-1.29,4.85
+"Merton 015A",4,-1.29,4.85
+"Redbridge 026D",4,-1.29,4.85
+"Croydon 018C",4,-1.29,4.85
+"Bromley 010B",4,-1.29,4.85
+"Havering 024D",4,-1.29,4.85
+"Richmond upon Thames 001A",4,-1.29,4.85
+"Newham 002C",4,-1.29,4.85
+"Merton 025D",4,-1.29,4.85
+"Hillingdon 005A",4,-1.29,4.85
+"Havering 014D",4,-1.29,4.85
+"Barnet 027D",4,-1.29,4.85
+"Sutton 016C",4,-1.29,4.85
+"Kingston upon Thames 019C",4,-1.29,4.85
+"Hounslow 014F",4,-1.29,4.85
+"Richmond upon Thames 018A",4,-1.29,4.85
+"Haringey 029A",4,-1.29,4.85
+"Newham 041B",4,-1.29,4.85
+"Kingston upon Thames 010A",4,-1.29,4.85
+"Havering 025A",4,-1.29,4.85
+"Brent 030C",4,-1.29,4.85
+"Merton 005B",4,-1.29,4.85
+"Brent 008C",4,-1.29,4.85
+"Wandsworth 025E",4,-1.29,4.85
+"Sutton 025A",4,-1.29,4.85
+"Merton 009E",4,-1.29,4.85
+"Barnet 014E",4,-1.29,4.85
+"Sutton 024A",4,-1.29,4.85
+"Croydon 018E",4,-1.29,4.85
+"Bromley 013A",4,-1.29,4.85
+"Bromley 021A",4,-1.29,4.85
+"Brent 006C",4,-1.29,4.85
+"Harrow 033F",4,-1.29,4.85
+"Sutton 011G",4,-1.29,4.85
+"Redbridge 014G",4,-1.29,4.85
+"Merton 016B",4,-1.29,4.85
+"Hillingdon 007C",4,-1.29,4.85
+"Havering 009A",4,-1.29,4.85
+"Harrow 012C",4,-1.29,4.85
+"Redbridge 001B",4,-1.29,4.85
+"Merton 010A",4,-1.29,4.85
+"Hillingdon 027H",4,-1.29,4.85
+"Wandsworth 019C",4,-1.29,4.85
+"Kingston upon Thames 004D",4,-1.29,4.85
+"Croydon 023B",4,-1.29,4.85
+"Barnet 012A",4,-1.29,4.85
+"Havering 008A",4,-1.29,4.85
+"Havering 023A",4,-1.29,4.85
+"Bromley 012E",4,-1.29,4.85
+"Harrow 002G",4,-1.29,4.85
+"Redbridge 007D",4,-1.29,4.85
+"Havering 018D",4,-1.29,4.85
+"Hillingdon 013E",4,-1.29,4.85
+"Kingston upon Thames 014D",4,-1.29,4.85
+"Bromley 027E",4,-1.29,4.85
+"Bexley 009G",4,-1.29,4.85
+"Kingston upon Thames 014B",4,-1.29,4.85
+"Richmond upon Thames 016A",4,-1.29,4.85
+"Barnet 033F",4,-1.29,4.85
+"Barnet 001D",4,-1.29,4.85
+"Redbridge 024D",4,-1.29,4.85
+"Richmond upon Thames 001D",4,-1.29,4.85
+"Lambeth 023B",4,-1.29,4.85
+"Havering 003A",4,-1.29,4.85
+"Harrow 012D",4,-1.29,4.85
+"Bromley 027A",4,-1.29,4.85
+"Sutton 025C",4,-1.29,4.85
+"Croydon 034C",4,-1.29,4.85
+"Bromley 015B",4,-1.29,4.85
+"Hammersmith and Fulham 022D",4,-1.29,4.85
+"Barnet 014A",4,-1.29,4.85
+"Bexley 011A",4,-1.29,4.85
+"Sutton 015A",4,-1.29,4.85
+"Bexley 021B",4,-1.29,4.85
+"Croydon 044E",4,-1.29,4.85
+"Kingston upon Thames 018E",4,-1.29,4.85
+"Bexley 013D",4,-1.29,4.85
+"Greenwich 023B",4,-1.29,4.85
+"Havering 030D",4,-1.29,4.85
+"Merton 004D",4,-1.29,4.85
+"Bromley 030A",4,-1.29,4.85
+"Bexley 005A",4,-1.29,4.85
+"Hounslow 015D",4,-1.29,4.85
+"Sutton 013E",4,-1.29,4.85
+"Harrow 019A",4,-1.29,4.85
+"Waltham Forest 003C",4,-1.29,4.85
+"Redbridge 012B",4,-1.29,4.85
+"Bromley 016D",4,-1.29,4.85
+"Croydon 026D",4,-1.29,4.85
+"Wandsworth 031B",4,-1.29,4.85
+"Merton 010B",4,-1.29,4.85
+"Bromley 028D",4,-1.29,4.85
+"Harrow 009D",4,-1.29,4.85
+"Richmond upon Thames 009A",4,-1.29,4.85
+"Barnet 009E",4,-1.29,4.85
+"Kingston upon Thames 014A",4,-1.29,4.85
+"Ealing 013D",4,-1.29,4.85
+"Bromley 018E",4,-1.29,4.85
+"Harrow 005B",4,-1.29,4.85
+"Hillingdon 008C",4,-1.29,4.85
+"Redbridge 023E",4,-1.29,4.85
+"Bexley 025A",4,-1.29,4.85
+"Kingston upon Thames 002D",4,-1.29,4.85
+"Redbridge 009A",4,-1.29,4.85
+"Richmond upon Thames 015G",4,-1.29,4.85
+"Ealing 013C",4,-1.29,4.85
+"Lambeth 019C",4,-1.29,4.85
+"Barnet 004C",4,-1.29,4.85
+"Harrow 032C",4,-1.29,4.85
+"Hammersmith and Fulham 022C",4,-1.29,4.85
+"Richmond upon Thames 019B",4,-1.29,4.85
+"Hammersmith and Fulham 021C",4,-1.29,4.85
+"Hackney 003C",4,-1.29,4.85
+"Bexley 022B",4,-1.29,4.85
+"Ealing 028C",4,-1.29,4.85
+"Croydon 044A",4,-1.29,4.85
+"Redbridge 014B",4,-1.29,4.85
+"Bexley 029B",4,-1.29,4.85
+"Merton 021C",4,-1.29,4.85
+"Croydon 038E",4,-1.29,4.85
+"Barnet 020E",4,-1.29,4.85
+"Croydon 029D",4,-1.29,4.85
+"Lewisham 015C",4,-1.29,4.85
+"Croydon 043D",4,-1.29,4.85
+"Croydon 021A",4,-1.29,4.85
+"Lewisham 008F",4,-1.29,4.85
+"Wandsworth 027C",4,-1.29,4.85
+"Harrow 009C",4,-1.29,4.85
+"Brent 030D",4,-1.29,4.85
+"Wandsworth 009B",4,-1.29,4.85
+"Hillingdon 014A",4,-1.29,4.85
+"Croydon 033C",4,-1.29,4.85
+"Harrow 010E",4,-1.29,4.85
+"Redbridge 012C",4,-1.29,4.85
+"Havering 009B",4,-1.29,4.85
+"Sutton 022D",4,-1.29,4.85
+"Lewisham 001G",4,-1.29,4.85
+"Greenwich 032D",4,-1.29,4.85
+"Sutton 010D",4,-1.29,4.85
+"Richmond upon Thames 022B",4,-1.29,4.85
+"Harrow 027C",4,-1.29,4.85
+"Croydon 041D",4,-1.29,4.85
+"Croydon 037D",4,-1.29,4.85
+"Sutton 021B",4,-1.29,4.85
+"Harrow 001C",4,-1.29,4.85
+"Enfield 017D",4,-1.29,4.85
+"Redbridge 035B",4,-1.29,4.85
+"Enfield 017C",4,-1.29,4.85
+"Barnet 003B",4,-1.29,4.85
+"Bexley 017A",4,-1.29,4.85
+"Enfield 021A",4,-1.29,4.85
+"Barnet 005A",4,-1.29,4.85
+"Hammersmith and Fulham 009D",4,-1.29,4.85
+"Merton 011B",4,-1.29,4.85
+"Bexley 007A",4,-1.29,4.85
+"Harrow 022A",4,-1.29,4.85
+"Havering 014C",4,-1.29,4.85
+"Ealing 021C",4,-1.29,4.85
+"Croydon 038D",4,-1.29,4.85
+"Merton 010C",4,-1.29,4.85
+"Havering 021C",4,-1.29,4.85
+"Havering 025E",4,-1.29,4.85
+"Hammersmith and Fulham 008B",4,-1.29,4.85
+"Wandsworth 028E",4,-1.29,4.85
+"Barnet 011D",4,-1.29,4.85
+"Richmond upon Thames 008D",4,-1.29,4.85
+"Bexley 023E",4,-1.29,4.85
+"Croydon 009C",4,-1.29,4.85
+"Bromley 007D",4,-1.29,4.85
+"Lewisham 007E",4,-1.29,4.85
+"Bexley 018B",4,-1.29,4.85
+"Enfield 008D",4,-1.29,4.85
+"Brent 016D",4,-1.29,4.85
+"Hillingdon 007B",4,-1.29,4.85
+"Harrow 015D",4,-1.29,4.85
+"Bexley 020E",4,-1.29,4.85
+"Greenwich 020C",4,-1.29,4.85
+"Richmond upon Thames 009C",4,-1.29,4.85
+"Havering 005B",4,-1.29,4.85
+"Hounslow 019E",4,-1.29,4.85
+"Merton 021B",4,-1.29,4.85
+"Barnet 020C",4,-1.29,4.85
+"Sutton 011D",4,-1.29,4.85
+"Hackney 001E",4,-1.29,4.85
+"Sutton 008E",4,-1.29,4.85
+"Kingston upon Thames 003C",4,-1.29,4.85
+"Hillingdon 017D",4,-1.29,4.85
+"Bexley 015D",4,-1.29,4.85
+"Harrow 031E",4,-1.29,4.85
+"Hounslow 007F",4,-1.29,4.85
+"Greenwich 007F",4,-1.29,4.85
+"Hounslow 007A",4,-1.29,4.85
+"Harrow 023F",4,-1.29,4.85
+"Enfield 017B",4,-1.29,4.85
+"Merton 001A",4,-1.29,4.85
+"Newham 042H",4,-1.29,4.85
+"Kingston upon Thames 013C",4,-1.29,4.85
+"Ealing 004B",4,-1.29,4.85
+"Enfield 028B",4,-1.29,4.85
+"Bromley 032E",4,-1.29,4.85
+"Bexley 006D",4,-1.29,4.85
+"Croydon 046A",4,-1.29,4.85
+"Lewisham 023E",4,-1.29,4.85
+"Havering 021E",4,-1.29,4.85
+"Richmond upon Thames 012A",4,-1.29,4.85
+"Greenwich 032A",4,-1.29,4.85
+"Croydon 035A",4,-1.29,4.85
+"Merton 021E",4,-1.29,4.85
+"Croydon 039D",4,-1.29,4.85
+"Bexley 019D",4,-1.29,4.85
+"Sutton 007D",4,-1.29,4.85
+"Kingston upon Thames 012D",4,-1.29,4.85
+"Harrow 003D",4,-1.29,4.85
+"Newham 042C",4,-1.29,4.85
+"Wandsworth 025D",4,-1.29,4.85
+"Ealing 019C",4,-1.29,4.85
+"Bromley 021C",4,-1.29,4.85
+"Havering 024B",4,-1.29,4.85
+"Croydon 045B",4,-1.29,4.85
+"Kingston upon Thames 008E",4,-1.29,4.85
+"Waltham Forest 015B",4,-1.29,4.85
+"Croydon 034B",4,-1.29,4.85
+"Sutton 020D",4,-1.29,4.85
+"Croydon 032C",4,-1.29,4.85
+"Richmond upon Thames 015A",4,-1.29,4.85
+"Sutton 014D",4,-1.29,4.85
+"Barnet 042E",4,-1.29,4.85
+"Barnet 037F",4,-1.29,4.85
+"Bromley 020E",4,-1.29,4.85
+"Barnet 025B",4,-1.29,4.85
+"Croydon 042D",4,-1.29,4.85
+"Bromley 023D",4,-1.29,4.85
+"Hillingdon 005B",4,-1.29,4.85
+"Bromley 022D",4,-1.29,4.85
+"Croydon 004B",4,-1.29,4.85
+"Bromley 002E",4,-1.29,4.85
+"Tower Hamlets 031C",4,-1.29,4.85
+"Harrow 010C",4,-1.29,4.85
+"Redbridge 006A",4,-1.29,4.85
+"Kingston upon Thames 020A",4,-1.29,4.85
+"Camden 004C",4,-1.29,4.85
+"Newham 032E",4,-1.29,4.85
+"Bexley 014E",4,-1.29,4.85
+"Hillingdon 015I",4,-1.29,4.85
+"Harrow 010A",4,-1.29,4.85
+"Ealing 035C",4,-1.29,4.85
+"Enfield 019D",4,-1.29,4.85
+"Croydon 043B",4,-1.29,4.85
+"Merton 011C",4,-1.29,4.85
+"Croydon 033B",4,-1.29,4.85
+"Barnet 012C",4,-1.29,4.85
+"Enfield 013A",4,-1.29,4.85
+"Sutton 013A",4,-1.29,4.85
+"Havering 026D",4,-1.29,4.85
+"Merton 020A",4,-1.29,4.85
+"Ealing 002D",4,-1.29,4.85
+"Hillingdon 010C",4,-1.29,4.85
+"Havering 025C",3,-1.68,1.22
+"Bromley 030G",3,-1.68,1.22
+"Hillingdon 008A",3,-1.68,1.22
+"Richmond upon Thames 023C",3,-1.68,1.22
+"Kingston upon Thames 010D",3,-1.68,1.22
+"Kingston upon Thames 014C",3,-1.68,1.22
+"Barnet 005C",3,-1.68,1.22
+"Bromley 027D",3,-1.68,1.22
+"Kingston upon Thames 007D",3,-1.68,1.22
+"Bromley 032D",3,-1.68,1.22
+"Bromley 024B",3,-1.68,1.22
+"Hillingdon 006E",3,-1.68,1.22
+"Hillingdon 007A",3,-1.68,1.22
+"Sutton 018D",3,-1.68,1.22
+"Merton 010E",3,-1.68,1.22
+"Bexley 022E",3,-1.68,1.22
+"Sutton 022A",3,-1.68,1.22
+"Merton 021D",3,-1.68,1.22
+"Sutton 003D",3,-1.68,1.22
+"Kingston upon Thames 015C",3,-1.68,1.22
+"Bromley 024D",3,-1.68,1.22
+"Bromley 021D",3,-1.68,1.22
+"Richmond upon Thames 023A",3,-1.68,1.22
+"Kingston upon Thames 002B",3,-1.68,1.22
+"Richmond upon Thames 016D",3,-1.68,1.22
+"Southwark 035D",3,-1.68,1.22
+"Sutton 022B",3,-1.68,1.22
+"Kingston upon Thames 013D",3,-1.68,1.22
+"Bromley 035A",3,-1.68,1.22
+"Redbridge 012D",3,-1.68,1.22
+"Barnet 001B",3,-1.68,1.22
+"Sutton 022E",3,-1.68,1.22
+"Redbridge 001D",3,-1.68,1.22
+"Enfield 016A",3,-1.68,1.22
+"Bexley 025D",3,-1.68,1.22
+"Richmond upon Thames 016B",3,-1.68,1.22
+"Kingston upon Thames 010B",3,-1.68,1.22
+"Bromley 035D",3,-1.68,1.22
+"Merton 020B",3,-1.68,1.22
+"Hammersmith and Fulham 008C",3,-1.68,1.22
+"Barnet 008B",3,-1.68,1.22
+"Harrow 017B",3,-1.68,1.22
+"Bexley 016D",3,-1.68,1.22
+"Bexley 014C",3,-1.68,1.22
+"Bexley 009F",3,-1.68,1.22
+"Sutton 008C",3,-1.68,1.22
+"Richmond upon Thames 018C",3,-1.68,1.22
+"Hillingdon 005D",3,-1.68,1.22
+"Merton 001C",3,-1.68,1.22
+"Harrow 033A",3,-1.68,1.22
+"Havering 014E",3,-1.68,1.22
+"Hillingdon 010A",3,-1.68,1.22
+"Bexley 011E",3,-1.68,1.22
+"Kingston upon Thames 008A",3,-1.68,1.22
+"Bromley 025E",3,-1.68,1.22
+"Bexley 024A",3,-1.68,1.22
+"Hillingdon 018E",3,-1.68,1.22
+"Bexley 022A",3,-1.68,1.22
+"Harrow 012B",3,-1.68,1.22
+"Harrow 008B",3,-1.68,1.22
+"Harrow 006B",3,-1.68,1.22
+"Hillingdon 011E",3,-1.68,1.22
+"Enfield 009C",3,-1.68,1.22
+"Hillingdon 004D",3,-1.68,1.22
+"Havering 021A",3,-1.68,1.22
+"Richmond upon Thames 023D",3,-1.68,1.22
+"Bromley 028B",3,-1.68,1.22
+"Kingston upon Thames 001C",3,-1.68,1.22
+"Bromley 031A",3,-1.68,1.22
+"Richmond upon Thames 015B",3,-1.68,1.22
+"Brent 008E",3,-1.68,1.22
+"Merton 006C",3,-1.68,1.22
+"Havering 025D",3,-1.68,1.22
+"Harrow 004B",3,-1.68,1.22
+"Croydon 035E",3,-1.68,1.22
+"Havering 024E",3,-1.68,1.22
+"Havering 024C",3,-1.68,1.22
+"Tower Hamlets 034A",3,-1.68,1.22
+"Wandsworth 015E",3,-1.68,1.22
+"Merton 021A",3,-1.68,1.22
+"Ealing 016F",3,-1.68,1.22
+"Kingston upon Thames 001A",3,-1.68,1.22
+"Richmond upon Thames 001F",3,-1.68,1.22
+"Bromley 025C",3,-1.68,1.22
+"Southwark 035E",3,-1.68,1.22
+"Bromley 030E",3,-1.68,1.22
+"Bexley 020B",3,-1.68,1.22
+"Bexley 027C",3,-1.68,1.22
+"Bromley 029A",3,-1.68,1.22
+"Tower Hamlets 032F",3,-1.68,1.22
+"Bromley 031E",3,-1.68,1.22
+"Wandsworth 015D",3,-1.68,1.22
+"Bexley 011C",3,-1.68,1.22
+"Bromley 034C",3,-1.68,1.22
+"Croydon 037F",3,-1.68,1.22
+"Havering 020B",3,-1.68,1.22
+"Croydon 039A",3,-1.68,1.22
+"Kingston upon Thames 014E",3,-1.68,1.22
+"Bexley 024B",3,-1.68,1.22
+"Sutton 009A",3,-1.68,1.22
+"Bexley 009B",3,-1.68,1.22
+"Redbridge 015C",3,-1.68,1.22
+"Kingston upon Thames 008D",3,-1.68,1.22
+"Bromley 041A",3,-1.68,1.22
+"Merton 011D",3,-1.68,1.22
+"Sutton 003E",3,-1.68,1.22
+"Barnet 020A",3,-1.68,1.22
+"Barnet 020B",3,-1.68,1.22
+"Kingston upon Thames 001E",3,-1.68,1.22
+"Bromley 030D",3,-1.68,1.22
+"Harrow 016A",3,-1.68,1.22
+"Hillingdon 001E",3,-1.68,1.22
+"Havering 007B",3,-1.68,1.22
+"Richmond upon Thames 008C",3,-1.68,1.22
+"Bromley 039E",3,-1.68,1.22
+"Croydon 034H",3,-1.68,1.22
+"Harrow 022D",3,-1.68,1.22
+"Sutton 016D",3,-1.68,1.22
+"Barnet 016C",3,-1.68,1.22
+"Merton 020C",3,-1.68,1.22
+"Waltham Forest 007E",3,-1.68,1.22
+"Merton 006D",3,-1.68,1.22
+"Havering 010E",3,-1.68,1.22
+"Enfield 013D",3,-1.68,1.22
+"Havering 015D",3,-1.68,1.22
+"Bexley 006C",3,-1.68,1.22
+"Islington 011F",3,-1.68,1.22
+"Harrow 032D",3,-1.68,1.22
+"Hillingdon 009C",3,-1.68,1.22
+"Croydon 025A",3,-1.68,1.22
+"Havering 019A",3,-1.68,1.22
+"Wandsworth 026C",3,-1.68,1.22
+"Croydon 033D",3,-1.68,1.22
+"Bromley 031C",3,-1.68,1.22
+"Enfield 022A",3,-1.68,1.22
+"Hackney 026F",3,-1.68,1.22
+"Richmond upon Thames 020A",3,-1.68,1.22
+"Sutton 025D",3,-1.68,1.22
+"Bexley 014A",3,-1.68,1.22
+"Hackney 028E",3,-1.68,1.22
+"Wandsworth 027E",3,-1.68,1.22
+"Richmond upon Thames 015D",3,-1.68,1.22
+"Hillingdon 009B",3,-1.68,1.22
+"Kingston upon Thames 001B",3,-1.68,1.22
+"Havering 020A",3,-1.68,1.22
+"Enfield 022C",3,-1.68,1.22
+"Bexley 027E",3,-1.68,1.22
+"Bexley 024E",3,-1.68,1.22
+"Kingston upon Thames 002E",3,-1.68,1.22
+"Kingston upon Thames 004H",3,-1.68,1.22
+"Barnet 009A",3,-1.68,1.22
+"Bromley 035E",3,-1.68,1.22
+"Croydon 039B",3,-1.68,1.22
+"Harrow 015B",3,-1.68,1.22
+"Croydon 043C",3,-1.68,1.22
+"Croydon 042C",3,-1.68,1.22
+"Harrow 022B",3,-1.68,1.22
+"Kingston upon Thames 019B",3,-1.68,1.22
+"Merton 025B",3,-1.68,1.22
+"Harrow 002C",3,-1.68,1.22
+"Enfield 019E",3,-1.68,1.22
+"Bexley 024D",3,-1.68,1.22
+"Tower Hamlets 004H",3,-1.68,1.22
+"Croydon 043A",3,-1.68,1.22
+"Redbridge 001A",3,-1.68,1.22
+"Harrow 006E",3,-1.68,1.22
+"Hillingdon 013B",3,-1.68,1.22
+"Sutton 008A",3,-1.68,1.22
+"Bromley 027C",3,-1.68,1.22
+"Wandsworth 010G",3,-1.68,1.22
+"Croydon 040A",3,-1.68,1.22
+"Brent 007A",3,-1.68,1.22
+"Merton 005D",3,-1.68,1.22
+"Kingston upon Thames 020D",3,-1.68,1.22
+"Sutton 016E",3,-1.68,1.22
+"Harrow 033D",3,-1.68,1.22
+"Kingston upon Thames 002A",3,-1.68,1.22
+"Hillingdon 006B",3,-1.68,1.22
+"Harrow 032E",3,-1.68,1.22
+"Wandsworth 031D",3,-1.68,1.22
+"Bromley 025A",3,-1.68,1.22
+"Havering 012C",2,-2.23,0.10
+"Richmond upon Thames 015E",2,-2.23,0.10
+"Kingston upon Thames 015A",2,-2.23,0.10
+"Havering 015B",2,-2.23,0.10
+"Kingston upon Thames 016A",2,-2.23,0.10
+"Haringey 009C",2,-2.23,0.10
+"Bexley 016F",2,-2.23,0.10
+"Merton 003B",2,-2.23,0.10
+"Sutton 009D",2,-2.23,0.10
+"Kingston upon Thames 008C",2,-2.23,0.10
+"Bromley 025B",2,-2.23,0.10
+"Bexley 013E",2,-2.23,0.10
+"Sutton 008B",2,-2.23,0.10
+"Merton 015B",2,-2.23,0.10
+"Sutton 006A",2,-2.23,0.10
+"Bromley 030C",2,-2.23,0.10
+"Havering 018A",2,-2.23,0.10
+"Croydon 034G",2,-2.23,0.10
+"Hillingdon 011D",2,-2.23,0.10
+"Croydon 035B",2,-2.23,0.10
+"Harrow 019D",2,-2.23,0.10
+"Harrow 004C",2,-2.23,0.10
+"Brent 002B",2,-2.23,0.10
+"Bexley 018C",2,-2.23,0.10
+"Havering 018B",2,-2.23,0.10
+"Merton 015C",2,-2.23,0.10
+"Islington 006F",2,-2.23,0.10
+"Croydon 044B",2,-2.23,0.10
+"Hillingdon 011A",2,-2.23,0.10
+"Harrow 025A",2,-2.23,0.10
+"Brent 004D",2,-2.23,0.10
+"Bromley 028E",2,-2.23,0.10
+"Kingston upon Thames 018C",2,-2.23,0.10
+"Merton 011A",2,-2.23,0.10
+"Sutton 009E",2,-2.23,0.10
+"Bromley 030F",2,-2.23,0.10
+"Merton 002D",2,-2.23,0.10
+"Bexley 016C",2,-2.23,0.10
+"Harrow 004D",2,-2.23,0.10
+"Bromley 031D",2,-2.23,0.10
+"Bromley 037E",2,-2.23,0.10
+"Bexley 022D",2,-2.23,0.10
+"Bexley 023D",2,-2.23,0.10
+"Merton 002B",2,-2.23,0.10
+"Hillingdon 010D",2,-2.23,0.10
+"Havering 022A",2,-2.23,0.10
+"Hillingdon 001C",2,-2.23,0.10
+"Bexley 025E",2,-2.23,0.10
+"Bexley 020A",2,-2.23,0.10
+"Bexley 007D",2,-2.23,0.10
+"Bromley 021E",2,-2.23,0.10
+"Havering 023C",2,-2.23,0.10
+"Hillingdon 006C",2,-2.23,0.10
+"Bexley 009D",2,-2.23,0.10
+"Kingston upon Thames 012C",2,-2.23,0.10
+"Bexley 025C",2,-2.23,0.10
+"Hillingdon 011B",1,-3.18,0.00
+"City of London 001F",1,-3.18,0.00
+"City of London 001E",1,-3.18,0.00
+"City of London 001G",1,-3.18,0.00
+"Tower Hamlets 031F",1,-3.18,0.00
